@@ -1,0 +1,898 @@
+[
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.4299999475479126
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.760000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.590000152587891
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.8600000143051147
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.170000076293945
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.670000076293945
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.7999999523162842
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 13.300000190734863
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.420000076293945
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.760000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 14.520000457763672
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.909999847412109
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 13.470000267028809
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.470000267028809
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.770000457763672
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 13.949999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.860000133514404
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.470000267028809
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.079999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.739999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.109999656677246
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.920000076293945
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.349999904632568
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.649999618530273
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.029999732971191
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.639999866485596
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.0600004196167
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.699999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.510000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.399999618530273
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.630000114440918
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.989999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 14.010000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.079999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.430000305175781
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.520000457763672
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.350000381469727
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.729999542236328
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.579999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.679999828338623
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.539999961853027
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.610000133514404
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.570000171661377
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.550000190734863
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.579999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.010000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.539999961853027
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.920000076293945
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.989999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.300000190734863
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.079999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.239999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.359999656677246
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.829999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.180000305175781
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.859999656677246
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.399999618530273
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.510000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.359999656677246
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.820000171661377
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.4399995803833
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.1899995803833
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.730000019073486
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.199999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.59000015258789
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.320000171661377
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.479999542236328
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.199999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.840000152587891
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.510000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.34000015258789
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.320000171661377
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.390000343322754
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.3100004196167
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.679999828338623
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.260000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.359999656677246
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.409999847412109
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.4399995803833
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.829999923706055
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.659999847412109
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.25
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.760000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.510000228881836
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.449999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.720000267028809
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.71999979019165
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.220000267028809
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.239999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.869999885559082
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.599999904632568
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.75
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.539999961853027
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.690000057220459
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.8300000429153442
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.480000019073486
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2019,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.699999809265137
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2005,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.489999771118164
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2008,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.529999732971191
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.759999990463257
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.4399995803833
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.759999990463257
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2011,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.390000343322754
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.809999942779541
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2012,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.53000020980835
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.759999990463257
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2013,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.440000057220459
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.3700000047683716
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.050000190734863
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2014,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.670000076293945
+  }
+]

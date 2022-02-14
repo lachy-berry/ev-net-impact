@@ -1,0 +1,1106 @@
+[
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.729999542236328
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.859999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.4399995803833
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.059999942779541
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.649999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.409999847412109
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.220000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.050000190734863
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.619999885559082
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.479999542236328
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.09000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.359999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.319999933242798
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.869999885559082
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.619999885559082
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.139999866485596
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.40999984741211
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.460000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.619999885559082
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.210000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.079999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.25
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.970000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.779999732971191
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.730000019073486
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.119999885559082
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.829999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.610000133514404
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.279999732971191
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.260000228881836
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.679999828338623
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.15999984741211
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.989999771118164
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.409999847412109
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.09000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.710000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.329999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.970000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.970000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.779999732971191
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.630000114440918
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.59000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.489999771118164
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.430000305175781
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.3100004196167
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.229999542236328
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.270000457763672
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.659999847412109
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.970000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.239999771118164
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.460000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.079999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.279999732971191
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.630000114440918
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.789999961853027
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.149999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.46999979019165
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.289999961853027
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.470000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.679999828338623
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.729999542236328
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.900000095367432
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.539999961853027
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.329999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.4399995803833
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.690000057220459
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.649999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.570000171661377
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.820000171661377
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.3100004196167
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.739999771118164
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.25
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.550000190734863
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.020000457763672
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.09000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.210000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.850000381469727
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.640000343322754
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.3100004196167
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.640000343322754
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.819999694824219
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.679999828338623
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.649999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.859999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.0600004196167
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.59000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2012,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.489999771118164
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.710000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.390000343322754
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.630000114440918
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.980000019073486
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.359999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2013,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.399999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.610000133514404
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.329999923706055
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.40999984741211
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.270000457763672
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.5600004196167
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.949999809265137
+  },
+  {
+    "Country": "Russia",
+    "Year": 2005,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.109999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.399999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.699999809265137
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.380000114440918
+  },
+  {
+    "Country": "Russia",
+    "Year": 2008,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.720000267028809
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.84000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.180000305175781
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.390000343322754
+  },
+  {
+    "Country": "Russia",
+    "Year": 2010,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.960000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.760000228881836
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.5
+  },
+  {
+    "Country": "Russia",
+    "Year": 2011,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.880000114440918
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.340000033378601
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.269999980926514
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.520000457763672
+  },
+  {
+    "Country": "Russia",
+    "Year": 2014,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.899999976158142
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.889999866485596
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.3600000143051147
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.699999809265137
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.479999542236328
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.899999976158142
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.730000019073486
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.559999942779541
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.860000133514404
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.359999656677246
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.990000009536743
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.409999847412109
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.5700000524520874
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.710000038146973
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.300000190734863
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.0399999618530273
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.46999979019165
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.5999999046325684
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.269999980926514
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.34000015258789
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.0899999141693115
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.260000228881836
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.6600000858306885
+  },
+  {
+    "Country": "Russia",
+    "Year": 2019,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.340000152587891
+  }
+]

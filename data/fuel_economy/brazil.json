@@ -1,0 +1,802 @@
+[
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.9700000286102295
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.269999980926514
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.720000267028809
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.049999952316284
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.7200000286102295
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.289999961853027
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.889999866485596
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.239999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.679999828338623
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.699999809265137
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.4399995803833
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.809999942779541
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.210000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.46999979019165
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.520000457763672
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.069999694824219
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.829999923706055
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.010000228881836
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.460000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.229999542236328
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.779999732971191
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.789999961853027
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.9399995803833
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2008,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.449999809265137
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2008,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.84000015258789
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.020000457763672
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.619999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.710000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2011,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.770000457763672
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2011,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.489999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2011,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.710000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.960000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.59000015258789
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.380000114440918
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.960000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.890000104904175
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.039999961853027
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.670000076293945
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.739999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.960000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.3300000429153442
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.599999904632568
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.449999809265137
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.899999976158142
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.270000457763672
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.119999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.649999976158142
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2005,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.90999984741211
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2005,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2005,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.260000228881836
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2008,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.289999961853027
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.989999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.069999694824219
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.960000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.59000015258789
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.119999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.579999923706055
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.5099999904632568
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2012,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.109999656677246
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.199999809265137
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.929999828338623
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.849999904632568
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.639999866485596
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.610000133514404
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.559999942779541
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.510000228881836
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.739999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2013,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.9399995803833
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.329999923706055
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.84000015258789
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.020000457763672
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.0600004196167
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2014,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.380000114440918
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.21999979019165
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.880000114440918
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.949999809265137
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.819999694824219
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.359999656677246
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.319999694824219
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.619999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.539999961853027
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.119999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.920000076293945
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.3100004196167
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.210000038146973
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.720000267028809
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.470000267028809
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.880000114440918
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.869999885559082
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Flexfuel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.239999771118164
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.5
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2019,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.700000047683716
+  }
+]
