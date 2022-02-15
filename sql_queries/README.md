@@ -11,7 +11,7 @@ Each query corresponds to a Tableau Online visualisation and is described below.
 ![image](https://user-images.githubusercontent.com/95948405/153863631-118ef6f7-b759-4c6b-9d24-bb9785d3caaf.png)
 
 ### Query 1
-* Displays emissions by production source as a percentage of total production by year and country or continent.
+* Displays electricity production by source as a percentage of total production by year and country or continent.
 * Visual: 100% bar chart colour-coded by electricity source, showing change from 1985 to 2020 for top producing countries/continents.
 
 ![image](https://user-images.githubusercontent.com/95948405/153857976-c776f07a-612d-4b6a-bbe6-443447b31e30.png)
