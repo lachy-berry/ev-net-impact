@@ -1,0 +1,2762 @@
+region,year,product,lge_per_100km
+Argentina,2005,Diesel,7.32
+Argentina,2005,Petrol,8.68
+Argentina,2008,CNG,8.69
+Argentina,2008,Diesel,7.98
+Argentina,2008,Petrol,8.41
+Argentina,2010,Diesel,9.0
+Argentina,2010,Petrol,7.78
+Argentina,2011,Diesel,9.18
+Argentina,2011,Petrol,7.86
+Argentina,2012,All vehicles,7.92
+Argentina,2012,City car,7.65
+Argentina,2012,Diesel,8.39
+Argentina,2012,Large car,8.7
+Argentina,2012,Large SUV/Pick-up,9.24
+Argentina,2012,Medium car,8.19
+Argentina,2012,Petrol,7.85
+Argentina,2012,Small SUV/Pick-up,8.86
+Argentina,2012,Van/LCV,7.19
+Argentina,2013,All vehicles,7.93
+Argentina,2013,City car,7.58
+Argentina,2013,Diesel,8.5
+Argentina,2013,Large car,8.63
+Argentina,2013,Large SUV/Pick-up,9.19
+Argentina,2013,Medium car,8.22
+Argentina,2013,Petrol,7.85
+Argentina,2013,Small SUV/Pick-up,8.87
+Argentina,2013,Van/LCV,7.2
+Argentina,2014,All vehicles,7.77
+Argentina,2014,City car,7.3
+Argentina,2014,Diesel,8.19
+Argentina,2014,Hybrid,9.81
+Argentina,2014,Large car,8.73
+Argentina,2014,Large SUV/Pick-up,8.78
+Argentina,2014,Medium car,7.95
+Argentina,2014,Petrol,7.71
+Argentina,2014,Small SUV/Pick-up,8.8
+Argentina,2014,Van/LCV,7.75
+Argentina,2015,All vehicles,7.73
+Argentina,2015,City car,7.39
+Argentina,2015,Diesel,8.29
+Argentina,2015,Large car,8.54
+Argentina,2015,Large SUV/Pick-up,8.76
+Argentina,2015,Medium car,7.58
+Argentina,2015,Petrol,7.63
+Argentina,2015,Small SUV/Pick-up,8.6
+Argentina,2015,Van/LCV,7.5
+Argentina,2016,All vehicles,7.86
+Argentina,2016,City car,7.29
+Argentina,2016,Diesel,8.05
+Argentina,2016,Hybrid,4.41
+Argentina,2016,Large car,8.33
+Argentina,2016,Large SUV/Pick-up,8.88
+Argentina,2016,Medium car,7.77
+Argentina,2016,Petrol,7.81
+Argentina,2016,Small SUV/Pick-up,8.84
+Argentina,2016,Van/LCV,7.88
+Argentina,2017,All vehicles,7.96
+Argentina,2017,City car,7.5
+Argentina,2017,Diesel,8.18
+Argentina,2017,Hybrid,4.41
+Argentina,2017,Large car,8.69
+Argentina,2017,Large SUV/Pick-up,8.81
+Argentina,2017,Medium car,7.62
+Argentina,2017,Petrol,7.89
+Argentina,2017,Small SUV/Pick-up,8.96
+Argentina,2017,Van/LCV,8.21
+Argentina,2018,All vehicles,7.69
+Argentina,2018,City car,7.16
+Argentina,2018,Diesel,8.34
+Argentina,2018,Electric,1.84
+Argentina,2018,Hybrid,4.42
+Argentina,2018,Large car,8.83
+Argentina,2018,Large SUV/Pick-up,9.3
+Argentina,2018,Medium car,7.2
+Argentina,2018,Petrol,7.57
+Argentina,2018,Plug-in,2.88
+Argentina,2018,Small SUV/Pick-up,8.42
+Argentina,2018,Van/LCV,7.71
+Argentina,2019,All vehicles,7.75
+Argentina,2019,City car,7.16
+Argentina,2019,Diesel,8.62
+Argentina,2019,Electric,1.99
+Argentina,2019,Hybrid,4.86
+Argentina,2019,Large car,8.74
+Argentina,2019,Large SUV/Pick-up,9.31
+Argentina,2019,Medium car,7.02
+Argentina,2019,Petrol,7.57
+Argentina,2019,Plug-in,2.88
+Argentina,2019,Small SUV/Pick-up,8.33
+Argentina,2019,Van/LCV,7.61
+Australia,2005,All vehicles,10.46
+Australia,2005,City car,7.3
+Australia,2005,Diesel,10.5
+Australia,2005,Hybrid,4.96
+Australia,2005,Large car,11.39
+Australia,2005,Large SUV/Pick-up,12.28
+Australia,2005,LPG,11.51
+Australia,2005,Medium car,8.58
+Australia,2005,Petrol,10.46
+Australia,2005,Small SUV/Pick-up,11.84
+Australia,2005,Van/LCV,10.9
+Australia,2008,All vehicles,9.83
+Australia,2008,City car,7.27
+Australia,2008,Diesel,9.59
+Australia,2008,Hybrid,4.98
+Australia,2008,Large car,11.03
+Australia,2008,Large SUV/Pick-up,11.43
+Australia,2008,LPG,11.51
+Australia,2008,Medium car,8.6
+Australia,2008,Petrol,9.9
+Australia,2008,Small SUV/Pick-up,10.25
+Australia,2008,Van/LCV,11.48
+Australia,2010,All vehicles,9.54
+Australia,2010,City car,7.1
+Australia,2010,Diesel,9.39
+Australia,2010,Hybrid,5.75
+Australia,2010,Large car,10.16
+Australia,2010,Large SUV/Pick-up,11.12
+Australia,2010,LPG,13.87
+Australia,2010,Medium car,8.5
+Australia,2010,Petrol,9.6
+Australia,2010,Small SUV/Pick-up,10.11
+Australia,2010,Van/LCV,10.38
+Australia,2011,All vehicles,9.31
+Australia,2011,City car,6.99
+Australia,2011,Diesel,9.27
+Australia,2011,Hybrid,5.57
+Australia,2011,Large car,9.77
+Australia,2011,Large SUV/Pick-up,10.9
+Australia,2011,LPG,13.46
+Australia,2011,Medium car,8.43
+Australia,2011,Petrol,9.37
+Australia,2011,Small SUV/Pick-up,9.78
+Australia,2011,Van/LCV,10.1
+Australia,2012,All vehicles,9.03
+Australia,2012,City car,7.02
+Australia,2012,Diesel,9.18
+Australia,2012,Electric,2.01
+Australia,2012,Hybrid,5.42
+Australia,2012,Large car,8.89
+Australia,2012,Large SUV/Pick-up,10.72
+Australia,2012,LPG,12.26
+Australia,2012,Medium car,8.09
+Australia,2012,Petrol,9.04
+Australia,2012,Small SUV/Pick-up,9.45
+Australia,2012,Van/LCV,10.08
+Australia,2013,All vehicles,8.77
+Australia,2013,City car,6.78
+Australia,2013,Diesel,9.08
+Australia,2013,Electric,2.01
+Australia,2013,Hybrid,5.36
+Australia,2013,Large car,8.69
+Australia,2013,Large SUV/Pick-up,10.5
+Australia,2013,LPG,12.48
+Australia,2013,Medium car,7.76
+Australia,2013,Petrol,8.68
+Australia,2013,Small SUV/Pick-up,8.98
+Australia,2013,Van/LCV,10.08
+Australia,2014,All vehicles,8.64
+Australia,2014,City car,6.73
+Australia,2014,Diesel,9.18
+Australia,2014,Electric,1.55
+Australia,2014,Hybrid,4.91
+Australia,2014,Large car,8.71
+Australia,2014,Large SUV/Pick-up,10.41
+Australia,2014,LPG,10.7
+Australia,2014,Medium car,7.53
+Australia,2014,Petrol,8.48
+Australia,2014,Plug-in,1.9
+Australia,2014,Small SUV/Pick-up,8.77
+Australia,2014,Van/LCV,8.01
+Australia,2015,All vehicles,8.54
+Australia,2015,City car,6.58
+Australia,2015,Diesel,9.07
+Australia,2015,Electric,1.42
+Australia,2015,Hybrid,5.16
+Australia,2015,Large car,8.58
+Australia,2015,Large SUV/Pick-up,10.18
+Australia,2015,LPG,10.71
+Australia,2015,Medium car,7.53
+Australia,2015,Petrol,8.39
+Australia,2015,Plug-in,1.9
+Australia,2015,Small SUV/Pick-up,8.61
+Australia,2015,Van/LCV,7.61
+Australia,2016,All vehicles,8.37
+Australia,2016,City car,6.54
+Australia,2016,Diesel,8.82
+Australia,2016,Electric,1.74
+Australia,2016,Hybrid,4.76
+Australia,2016,Large car,8.78
+Australia,2016,Large SUV/Pick-up,9.7
+Australia,2016,LPG,10.6
+Australia,2016,Medium car,7.37
+Australia,2016,Petrol,8.23
+Australia,2016,Plug-in,3.02
+Australia,2016,Small SUV/Pick-up,8.14
+Australia,2016,Van/LCV,10.19
+Australia,2017,All vehicles,8.32
+Australia,2017,City car,6.47
+Australia,2017,Diesel,8.95
+Australia,2017,Electric,1.57
+Australia,2017,Hybrid,4.71
+Australia,2017,Large car,9.02
+Australia,2017,Large SUV/Pick-up,9.67
+Australia,2017,LPG,10.6
+Australia,2017,Medium car,7.05
+Australia,2017,Petrol,8.08
+Australia,2017,Plug-in,2.92
+Australia,2017,Small SUV/Pick-up,8.01
+Australia,2017,Van/LCV,10.16
+Australia,2018,All vehicles,8.28
+Australia,2018,City car,6.39
+Australia,2018,Diesel,8.62
+Australia,2018,Electric,1.9
+Australia,2018,Hybrid,5.25
+Australia,2018,Large car,8.93
+Australia,2018,Large SUV/Pick-up,9.32
+Australia,2018,Medium car,7.27
+Australia,2018,Petrol,8.18
+Australia,2018,Plug-in,2.31
+Australia,2018,Small SUV/Pick-up,8.12
+Australia,2018,Van/LCV,8.82
+Australia,2019,All vehicles,8.27
+Australia,2019,City car,6.28
+Australia,2019,Diesel,8.73
+Australia,2019,Electric,2.02
+Australia,2019,Hybrid,4.91
+Australia,2019,Large car,8.63
+Australia,2019,Large SUV/Pick-up,9.33
+Australia,2019,Medium car,7.28
+Australia,2019,Petrol,8.23
+Australia,2019,Plug-in,2.35
+Australia,2019,Small SUV/Pick-up,8.08
+Australia,2019,Van/LCV,8.7
+Brazil,2005,Diesel,9.91
+Brazil,2005,Flexfuel,8.5
+Brazil,2005,Petrol,8.26
+Brazil,2008,Diesel,9.29
+Brazil,2008,Flexfuel,8.45
+Brazil,2008,Petrol,8.84
+Brazil,2010,Diesel,11.02
+Brazil,2010,Flexfuel,8.62
+Brazil,2010,Petrol,8.71
+Brazil,2011,Diesel,9.77
+Brazil,2011,Flexfuel,8.49
+Brazil,2011,Petrol,8.71
+Brazil,2012,All vehicles,8.11
+Brazil,2012,City car,7.89
+Brazil,2012,CNG,8.96
+Brazil,2012,Diesel,9.59
+Brazil,2012,Flexfuel,7.99
+Brazil,2012,Large SUV/Pick-up,10.24
+Brazil,2012,Medium car,7.68
+Brazil,2012,Petrol,9.07
+Brazil,2012,Small SUV/Pick-up,8.7
+Brazil,2012,Van/LCV,9.44
+Brazil,2013,All vehicles,8.2
+Brazil,2013,City car,7.81
+Brazil,2013,CNG,8.96
+Brazil,2013,Diesel,9.59
+Brazil,2013,Flexfuel,8.12
+Brazil,2013,Large SUV/Pick-up,10.21
+Brazil,2013,Medium car,7.74
+Brazil,2013,Petrol,8.58
+Brazil,2013,Small SUV/Pick-up,9.5
+Brazil,2013,Van/LCV,9.94
+Brazil,2014,All vehicles,7.93
+Brazil,2014,City car,7.33
+Brazil,2014,CNG,12.0
+Brazil,2014,Diesel,9.93
+Brazil,2014,Electric,1.51
+Brazil,2014,Flexfuel,7.67
+Brazil,2014,Large SUV/Pick-up,9.84
+Brazil,2014,Medium car,8.02
+Brazil,2014,Petrol,10.74
+Brazil,2014,Small SUV/Pick-up,9.06
+Brazil,2014,Van/LCV,9.38
+Brazil,2015,All vehicles,7.85
+Brazil,2015,City car,7.22
+Brazil,2015,CNG,12.0
+Brazil,2015,Diesel,9.96
+Brazil,2015,Electric,1.33
+Brazil,2015,Flexfuel,7.6
+Brazil,2015,Large SUV/Pick-up,9.88
+Brazil,2015,Medium car,7.95
+Brazil,2015,Petrol,10.45
+Brazil,2015,Plug-in,1.9
+Brazil,2015,Small SUV/Pick-up,8.82
+Brazil,2015,Van/LCV,9.36
+Brazil,2016,All vehicles,7.64
+Brazil,2016,City car,7.0
+Brazil,2016,CNG,11.27
+Brazil,2016,Diesel,10.12
+Brazil,2016,Electric,1.65
+Brazil,2016,Flexfuel,7.38
+Brazil,2016,Large SUV/Pick-up,10.32
+Brazil,2016,Medium car,7.62
+Brazil,2016,Petrol,8.96
+Brazil,2016,Plug-in,2.89
+Brazil,2016,Small SUV/Pick-up,8.54
+Brazil,2016,Van/LCV,8.12
+Brazil,2017,All vehicles,7.61
+Brazil,2017,City car,6.92
+Brazil,2017,Diesel,10.04
+Brazil,2017,Electric,1.97
+Brazil,2017,Flexfuel,7.27
+Brazil,2017,Large SUV/Pick-up,10.31
+Brazil,2017,Medium car,7.47
+Brazil,2017,Petrol,8.72
+Brazil,2017,Plug-in,3.05
+Brazil,2017,Small SUV/Pick-up,8.52
+Brazil,2017,Van/LCV,8.07
+Brazil,2018,All vehicles,7.56
+Brazil,2018,City car,6.83
+Brazil,2018,Diesel,9.93
+Brazil,2018,Electric,1.72
+Brazil,2018,Flexfuel,7.29
+Brazil,2018,Large SUV/Pick-up,10.01
+Brazil,2018,Medium car,7.46
+Brazil,2018,Petrol,9.47
+Brazil,2018,Plug-in,2.88
+Brazil,2018,Small SUV/Pick-up,8.23
+Brazil,2018,Van/LCV,8.78
+Brazil,2019,All vehicles,7.51
+Brazil,2019,City car,6.79
+Brazil,2019,Diesel,9.87
+Brazil,2019,Electric,2.0
+Brazil,2019,Flexfuel,7.24
+Brazil,2019,Large SUV/Pick-up,9.94
+Brazil,2019,Medium car,7.5
+Brazil,2019,Petrol,9.5
+Brazil,2019,Plug-in,2.7
+Brazil,2019,Small SUV/Pick-up,8.21
+Brazil,2019,Van/LCV,8.72
+Canada,2005,All vehicles,10.12
+Canada,2005,City car,7.31
+Canada,2005,Hybrid,7.94
+Canada,2005,Large car,9.99
+Canada,2005,Large SUV/Pick-up,13.65
+Canada,2005,Medium car,7.82
+Canada,2005,Petrol,10.11
+Canada,2005,Small SUV/Pick-up,11.18
+Canada,2005,Van/LCV,13.24
+Canada,2008,All vehicles,9.8
+Canada,2008,City car,6.97
+Canada,2008,Hybrid,5.93
+Canada,2008,Large car,9.95
+Canada,2008,Large SUV/Pick-up,13.54
+Canada,2008,Medium car,7.63
+Canada,2008,Petrol,9.47
+Canada,2008,Small SUV/Pick-up,10.5
+Canada,2008,Van/LCV,18.46
+Canada,2010,All vehicles,9.5
+Canada,2010,City car,6.75
+Canada,2010,Hybrid,5.88
+Canada,2010,Large car,9.3
+Canada,2010,Large SUV/Pick-up,12.23
+Canada,2010,Medium car,7.4
+Canada,2010,Petrol,9.19
+Canada,2010,Small SUV/Pick-up,9.43
+Canada,2010,Van/LCV,13.5
+Canada,2011,All vehicles,9.36
+Canada,2011,City car,6.7
+Canada,2011,Hybrid,5.68
+Canada,2011,Large car,9.08
+Canada,2011,Large SUV/Pick-up,12.01
+Canada,2011,Medium car,7.33
+Canada,2011,Petrol,9.06
+Canada,2011,Small SUV/Pick-up,9.31
+Canada,2011,Van/LCV,13.06
+Canada,2012,All vehicles,9.06
+Canada,2012,City car,6.29
+Canada,2012,Diesel,6.34
+Canada,2012,Hybrid,4.49
+Canada,2012,Large car,8.6
+Canada,2012,Large SUV/Pick-up,12.02
+Canada,2012,Medium car,7.02
+Canada,2012,Petrol,7.63
+Canada,2012,Small SUV/Pick-up,8.65
+Canada,2012,Van/LCV,11.17
+Canada,2013,All vehicles,8.83
+Canada,2013,City car,6.28
+Canada,2013,Diesel,6.36
+Canada,2013,Hybrid,4.77
+Canada,2013,Large car,8.37
+Canada,2013,Large SUV/Pick-up,11.3
+Canada,2013,Medium car,6.95
+Canada,2013,Petrol,7.52
+Canada,2013,Small SUV/Pick-up,8.61
+Canada,2013,Van/LCV,9.5
+Canada,2014,All vehicles,8.76
+Canada,2014,City car,6.28
+Canada,2014,Diesel,7.82
+Canada,2014,Electric,1.73
+Canada,2014,Hybrid,5.22
+Canada,2014,Large car,8.39
+Canada,2014,Large SUV/Pick-up,11.17
+Canada,2014,Medium car,6.63
+Canada,2014,Petrol,8.43
+Canada,2014,Small SUV/Pick-up,8.63
+Canada,2014,Van/LCV,14.11
+Canada,2015,All vehicles,8.8
+Canada,2015,City car,6.26
+Canada,2015,Diesel,7.74
+Canada,2015,Electric,1.81
+Canada,2015,Hybrid,5.15
+Canada,2015,Hydrogen,4.7
+Canada,2015,Large car,8.41
+Canada,2015,Large SUV/Pick-up,11.07
+Canada,2015,Medium car,6.6
+Canada,2015,Petrol,8.69
+Canada,2015,Plug-in,5.0
+Canada,2015,Small SUV/Pick-up,8.53
+Canada,2015,Van/LCV,13.08
+Canada,2016,All vehicles,8.88
+Canada,2016,City car,6.15
+Canada,2016,Diesel,8.26
+Canada,2016,Electric,2.09
+Canada,2016,Hybrid,5.18
+Canada,2016,Hydrogen,4.38
+Canada,2016,Large car,8.3
+Canada,2016,Large SUV/Pick-up,11.25
+Canada,2016,Medium car,6.46
+Canada,2016,Petrol,8.87
+Canada,2016,Plug-in,2.85
+Canada,2016,Small SUV/Pick-up,8.43
+Canada,2016,Van/LCV,11.97
+Canada,2017,All vehicles,8.91
+Canada,2017,City car,5.95
+Canada,2017,CNG,19.8
+Canada,2017,Diesel,7.85
+Canada,2017,Electric,1.93
+Canada,2017,Hybrid,5.08
+Canada,2017,Large car,8.24
+Canada,2017,Large SUV/Pick-up,11.43
+Canada,2017,Medium car,6.33
+Canada,2017,Petrol,8.94
+Canada,2017,Plug-in,2.78
+Canada,2017,Small SUV/Pick-up,8.32
+Canada,2017,Van/LCV,12.12
+Canada,2018,All vehicles,8.67
+Canada,2018,City car,5.88
+Canada,2018,CNG,22.79
+Canada,2018,Diesel,9.14
+Canada,2018,Electric,1.75
+Canada,2018,Hybrid,5.28
+Canada,2018,Hydrogen,4.04
+Canada,2018,Large car,8.27
+Canada,2018,Large SUV/Pick-up,10.95
+Canada,2018,Medium car,6.15
+Canada,2018,Petrol,8.75
+Canada,2018,Plug-in,3.71
+Canada,2018,Small SUV/Pick-up,8.16
+Canada,2018,Van/LCV,13.0
+Canada,2019,All vehicles,8.62
+Canada,2019,City car,5.53
+Canada,2019,CNG,22.75
+Canada,2019,Diesel,9.51
+Canada,2019,Electric,1.86
+Canada,2019,Hybrid,5.72
+Canada,2019,Hydrogen,3.96
+Canada,2019,Large car,8.03
+Canada,2019,Large SUV/Pick-up,10.89
+Canada,2019,Medium car,6.09
+Canada,2019,Petrol,8.77
+Canada,2019,Plug-in,3.44
+Canada,2019,Small SUV/Pick-up,7.99
+Canada,2019,Van/LCV,12.81
+Chile,2005,All vehicles,8.54
+Chile,2005,City car,7.99
+Chile,2005,Diesel,9.0
+Chile,2005,Large SUV/Pick-up,10.58
+Chile,2005,Medium car,8.07
+Chile,2005,Petrol,8.44
+Chile,2005,Van/LCV,8.05
+Chile,2008,All vehicles,8.29
+Chile,2008,City car,7.18
+Chile,2008,Diesel,8.93
+Chile,2008,Hybrid,5.08
+Chile,2008,Large SUV/Pick-up,10.89
+Chile,2008,Medium car,8.17
+Chile,2008,Petrol,8.16
+Chile,2008,Van/LCV,7.7
+Chile,2010,All vehicles,8.85
+Chile,2010,City car,7.33
+Chile,2010,Diesel,9.01
+Chile,2010,Hybrid,5.44
+Chile,2010,Large SUV/Pick-up,10.54
+Chile,2010,Medium car,8.11
+Chile,2010,Petrol,8.81
+Chile,2010,Van/LCV,9.07
+Chile,2011,All vehicles,8.68
+Chile,2011,City car,7.13
+Chile,2011,Diesel,9.26
+Chile,2011,Hybrid,5.34
+Chile,2011,Large SUV/Pick-up,10.55
+Chile,2011,Medium car,8.41
+Chile,2011,Petrol,8.52
+Chile,2011,Van/LCV,8.41
+Chile,2012,All vehicles,8.49
+Chile,2012,City car,7.01
+Chile,2012,Diesel,9.29
+Chile,2012,Hybrid,5.75
+Chile,2012,Large car,8.72
+Chile,2012,Large SUV/Pick-up,10.76
+Chile,2012,Medium car,8.12
+Chile,2012,Petrol,8.17
+Chile,2012,Small SUV/Pick-up,9.33
+Chile,2012,Van/LCV,8.5
+Chile,2013,All vehicles,8.3
+Chile,2013,City car,6.95
+Chile,2013,Diesel,8.74
+Chile,2013,Hybrid,5.54
+Chile,2013,Large car,8.28
+Chile,2013,Large SUV/Pick-up,10.37
+Chile,2013,Medium car,7.91
+Chile,2013,Petrol,8.1
+Chile,2013,Small SUV/Pick-up,9.19
+Chile,2013,Van/LCV,8.39
+Chile,2014,All vehicles,7.99
+Chile,2014,City car,6.8
+Chile,2014,Diesel,7.96
+Chile,2014,Electric,1.81
+Chile,2014,Hybrid,4.97
+Chile,2014,Large car,8.31
+Chile,2014,Large SUV/Pick-up,9.75
+Chile,2014,Medium car,7.33
+Chile,2014,Petrol,8.01
+Chile,2014,Plug-in,1.9
+Chile,2014,Small SUV/Pick-up,8.87
+Chile,2014,Van/LCV,8.18
+Chile,2015,All vehicles,8.07
+Chile,2015,City car,6.73
+Chile,2015,Diesel,8.01
+Chile,2015,Electric,1.39
+Chile,2015,Hybrid,5.05
+Chile,2015,Large car,8.55
+Chile,2015,Large SUV/Pick-up,9.73
+Chile,2015,Medium car,7.19
+Chile,2015,Petrol,8.1
+Chile,2015,Plug-in,1.9
+Chile,2015,Small SUV/Pick-up,8.91
+Chile,2015,Van/LCV,8.28
+Chile,2016,All vehicles,7.96
+Chile,2016,City car,6.72
+Chile,2016,Diesel,7.67
+Chile,2016,Electric,1.57
+Chile,2016,Hybrid,5.19
+Chile,2016,Large car,8.53
+Chile,2016,Large SUV/Pick-up,9.89
+Chile,2016,Medium car,7.07
+Chile,2016,Petrol,8.06
+Chile,2016,Plug-in,2.71
+Chile,2016,Small SUV/Pick-up,8.66
+Chile,2016,Van/LCV,8.46
+Chile,2017,All vehicles,8.01
+Chile,2017,City car,6.73
+Chile,2017,Diesel,7.8
+Chile,2017,Electric,1.92
+Chile,2017,Hybrid,4.8
+Chile,2017,Large car,8.37
+Chile,2017,Large SUV/Pick-up,9.83
+Chile,2017,Medium car,7.2
+Chile,2017,Petrol,8.09
+Chile,2017,Plug-in,2.72
+Chile,2017,Small SUV/Pick-up,8.52
+Chile,2017,Van/LCV,8.38
+Chile,2018,All vehicles,7.98
+Chile,2018,City car,6.67
+Chile,2018,Diesel,7.96
+Chile,2018,Electric,1.67
+Chile,2018,Hybrid,4.84
+Chile,2018,Large car,8.32
+Chile,2018,Large SUV/Pick-up,10.08
+Chile,2018,Medium car,6.95
+Chile,2018,Petrol,8.0
+Chile,2018,Plug-in,2.5
+Chile,2018,Small SUV/Pick-up,8.27
+Chile,2018,Van/LCV,8.48
+Chile,2019,All vehicles,7.93
+Chile,2019,City car,6.65
+Chile,2019,Diesel,8.05
+Chile,2019,Electric,1.69
+Chile,2019,Hybrid,4.95
+Chile,2019,Large car,8.39
+Chile,2019,Large SUV/Pick-up,10.08
+Chile,2019,Medium car,6.95
+Chile,2019,Petrol,7.91
+Chile,2019,Plug-in,2.68
+Chile,2019,Small SUV/Pick-up,8.15
+Chile,2019,Van/LCV,8.43
+China,2005,All vehicles,8.67
+China,2005,City car,6.73
+China,2005,Large car,9.72
+China,2005,Large SUV/Pick-up,14.28
+China,2005,Medium car,8.82
+China,2005,Small SUV/Pick-up,10.85
+China,2005,Van/LCV,7.9
+China,2008,All vehicles,8.79
+China,2008,City car,7.5
+China,2008,Diesel,7.5
+China,2008,Large car,9.63
+China,2008,Large SUV/Pick-up,14.68
+China,2008,Medium car,8.48
+China,2008,Petrol,8.78
+China,2008,Small SUV/Pick-up,10.2
+China,2008,Van/LCV,8.49
+China,2010,All vehicles,8.7
+China,2010,City car,7.24
+China,2010,Diesel,8.84
+China,2010,Large car,9.52
+China,2010,Large SUV/Pick-up,12.02
+China,2010,Medium car,8.53
+China,2010,Petrol,8.71
+China,2010,Small SUV/Pick-up,10.2
+China,2010,Van/LCV,8.45
+China,2011,All vehicles,8.72
+China,2011,City car,7.2
+China,2011,Diesel,9.07
+China,2011,Large car,9.55
+China,2011,Large SUV/Pick-up,11.45
+China,2011,Medium car,8.39
+China,2011,Petrol,8.71
+China,2011,Small SUV/Pick-up,10.16
+China,2011,Van/LCV,8.47
+China,2012,All vehicles,8.57
+China,2012,City car,7.13
+China,2012,CNG,8.35
+China,2012,Diesel,8.8
+China,2012,Hybrid,5.63
+China,2012,Large car,9.24
+China,2012,Large SUV/Pick-up,10.83
+China,2012,Medium car,8.13
+China,2012,Petrol,8.57
+China,2012,Small SUV/Pick-up,9.98
+China,2012,Van/LCV,8.36
+China,2013,All vehicles,8.48
+China,2013,City car,7.01
+China,2013,CNG,8.8
+China,2013,Diesel,8.77
+China,2013,Hybrid,6.36
+China,2013,Large car,8.99
+China,2013,Large SUV/Pick-up,10.86
+China,2013,Medium car,7.96
+China,2013,Petrol,8.48
+China,2013,Small SUV/Pick-up,9.63
+China,2013,Van/LCV,8.44
+China,2014,All vehicles,8.18
+China,2014,City car,6.82
+China,2014,CNG,9.86
+China,2014,Diesel,8.86
+China,2014,Electric,1.56
+China,2014,Hybrid,5.74
+China,2014,Large car,8.47
+China,2014,Large SUV/Pick-up,10.64
+China,2014,Medium car,7.63
+China,2014,Petrol,8.18
+China,2014,Plug-in,1.6
+China,2014,Small SUV/Pick-up,9.11
+China,2014,Van/LCV,7.93
+China,2015,All vehicles,8.03
+China,2015,City car,6.48
+China,2015,CNG,9.5
+China,2015,Diesel,8.94
+China,2015,Electric,1.54
+China,2015,Hybrid,4.31
+China,2015,Large car,8.37
+China,2015,Large SUV/Pick-up,10.37
+China,2015,Medium car,7.47
+China,2015,Petrol,8.07
+China,2015,Plug-in,1.6
+China,2015,Small SUV/Pick-up,8.72
+China,2015,Van/LCV,7.97
+China,2016,All vehicles,7.71
+China,2016,City car,6.32
+China,2016,CNG,9.41
+China,2016,Diesel,8.63
+China,2016,Electric,1.7
+China,2016,Hybrid,5.13
+China,2016,Large car,7.9
+China,2016,Large SUV/Pick-up,10.07
+China,2016,Medium car,7.05
+China,2016,Petrol,7.78
+China,2016,Plug-in,2.11
+China,2016,Small SUV/Pick-up,8.3
+China,2016,Van/LCV,7.97
+China,2017,All vehicles,7.6
+China,2017,City car,5.21
+China,2017,CNG,9.49
+China,2017,Diesel,8.54
+China,2017,Electric,1.55
+China,2017,Hybrid,5.15
+China,2017,Large car,7.73
+China,2017,Large SUV/Pick-up,10.07
+China,2017,Medium car,7.0
+China,2017,Petrol,7.76
+China,2017,Plug-in,2.06
+China,2017,Small SUV/Pick-up,8.15
+China,2017,Van/LCV,7.93
+China,2018,All vehicles,7.33
+China,2018,City car,4.68
+China,2018,CNG,10.04
+China,2018,Diesel,9.3
+China,2018,Electric,1.62
+China,2018,Hybrid,5.17
+China,2018,Large car,7.67
+China,2018,Large SUV/Pick-up,9.7
+China,2018,LPG,5.13
+China,2018,Medium car,6.72
+China,2018,Petrol,7.56
+China,2018,Plug-in,2.99
+China,2018,Small SUV/Pick-up,7.73
+China,2018,Van/LCV,9.65
+China,2019,All vehicles,7.2
+China,2019,City car,4.85
+China,2019,CNG,10.14
+China,2019,Diesel,9.26
+China,2019,Electric,1.61
+China,2019,Hybrid,5.26
+China,2019,Large car,7.27
+China,2019,Large SUV/Pick-up,9.82
+China,2019,LPG,5.13
+China,2019,Medium car,6.5
+China,2019,Petrol,7.44
+China,2019,Plug-in,3.2
+China,2019,Small SUV/Pick-up,7.6
+China,2019,Van/LCV,9.22
+France,2005,All vehicles,6.48
+France,2005,City car,5.9
+France,2005,Diesel,6.17
+France,2005,Hybrid,4.95
+France,2005,Large car,7.2
+France,2005,Large SUV/Pick-up,10.21
+France,2005,Medium car,6.45
+France,2005,Petrol,7.32
+France,2005,Small SUV/Pick-up,8.42
+France,2005,Van/LCV,6.98
+France,2008,All vehicles,6.01
+France,2008,City car,5.57
+France,2008,CNG,5.72
+France,2008,Diesel,5.84
+France,2008,Hybrid,4.97
+France,2008,Large car,6.92
+France,2008,Large SUV/Pick-up,10.04
+France,2008,Medium car,6.07
+France,2008,Petrol,6.7
+France,2008,Small SUV/Pick-up,7.76
+France,2008,Van/LCV,6.0
+France,2010,All vehicles,5.96
+France,2010,City car,5.42
+France,2010,CNG,7.49
+France,2010,Diesel,5.73
+France,2010,Hybrid,5.24
+France,2010,Large car,6.7
+France,2010,Large SUV/Pick-up,9.65
+France,2010,LPG,8.35
+France,2010,Medium car,5.86
+France,2010,Petrol,6.39
+France,2010,Small SUV/Pick-up,6.8
+France,2010,Van/LCV,7.07
+France,2011,All vehicles,5.81
+France,2011,City car,5.29
+France,2011,CNG,8.15
+France,2011,Diesel,5.62
+France,2011,Hybrid,4.95
+France,2011,Large car,6.35
+France,2011,Large SUV/Pick-up,9.39
+France,2011,LPG,7.51
+France,2011,Medium car,5.57
+France,2011,Petrol,6.38
+France,2011,Small SUV/Pick-up,6.56
+France,2011,Van/LCV,6.99
+France,2012,All vehicles,5.62
+France,2012,City car,5.09
+France,2012,CNG,8.38
+France,2012,Diesel,5.43
+France,2012,Hybrid,4.98
+France,2012,Large car,6.03
+France,2012,Large SUV/Pick-up,9.14
+France,2012,LPG,8.95
+France,2012,Medium car,5.32
+France,2012,Petrol,6.23
+France,2012,Small SUV/Pick-up,6.34
+France,2012,Van/LCV,6.88
+France,2013,All vehicles,5.42
+France,2013,City car,4.95
+France,2013,CNG,7.69
+France,2013,Diesel,5.24
+France,2013,Hybrid,4.71
+France,2013,Hydrogen,10.08
+France,2013,Large car,5.86
+France,2013,Large SUV/Pick-up,9.24
+France,2013,LPG,9.15
+France,2013,Medium car,5.1
+France,2013,Petrol,5.96
+France,2013,Small SUV/Pick-up,5.74
+France,2013,Van/LCV,6.82
+France,2014,All vehicles,5.33
+France,2014,City car,4.85
+France,2014,CNG,9.23
+France,2014,Diesel,5.19
+France,2014,Electric,1.46
+France,2014,Hybrid,4.65
+France,2014,Large car,5.62
+France,2014,Large SUV/Pick-up,8.49
+France,2014,LPG,7.28
+France,2014,Medium car,4.97
+France,2014,Petrol,5.78
+France,2014,Plug-in,1.87
+France,2014,Small SUV/Pick-up,5.44
+France,2014,Van/LCV,6.71
+France,2015,All vehicles,5.22
+France,2015,City car,4.75
+France,2015,CNG,9.04
+France,2015,Diesel,5.07
+France,2015,Electric,1.48
+France,2015,Hybrid,4.29
+France,2015,Large car,5.36
+France,2015,Large SUV/Pick-up,8.14
+France,2015,LPG,7.45
+France,2015,Medium car,4.86
+France,2015,Petrol,5.66
+France,2015,Plug-in,1.65
+France,2015,Small SUV/Pick-up,5.35
+France,2015,Van/LCV,6.59
+France,2016,All vehicles,5.22
+France,2016,City car,4.76
+France,2016,CNG,8.97
+France,2016,Diesel,5.0
+France,2016,Electric,1.83
+France,2016,Hybrid,4.42
+France,2016,Large car,5.3
+France,2016,Large SUV/Pick-up,7.39
+France,2016,LPG,6.66
+France,2016,Medium car,4.88
+France,2016,Petrol,5.71
+France,2016,Plug-in,2.96
+France,2016,Small SUV/Pick-up,5.34
+France,2016,Van/LCV,6.47
+France,2017,All vehicles,5.26
+France,2017,City car,4.78
+France,2017,CNG,9.95
+France,2017,Diesel,5.04
+France,2017,Electric,1.79
+France,2017,Hybrid,4.43
+France,2017,Large car,5.39
+France,2017,Large SUV/Pick-up,7.42
+France,2017,LPG,6.52
+France,2017,Medium car,4.94
+France,2017,Petrol,5.73
+France,2017,Plug-in,2.87
+France,2017,Small SUV/Pick-up,5.39
+France,2017,Van/LCV,6.3
+France,2018,All vehicles,5.4
+France,2018,City car,4.94
+France,2018,CNG,8.73
+France,2018,Diesel,5.23
+France,2018,Electric,1.8
+France,2018,Hybrid,4.52
+France,2018,Large car,5.6
+France,2018,Large SUV/Pick-up,7.75
+France,2018,LPG,6.6
+France,2018,Medium car,5.11
+France,2018,Petrol,5.77
+France,2018,Plug-in,2.27
+France,2018,Small SUV/Pick-up,5.5
+France,2018,Van/LCV,6.32
+France,2019,All vehicles,5.5
+France,2019,City car,5.02
+France,2019,CNG,8.82
+France,2019,Diesel,5.35
+France,2019,Electric,1.83
+France,2019,Hybrid,4.73
+France,2019,Large car,5.59
+France,2019,Large SUV/Pick-up,7.5
+France,2019,LPG,6.76
+France,2019,Medium car,5.23
+France,2019,Petrol,5.84
+France,2019,Plug-in,2.31
+France,2019,Small SUV/Pick-up,5.63
+France,2019,Van/LCV,6.35
+Germany,2005,All vehicles,7.44
+Germany,2005,City car,6.7
+Germany,2005,CNG,6.85
+Germany,2005,Diesel,6.92
+Germany,2005,Hybrid,4.96
+Germany,2005,Large car,7.87
+Germany,2005,Large SUV/Pick-up,10.55
+Germany,2005,Medium car,7.25
+Germany,2005,Petrol,7.86
+Germany,2005,Small SUV/Pick-up,9.02
+Germany,2005,Van/LCV,8.3
+Germany,2008,All vehicles,7.28
+Germany,2008,City car,6.5
+Germany,2008,CNG,6.67
+Germany,2008,Diesel,6.92
+Germany,2008,Hybrid,4.97
+Germany,2008,Large car,7.62
+Germany,2008,Large SUV/Pick-up,10.44
+Germany,2008,Medium car,7.13
+Germany,2008,Petrol,7.58
+Germany,2008,Small SUV/Pick-up,8.53
+Germany,2008,Van/LCV,8.13
+Germany,2010,All vehicles,7.08
+Germany,2010,City car,6.21
+Germany,2010,CNG,8.31
+Germany,2010,Diesel,6.76
+Germany,2010,Hybrid,5.62
+Germany,2010,Large car,7.52
+Germany,2010,Large SUV/Pick-up,9.92
+Germany,2010,LPG,9.96
+Germany,2010,Medium car,6.75
+Germany,2010,Petrol,7.33
+Germany,2010,Small SUV/Pick-up,7.79
+Germany,2010,Van/LCV,8.24
+Germany,2011,All vehicles,6.77
+Germany,2011,City car,6.04
+Germany,2011,CNG,8.59
+Germany,2011,Diesel,6.45
+Germany,2011,Electric,2.01
+Germany,2011,Hybrid,5.16
+Germany,2011,Large car,6.92
+Germany,2011,Large SUV/Pick-up,9.43
+Germany,2011,LPG,9.77
+Germany,2011,Medium car,6.44
+Germany,2011,Petrol,7.09
+Germany,2011,Small SUV/Pick-up,7.38
+Germany,2011,Van/LCV,7.99
+Germany,2012,All vehicles,6.5
+Germany,2012,City car,5.81
+Germany,2012,CNG,7.69
+Germany,2012,Diesel,6.2
+Germany,2012,Electric,2.16
+Germany,2012,Hybrid,4.83
+Germany,2012,Large car,6.52
+Germany,2012,Large SUV/Pick-up,9.04
+Germany,2012,LPG,8.16
+Germany,2012,Medium car,6.15
+Germany,2012,Petrol,6.81
+Germany,2012,Small SUV/Pick-up,7.12
+Germany,2012,Van/LCV,7.82
+Germany,2013,All vehicles,6.27
+Germany,2013,City car,5.65
+Germany,2013,CNG,5.46
+Germany,2013,Diesel,6.03
+Germany,2013,Electric,2.09
+Germany,2013,Hybrid,4.53
+Germany,2013,Large car,6.36
+Germany,2013,Large SUV/Pick-up,9.02
+Germany,2013,LPG,7.77
+Germany,2013,Medium car,5.8
+Germany,2013,Petrol,6.54
+Germany,2013,Small SUV/Pick-up,6.83
+Germany,2013,Van/LCV,7.7
+Germany,2014,All vehicles,6.08
+Germany,2014,City car,5.5
+Germany,2014,CNG,7.28
+Germany,2014,Diesel,5.83
+Germany,2014,Electric,1.56
+Germany,2014,Hybrid,4.37
+Germany,2014,Large car,6.22
+Germany,2014,Large SUV/Pick-up,8.64
+Germany,2014,LPG,7.22
+Germany,2014,Medium car,5.6
+Germany,2014,Petrol,6.38
+Germany,2014,Plug-in,1.8
+Germany,2014,Small SUV/Pick-up,6.62
+Germany,2014,Van/LCV,7.39
+Germany,2015,All vehicles,5.91
+Germany,2015,City car,5.29
+Germany,2015,CNG,7.28
+Germany,2015,Diesel,5.64
+Germany,2015,Electric,1.62
+Germany,2015,Hybrid,4.33
+Germany,2015,Large car,6.01
+Germany,2015,Large SUV/Pick-up,8.32
+Germany,2015,LPG,7.22
+Germany,2015,Medium car,5.46
+Germany,2015,Petrol,6.23
+Germany,2015,Plug-in,1.7
+Germany,2015,Small SUV/Pick-up,6.34
+Germany,2015,Van/LCV,7.25
+Germany,2016,All vehicles,5.84
+Germany,2016,City car,5.26
+Germany,2016,CNG,6.67
+Germany,2016,Diesel,5.53
+Germany,2016,Electric,1.79
+Germany,2016,Hybrid,4.36
+Germany,2016,Large car,5.91
+Germany,2016,Large SUV/Pick-up,7.85
+Germany,2016,LPG,6.27
+Germany,2016,Medium car,5.43
+Germany,2016,Petrol,6.21
+Germany,2016,Plug-in,2.89
+Germany,2016,Small SUV/Pick-up,6.2
+Germany,2016,Van/LCV,6.99
+Germany,2017,All vehicles,5.93
+Germany,2017,City car,5.21
+Germany,2017,CNG,6.72
+Germany,2017,Diesel,5.61
+Germany,2017,Electric,1.72
+Germany,2017,Hybrid,4.36
+Germany,2017,Large car,6.13
+Germany,2017,Large SUV/Pick-up,7.9
+Germany,2017,LPG,6.5
+Germany,2017,Medium car,5.56
+Germany,2017,Petrol,6.3
+Germany,2017,Plug-in,2.78
+Germany,2017,Small SUV/Pick-up,6.28
+Germany,2017,Van/LCV,6.85
+Germany,2018,All vehicles,6.14
+Germany,2018,City car,5.31
+Germany,2018,CNG,6.94
+Germany,2018,Diesel,5.66
+Germany,2018,Electric,1.88
+Germany,2018,Hybrid,4.43
+Germany,2018,Large car,6.52
+Germany,2018,Large SUV/Pick-up,8.59
+Germany,2018,LPG,6.52
+Germany,2018,Medium car,5.89
+Germany,2018,Petrol,6.54
+Germany,2018,Plug-in,2.16
+Germany,2018,Small SUV/Pick-up,6.57
+Germany,2018,Van/LCV,5.85
+Germany,2019,All vehicles,6.23
+Germany,2019,City car,5.36
+Germany,2019,CNG,6.02
+Germany,2019,Diesel,5.82
+Germany,2019,Electric,1.91
+Germany,2019,Hybrid,4.5
+Germany,2019,Large car,6.51
+Germany,2019,Large SUV/Pick-up,8.69
+Germany,2019,LPG,6.97
+Germany,2019,Medium car,6.08
+Germany,2019,Petrol,6.69
+Germany,2019,Plug-in,2.17
+Germany,2019,Small SUV/Pick-up,6.57
+Germany,2019,Van/LCV,5.81
+India,2005,All vehicles,6.85
+India,2005,City car,6.44
+India,2005,Large car,8.07
+India,2005,Large SUV/Pick-up,8.7
+India,2005,Medium car,7.15
+India,2005,Small SUV/Pick-up,9.12
+India,2005,Van/LCV,7.8
+India,2008,All vehicles,6.36
+India,2008,City car,6.12
+India,2008,Diesel,6.32
+India,2008,Hybrid,5.13
+India,2008,Large car,7.7
+India,2008,Large SUV/Pick-up,8.03
+India,2008,Medium car,6.85
+India,2008,Petrol,6.34
+India,2008,Small SUV/Pick-up,8.74
+India,2008,Van/LCV,5.28
+India,2010,All vehicles,6.5
+India,2010,City car,6.08
+India,2010,CNG,6.63
+India,2010,Diesel,6.4
+India,2010,Hybrid,4.84
+India,2010,Large car,8.33
+India,2010,Large SUV/Pick-up,8.4
+India,2010,Medium car,6.91
+India,2010,Petrol,6.44
+India,2010,Small SUV/Pick-up,8.96
+India,2010,Van/LCV,6.66
+India,2011,All vehicles,6.28
+India,2011,City car,5.82
+India,2011,Diesel,6.25
+India,2011,Hybrid,6.91
+India,2011,Large car,7.78
+India,2011,Large SUV/Pick-up,8.12
+India,2011,Medium car,6.65
+India,2011,Petrol,6.27
+India,2011,Small SUV/Pick-up,8.65
+India,2011,Van/LCV,6.39
+India,2012,All vehicles,6.04
+India,2012,City car,5.47
+India,2012,CNG,5.86
+India,2012,Diesel,6.05
+India,2012,Hybrid,7.19
+India,2012,Large car,8.6
+India,2012,Large SUV/Pick-up,8.31
+India,2012,Medium car,5.83
+India,2012,Petrol,5.98
+India,2012,Small SUV/Pick-up,7.7
+India,2012,Van/LCV,6.11
+India,2013,All vehicles,6.11
+India,2013,City car,5.48
+India,2013,CNG,6.06
+India,2013,Diesel,5.98
+India,2013,Hybrid,9.06
+India,2013,Large car,8.6
+India,2013,Large SUV/Pick-up,8.64
+India,2013,Medium car,5.9
+India,2013,Petrol,6.05
+India,2013,Small SUV/Pick-up,7.21
+India,2013,Van/LCV,6.05
+India,2014,All vehicles,5.91
+India,2014,City car,5.38
+India,2014,CNG,6.23
+India,2014,Diesel,5.75
+India,2014,Hybrid,9.28
+India,2014,Large car,8.47
+India,2014,Large SUV/Pick-up,8.29
+India,2014,Medium car,6.02
+India,2014,Petrol,5.75
+India,2014,Small SUV/Pick-up,6.36
+India,2014,Van/LCV,5.56
+India,2015,All vehicles,5.82
+India,2015,City car,5.26
+India,2015,CNG,6.02
+India,2015,Diesel,5.67
+India,2015,Electric,4.3
+India,2015,Hybrid,9.41
+India,2015,Large car,8.78
+India,2015,Large SUV/Pick-up,8.3
+India,2015,Medium car,6.12
+India,2015,Petrol,5.68
+India,2015,Small SUV/Pick-up,6.75
+India,2015,Van/LCV,5.56
+India,2016,All vehicles,5.65
+India,2016,City car,5.23
+India,2016,CNG,5.93
+India,2016,Diesel,5.76
+India,2016,Hybrid,9.38
+India,2016,Large car,7.9
+India,2016,Large SUV/Pick-up,8.01
+India,2016,Medium car,6.23
+India,2016,Petrol,5.56
+India,2016,Plug-in,2.37
+India,2016,Small SUV/Pick-up,5.76
+India,2016,Van/LCV,5.55
+India,2017,All vehicles,5.6
+India,2017,City car,5.16
+India,2017,CNG,5.47
+India,2017,Diesel,5.74
+India,2017,Electric,1.8
+India,2017,Hybrid,9.33
+India,2017,Large car,7.34
+India,2017,Large SUV/Pick-up,7.96
+India,2017,Medium car,5.96
+India,2017,Petrol,5.48
+India,2017,Plug-in,2.37
+India,2017,Small SUV/Pick-up,5.65
+India,2017,Van/LCV,5.4
+India,2018,All vehicles,5.63
+India,2018,City car,5.16
+India,2018,CNG,4.68
+India,2018,Diesel,5.75
+India,2018,Electric,2.28
+India,2018,Hybrid,9.47
+India,2018,Large car,8.19
+India,2018,Large SUV/Pick-up,8.6
+India,2018,Medium car,5.58
+India,2018,Petrol,5.52
+India,2018,Plug-in,2.35
+India,2018,Small SUV/Pick-up,5.77
+India,2018,Van/LCV,5.89
+India,2019,All vehicles,5.69
+India,2019,City car,5.23
+India,2019,CNG,4.73
+India,2019,Diesel,5.94
+India,2019,Electric,1.84
+India,2019,Hybrid,9.48
+India,2019,Large car,8.23
+India,2019,Large SUV/Pick-up,8.58
+India,2019,Medium car,5.21
+India,2019,Petrol,5.51
+India,2019,Plug-in,2.21
+India,2019,Small SUV/Pick-up,5.85
+India,2019,Van/LCV,5.73
+Italy,2005,All vehicles,6.33
+Italy,2005,City car,5.93
+Italy,2005,Diesel,6.03
+Italy,2005,Hybrid,4.95
+Italy,2005,Large car,7.3
+Italy,2005,Large SUV/Pick-up,10.4
+Italy,2005,Medium car,6.24
+Italy,2005,Petrol,6.8
+Italy,2005,Small SUV/Pick-up,8.51
+Italy,2005,Van/LCV,7.11
+Italy,2008,All vehicles,6.36
+Italy,2008,City car,5.94
+Italy,2008,CNG,6.21
+Italy,2008,Diesel,6.09
+Italy,2008,Hybrid,4.97
+Italy,2008,Large car,7.21
+Italy,2008,Large SUV/Pick-up,10.15
+Italy,2008,Medium car,6.36
+Italy,2008,Petrol,6.63
+Italy,2008,Small SUV/Pick-up,8.05
+Italy,2008,Van/LCV,6.13
+Italy,2010,All vehicles,6.43
+Italy,2010,City car,6.06
+Italy,2010,CNG,9.66
+Italy,2010,Diesel,5.98
+Italy,2010,Hybrid,5.38
+Italy,2010,Large car,7.13
+Italy,2010,Large SUV/Pick-up,9.91
+Italy,2010,LPG,7.62
+Italy,2010,Medium car,6.2
+Italy,2010,Petrol,6.44
+Italy,2010,Small SUV/Pick-up,7.4
+Italy,2010,Van/LCV,7.21
+Italy,2011,All vehicles,5.97
+Italy,2011,City car,5.57
+Italy,2011,CNG,8.7
+Italy,2011,Diesel,5.69
+Italy,2011,Electric,2.01
+Italy,2011,Hybrid,5.11
+Italy,2011,Large car,6.56
+Italy,2011,Large SUV/Pick-up,9.33
+Italy,2011,LPG,8.18
+Italy,2011,Medium car,5.66
+Italy,2011,Petrol,6.2
+Italy,2011,Small SUV/Pick-up,6.84
+Italy,2011,Van/LCV,6.91
+Italy,2012,All vehicles,5.93
+Italy,2012,City car,5.66
+Italy,2012,CNG,5.46
+Italy,2012,Diesel,5.51
+Italy,2012,Electric,2.12
+Italy,2012,Hybrid,4.7
+Italy,2012,Large car,6.02
+Italy,2012,Large SUV/Pick-up,9.0
+Italy,2012,LPG,8.21
+Italy,2012,Medium car,5.65
+Italy,2012,Petrol,6.03
+Italy,2012,Plug-in,2.37
+Italy,2012,Small SUV/Pick-up,6.7
+Italy,2012,Van/LCV,6.65
+Italy,2013,All vehicles,5.72
+Italy,2013,City car,5.51
+Italy,2013,CNG,5.67
+Italy,2013,Diesel,5.28
+Italy,2013,Electric,2.07
+Italy,2013,Hybrid,4.28
+Italy,2013,Large car,5.95
+Italy,2013,Large SUV/Pick-up,8.75
+Italy,2013,LPG,8.21
+Italy,2013,Medium car,5.33
+Italy,2013,Petrol,5.89
+Italy,2013,Plug-in,5.86
+Italy,2013,Small SUV/Pick-up,6.31
+Italy,2013,Van/LCV,6.56
+Italy,2014,All vehicles,5.56
+Italy,2014,City car,5.38
+Italy,2014,CNG,7.39
+Italy,2014,Diesel,5.18
+Italy,2014,Electric,1.55
+Italy,2014,Hybrid,4.11
+Italy,2014,Large car,5.78
+Italy,2014,Large SUV/Pick-up,7.94
+Italy,2014,LPG,6.54
+Italy,2014,Medium car,5.1
+Italy,2014,Petrol,5.78
+Italy,2014,Plug-in,1.92
+Italy,2014,Small SUV/Pick-up,5.83
+Italy,2014,Van/LCV,6.76
+Italy,2015,All vehicles,5.42
+Italy,2015,City car,5.27
+Italy,2015,CNG,7.57
+Italy,2015,Diesel,5.04
+Italy,2015,Electric,1.59
+Italy,2015,Hybrid,4.12
+Italy,2015,Large car,5.53
+Italy,2015,Large SUV/Pick-up,7.45
+Italy,2015,LPG,6.49
+Italy,2015,Medium car,4.96
+Italy,2015,Petrol,5.72
+Italy,2015,Plug-in,1.71
+Italy,2015,Small SUV/Pick-up,5.54
+Italy,2015,Van/LCV,6.76
+Italy,2016,All vehicles,5.23
+Italy,2016,City car,5.11
+Italy,2016,CNG,5.91
+Italy,2016,Diesel,4.89
+Italy,2016,Electric,1.92
+Italy,2016,Hybrid,4.27
+Italy,2016,Large car,5.31
+Italy,2016,Large SUV/Pick-up,7.2
+Italy,2016,LPG,6.24
+Italy,2016,Medium car,4.77
+Italy,2016,Petrol,5.75
+Italy,2016,Plug-in,2.82
+Italy,2016,Small SUV/Pick-up,5.31
+Italy,2016,Van/LCV,6.3
+Italy,2017,All vehicles,5.19
+Italy,2017,City car,5.07
+Italy,2017,CNG,5.61
+Italy,2017,Diesel,4.83
+Italy,2017,Electric,1.87
+Italy,2017,Hybrid,4.33
+Italy,2017,Large car,5.36
+Italy,2017,Large SUV/Pick-up,7.16
+Italy,2017,LPG,6.26
+Italy,2017,Medium car,4.71
+Italy,2017,Petrol,5.75
+Italy,2017,Plug-in,2.74
+Italy,2017,Small SUV/Pick-up,5.26
+Italy,2017,Van/LCV,6.23
+Italy,2018,All vehicles,5.45
+Italy,2018,City car,5.35
+Italy,2018,CNG,6.78
+Italy,2018,Diesel,5.01
+Italy,2018,Electric,1.96
+Italy,2018,Hybrid,4.62
+Italy,2018,Large car,5.74
+Italy,2018,Large SUV/Pick-up,8.11
+Italy,2018,LPG,6.32
+Italy,2018,Medium car,4.98
+Italy,2018,Petrol,6.01
+Italy,2018,Plug-in,2.37
+Italy,2018,Small SUV/Pick-up,5.59
+Italy,2018,Van/LCV,5.7
+Italy,2019,All vehicles,5.72
+Italy,2019,City car,5.56
+Italy,2019,CNG,7.34
+Italy,2019,Diesel,5.24
+Italy,2019,Electric,1.87
+Italy,2019,Hybrid,4.67
+Italy,2019,Large car,5.84
+Italy,2019,Large SUV/Pick-up,8.23
+Italy,2019,LPG,6.49
+Italy,2019,Medium car,5.24
+Italy,2019,Petrol,6.13
+Italy,2019,Plug-in,2.51
+Italy,2019,Small SUV/Pick-up,5.92
+Italy,2019,Van/LCV,5.77
+Japan,2005,All vehicles,7.72
+Japan,2005,City car,6.29
+Japan,2005,Hybrid,3.55
+Japan,2005,Large car,9.96
+Japan,2005,Large SUV/Pick-up,12.0
+Japan,2005,Medium car,7.3
+Japan,2005,Petrol,7.54
+Japan,2005,Small SUV/Pick-up,8.15
+Japan,2005,Van/LCV,8.74
+Japan,2008,All vehicles,7.03
+Japan,2008,City car,5.88
+Japan,2008,CNG,6.73
+Japan,2008,Hybrid,4.14
+Japan,2008,Large car,9.65
+Japan,2008,Large SUV/Pick-up,14.49
+Japan,2008,Medium car,6.83
+Japan,2008,Petrol,7.1
+Japan,2008,Small SUV/Pick-up,8.82
+Japan,2008,Van/LCV,7.3
+Japan,2010,All vehicles,7.04
+Japan,2010,City car,6.19
+Japan,2010,Hybrid,4.3
+Japan,2010,Large car,9.42
+Japan,2010,Large SUV/Pick-up,11.53
+Japan,2010,Medium car,5.89
+Japan,2010,Petrol,7.27
+Japan,2010,Small SUV/Pick-up,8.84
+Japan,2010,Van/LCV,8.08
+Japan,2011,All vehicles,6.83
+Japan,2011,City car,5.97
+Japan,2011,Electric,2.01
+Japan,2011,Hybrid,4.5
+Japan,2011,Large car,9.46
+Japan,2011,Large SUV/Pick-up,11.65
+Japan,2011,Medium car,5.78
+Japan,2011,Petrol,7.06
+Japan,2011,Small SUV/Pick-up,8.58
+Japan,2011,Van/LCV,8.2
+Japan,2012,All vehicles,6.35
+Japan,2012,City car,5.43
+Japan,2012,Diesel,6.47
+Japan,2012,Electric,2.01
+Japan,2012,Hybrid,4.58
+Japan,2012,Large car,8.99
+Japan,2012,Large SUV/Pick-up,10.79
+Japan,2012,Medium car,5.66
+Japan,2012,Petrol,6.65
+Japan,2012,Plug-in,3.76
+Japan,2012,Small SUV/Pick-up,8.1
+Japan,2012,Van/LCV,8.08
+Japan,2013,All vehicles,6.15
+Japan,2013,City car,5.17
+Japan,2013,Diesel,6.46
+Japan,2013,Electric,2.01
+Japan,2013,Hybrid,4.9
+Japan,2013,Large car,8.45
+Japan,2013,Large SUV/Pick-up,10.83
+Japan,2013,Medium car,5.76
+Japan,2013,Petrol,6.3
+Japan,2013,Plug-in,3.76
+Japan,2013,Small SUV/Pick-up,8.0
+Japan,2013,Van/LCV,8.09
+Japan,2014,All vehicles,5.85
+Japan,2014,City car,4.6
+Japan,2014,Diesel,6.97
+Japan,2014,Electric,1.58
+Japan,2014,Hybrid,4.68
+Japan,2014,Large car,8.27
+Japan,2014,Large SUV/Pick-up,8.91
+Japan,2014,Medium car,6.01
+Japan,2014,Petrol,5.95
+Japan,2014,Plug-in,1.92
+Japan,2014,Small SUV/Pick-up,6.88
+Japan,2014,Van/LCV,8.45
+Japan,2015,All vehicles,6.17
+Japan,2015,City car,4.74
+Japan,2015,Diesel,5.94
+Japan,2015,Electric,1.84
+Japan,2015,Hybrid,4.29
+Japan,2015,Large car,8.56
+Japan,2015,Large SUV/Pick-up,9.21
+Japan,2015,Medium car,6.2
+Japan,2015,Petrol,6.21
+Japan,2015,Plug-in,2.32
+Japan,2015,Small SUV/Pick-up,6.98
+Japan,2015,Van/LCV,8.73
+Japan,2016,All vehicles,5.65
+Japan,2016,City car,4.46
+Japan,2016,Diesel,5.93
+Japan,2016,Electric,1.81
+Japan,2016,Hybrid,4.39
+Japan,2016,Hydrogen,4.02
+Japan,2016,Large car,7.95
+Japan,2016,Large SUV/Pick-up,8.73
+Japan,2016,Medium car,4.75
+Japan,2016,Petrol,5.6
+Japan,2016,Plug-in,2.08
+Japan,2016,Small SUV/Pick-up,5.24
+Japan,2016,Van/LCV,8.14
+Japan,2017,All vehicles,5.59
+Japan,2017,City car,4.46
+Japan,2017,Diesel,6.08
+Japan,2017,Electric,1.81
+Japan,2017,Hybrid,4.52
+Japan,2017,Hydrogen,4.03
+Japan,2017,Large car,7.96
+Japan,2017,Large SUV/Pick-up,7.6
+Japan,2017,Medium car,4.93
+Japan,2017,Petrol,5.51
+Japan,2017,Plug-in,2.3
+Japan,2017,Small SUV/Pick-up,5.28
+Japan,2017,Van/LCV,8.11
+Japan,2018,All vehicles,5.55
+Japan,2018,City car,4.5
+Japan,2018,Diesel,5.74
+Japan,2018,Electric,2.44
+Japan,2018,Hybrid,4.79
+Japan,2018,Large car,7.89
+Japan,2018,Large SUV/Pick-up,8.2
+Japan,2018,Medium car,4.6
+Japan,2018,Petrol,5.53
+Japan,2018,Plug-in,1.72
+Japan,2018,Small SUV/Pick-up,6.06
+Japan,2018,Van/LCV,8.73
+Japan,2019,All vehicles,5.46
+Japan,2019,City car,4.44
+Japan,2019,Diesel,5.67
+Japan,2019,Electric,2.38
+Japan,2019,Hybrid,4.71
+Japan,2019,Large car,7.7
+Japan,2019,Large SUV/Pick-up,8.1
+Japan,2019,Medium car,4.4
+Japan,2019,Petrol,5.41
+Japan,2019,Plug-in,1.68
+Japan,2019,Small SUV/Pick-up,5.97
+Japan,2019,Van/LCV,8.56
+Malaysia,2005,All vehicles,8.17
+Malaysia,2005,City car,6.96
+Malaysia,2005,Diesel,8.79
+Malaysia,2005,Large SUV/Pick-up,9.11
+Malaysia,2005,Medium car,7.88
+Malaysia,2005,Petrol,8.15
+Malaysia,2005,Small SUV/Pick-up,9.67
+Malaysia,2005,Van/LCV,11.4
+Malaysia,2008,All vehicles,8.35
+Malaysia,2008,City car,7.96
+Malaysia,2008,Diesel,9.51
+Malaysia,2008,Hybrid,5.08
+Malaysia,2008,Large SUV/Pick-up,9.63
+Malaysia,2008,Medium car,7.8
+Malaysia,2008,Petrol,8.27
+Malaysia,2008,Small SUV/Pick-up,9.36
+Malaysia,2008,Van/LCV,10.75
+Malaysia,2010,All vehicles,7.92
+Malaysia,2010,City car,7.45
+Malaysia,2010,Diesel,9.59
+Malaysia,2010,Hybrid,4.77
+Malaysia,2010,Large SUV/Pick-up,9.8
+Malaysia,2010,Medium car,7.73
+Malaysia,2010,Petrol,7.78
+Malaysia,2010,Small SUV/Pick-up,9.44
+Malaysia,2010,Van/LCV,9.88
+Malaysia,2011,All vehicles,7.97
+Malaysia,2011,City car,7.44
+Malaysia,2011,Diesel,9.66
+Malaysia,2011,Hybrid,4.76
+Malaysia,2011,Large SUV/Pick-up,9.93
+Malaysia,2011,Medium car,7.69
+Malaysia,2011,Petrol,7.84
+Malaysia,2011,Small SUV/Pick-up,9.35
+Malaysia,2011,Van/LCV,9.85
+Malaysia,2012,All vehicles,7.79
+Malaysia,2012,City car,7.46
+Malaysia,2012,Diesel,8.74
+Malaysia,2012,Hybrid,4.88
+Malaysia,2012,Large SUV/Pick-up,8.7
+Malaysia,2012,Medium car,7.78
+Malaysia,2012,Petrol,7.76
+Malaysia,2012,Small SUV/Pick-up,8.63
+Malaysia,2012,Van/LCV,9.87
+Malaysia,2013,All vehicles,7.74
+Malaysia,2013,City car,7.39
+Malaysia,2013,Diesel,8.77
+Malaysia,2013,Hybrid,4.7
+Malaysia,2013,Large SUV/Pick-up,8.73
+Malaysia,2013,Medium car,7.76
+Malaysia,2013,Petrol,7.69
+Malaysia,2013,Small SUV/Pick-up,8.42
+Malaysia,2013,Van/LCV,9.78
+Malaysia,2014,All vehicles,7.76
+Malaysia,2014,City car,7.36
+Malaysia,2014,Diesel,8.96
+Malaysia,2014,Hybrid,5.98
+Malaysia,2014,Large SUV/Pick-up,8.92
+Malaysia,2014,Medium car,7.65
+Malaysia,2014,Petrol,7.65
+Malaysia,2014,Small SUV/Pick-up,8.61
+Malaysia,2014,Van/LCV,9.8
+Malaysia,2015,All vehicles,7.59
+Malaysia,2015,City car,6.74
+Malaysia,2015,Medium car,7.51
+Malaysia,2015,Small SUV/Pick-up,8.13
+Malaysia,2015,Van/LCV,10.81
+Malaysia,2016,All vehicles,7.05
+Malaysia,2016,City car,6.15
+Malaysia,2016,Large SUV/Pick-up,9.14
+Malaysia,2016,Medium car,7.25
+Malaysia,2016,Small SUV/Pick-up,8.39
+Malaysia,2016,Van/LCV,10.59
+Malaysia,2017,All vehicles,7.06
+Malaysia,2017,City car,6.09
+Malaysia,2017,Large SUV/Pick-up,9.27
+Malaysia,2017,Medium car,7.21
+Malaysia,2017,Small SUV/Pick-up,8.11
+Malaysia,2017,Van/LCV,10.57
+Malaysia,2018,All vehicles,7.12
+Malaysia,2018,City car,6.63
+Malaysia,2018,Diesel,9.95
+Malaysia,2018,Electric,1.82
+Malaysia,2018,Hybrid,7.96
+Malaysia,2018,Large SUV/Pick-up,9.88
+Malaysia,2018,Medium car,7.3
+Malaysia,2018,Petrol,6.83
+Malaysia,2018,Plug-in,4.98
+Malaysia,2018,Small SUV/Pick-up,7.5
+Malaysia,2018,Van/LCV,10.72
+Malaysia,2019,All vehicles,7.1
+Malaysia,2019,City car,6.5
+Malaysia,2019,Diesel,10.3
+Malaysia,2019,Electric,1.68
+Malaysia,2019,Hybrid,7.6
+Malaysia,2019,Large SUV/Pick-up,9.97
+Malaysia,2019,Medium car,7.17
+Malaysia,2019,Petrol,6.9
+Malaysia,2019,Plug-in,4.78
+Malaysia,2019,Small SUV/Pick-up,7.66
+Malaysia,2019,Van/LCV,10.72
+Mexico,2005,All vehicles,9.08
+Mexico,2005,City car,7.63
+Mexico,2005,Large car,9.99
+Mexico,2005,Large SUV/Pick-up,14.01
+Mexico,2005,Medium car,8.01
+Mexico,2005,Petrol,8.49
+Mexico,2005,Small SUV/Pick-up,9.54
+Mexico,2005,Van/LCV,11.92
+Mexico,2008,All vehicles,9.43
+Mexico,2008,City car,7.99
+Mexico,2008,Large car,10.3
+Mexico,2008,Large SUV/Pick-up,12.08
+Mexico,2008,Medium car,8.24
+Mexico,2008,Petrol,9.53
+Mexico,2008,Small SUV/Pick-up,10.36
+Mexico,2008,Van/LCV,12.83
+Mexico,2010,All vehicles,9.52
+Mexico,2010,City car,8.18
+Mexico,2010,Hybrid,3.76
+Mexico,2010,Large car,9.86
+Mexico,2010,Large SUV/Pick-up,13.3
+Mexico,2010,Medium car,8.42
+Mexico,2010,Petrol,8.44
+Mexico,2010,Small SUV/Pick-up,9.76
+Mexico,2010,Van/LCV,14.52
+Mexico,2011,All vehicles,9.35
+Mexico,2011,City car,7.91
+Mexico,2011,Hybrid,3.76
+Mexico,2011,Large car,10.0
+Mexico,2011,Large SUV/Pick-up,13.47
+Mexico,2011,Medium car,8.47
+Mexico,2011,Petrol,8.39
+Mexico,2011,Small SUV/Pick-up,9.77
+Mexico,2011,Van/LCV,13.95
+Mexico,2012,All vehicles,8.73
+Mexico,2012,City car,6.86
+Mexico,2012,Hybrid,3.81
+Mexico,2012,Large car,9.47
+Mexico,2012,Large SUV/Pick-up,12.4
+Mexico,2012,Medium car,8.0
+Mexico,2012,Petrol,7.53
+Mexico,2012,Small SUV/Pick-up,9.51
+Mexico,2012,Van/LCV,11.36
+Mexico,2013,All vehicles,8.58
+Mexico,2013,City car,6.82
+Mexico,2013,Hybrid,3.76
+Mexico,2013,Large car,9.44
+Mexico,2013,Large SUV/Pick-up,12.19
+Mexico,2013,Medium car,7.73
+Mexico,2013,Petrol,7.44
+Mexico,2013,Small SUV/Pick-up,9.2
+Mexico,2013,Van/LCV,11.59
+Mexico,2014,All vehicles,7.68
+Mexico,2014,City car,6.32
+Mexico,2014,Electric,1.37
+Mexico,2014,Hybrid,5.05
+Mexico,2014,Large car,8.48
+Mexico,2014,Large SUV/Pick-up,11.2
+Mexico,2014,Medium car,6.84
+Mexico,2014,Petrol,6.67
+Mexico,2014,Small SUV/Pick-up,8.51
+Mexico,2014,Van/LCV,11.34
+Mexico,2015,All vehicles,7.54
+Mexico,2015,City car,6.32
+Mexico,2015,Electric,1.43
+Mexico,2015,Hybrid,4.76
+Mexico,2015,Large car,8.39
+Mexico,2015,Large SUV/Pick-up,11.31
+Mexico,2015,Medium car,6.68
+Mexico,2015,Petrol,6.59
+Mexico,2015,Small SUV/Pick-up,8.26
+Mexico,2015,Van/LCV,11.36
+Mexico,2016,All vehicles,7.61
+Mexico,2016,City car,6.41
+Mexico,2016,Electric,1.86
+Mexico,2016,Hybrid,4.17
+Mexico,2016,Large car,8.44
+Mexico,2016,Large SUV/Pick-up,12.08
+Mexico,2016,Medium car,6.74
+Mexico,2016,Petrol,6.67
+Mexico,2016,Small SUV/Pick-up,8.11
+Mexico,2016,Van/LCV,10.92
+Mexico,2017,All vehicles,7.57
+Mexico,2017,City car,6.35
+Mexico,2017,Electric,1.8
+Mexico,2017,Hybrid,3.87
+Mexico,2017,Large car,8.65
+Mexico,2017,Large SUV/Pick-up,12.03
+Mexico,2017,Medium car,6.64
+Mexico,2017,Petrol,6.6
+Mexico,2017,Small SUV/Pick-up,8.06
+Mexico,2017,Van/LCV,10.7
+Mexico,2018,All vehicles,7.55
+Mexico,2018,City car,6.51
+Mexico,2018,Electric,1.75
+Mexico,2018,Hybrid,4.54
+Mexico,2018,Large car,8.4
+Mexico,2018,Large SUV/Pick-up,10.83
+Mexico,2018,Medium car,6.66
+Mexico,2018,Petrol,6.69
+Mexico,2018,Small SUV/Pick-up,8.25
+Mexico,2018,Van/LCV,8.76
+Mexico,2019,All vehicles,7.58
+Mexico,2019,City car,6.51
+Mexico,2019,Electric,1.83
+Mexico,2019,Hybrid,4.48
+Mexico,2019,Large car,8.45
+Mexico,2019,Large SUV/Pick-up,10.72
+Mexico,2019,Medium car,6.72
+Mexico,2019,Petrol,6.7
+Mexico,2019,Small SUV/Pick-up,8.22
+Mexico,2019,Van/LCV,8.24
+Peru,2012,All vehicles,8.29
+Peru,2012,City car,6.58
+Peru,2012,Large car,7.94
+Peru,2012,Large SUV/Pick-up,11.23
+Peru,2012,Medium car,7.21
+Peru,2012,Small SUV/Pick-up,9.03
+Peru,2012,Van/LCV,10.59
+Peru,2013,All vehicles,8.23
+Peru,2013,City car,6.54
+Peru,2013,Large car,7.99
+Peru,2013,Large SUV/Pick-up,10.87
+Peru,2013,Medium car,7.18
+Peru,2013,Small SUV/Pick-up,9.02
+Peru,2013,Van/LCV,10.43
+Peru,2014,All vehicles,8.18
+Peru,2014,City car,7.1
+Peru,2014,Large car,7.74
+Peru,2014,Large SUV/Pick-up,10.09
+Peru,2014,Medium car,7.38
+Peru,2014,Small SUV/Pick-up,9.15
+Peru,2014,Van/LCV,10.51
+Peru,2015,All vehicles,8.22
+Peru,2015,City car,7.17
+Peru,2015,Large car,7.84
+Peru,2015,Large SUV/Pick-up,9.96
+Peru,2015,Medium car,7.4
+Peru,2015,Small SUV/Pick-up,9.06
+Peru,2015,Van/LCV,10.22
+Peru,2016,All vehicles,8.02
+Peru,2016,City car,6.94
+Peru,2016,Large car,7.57
+Peru,2016,Large SUV/Pick-up,9.79
+Peru,2016,Medium car,7.25
+Peru,2016,Small SUV/Pick-up,8.83
+Peru,2016,Van/LCV,10.01
+Peru,2017,All vehicles,8.08
+Peru,2017,City car,7.11
+Peru,2017,Large car,7.56
+Peru,2017,Large SUV/Pick-up,10.0
+Peru,2017,Medium car,7.35
+Peru,2017,Small SUV/Pick-up,8.63
+Peru,2017,Van/LCV,9.81
+Peru,2018,All vehicles,8.38
+Peru,2018,City car,6.87
+Peru,2018,Large car,9.03
+Peru,2018,Large SUV/Pick-up,9.9
+Peru,2018,Medium car,7.58
+Peru,2018,Small SUV/Pick-up,9.06
+Peru,2018,Van/LCV,9.96
+Peru,2019,All vehicles,8.3
+Peru,2019,City car,6.92
+Peru,2019,Large car,9.02
+Peru,2019,Large SUV/Pick-up,9.63
+Peru,2019,Medium car,7.39
+Peru,2019,Small SUV/Pick-up,8.98
+Peru,2019,Van/LCV,9.66
+Philippines,2012,All vehicles,9.06
+Philippines,2012,City car,6.95
+Philippines,2012,Large car,10.88
+Philippines,2012,Large SUV/Pick-up,11.34
+Philippines,2012,Medium car,6.71
+Philippines,2012,Small SUV/Pick-up,8.71
+Philippines,2012,Van/LCV,10.75
+Philippines,2013,All vehicles,9.08
+Philippines,2013,City car,6.8
+Philippines,2013,Large car,10.45
+Philippines,2013,Large SUV/Pick-up,11.19
+Philippines,2013,Medium car,6.84
+Philippines,2013,Small SUV/Pick-up,8.59
+Philippines,2013,Van/LCV,11.11
+Philippines,2014,All vehicles,8.84
+Philippines,2014,City car,6.71
+Philippines,2014,Large car,10.21
+Philippines,2014,Large SUV/Pick-up,11.28
+Philippines,2014,Medium car,7.15
+Philippines,2014,Small SUV/Pick-up,8.74
+Philippines,2014,Van/LCV,10.21
+Philippines,2015,All vehicles,8.74
+Philippines,2015,City car,6.73
+Philippines,2015,Large car,9.75
+Philippines,2015,Large SUV/Pick-up,11.05
+Philippines,2015,Medium car,6.93
+Philippines,2015,Small SUV/Pick-up,8.94
+Philippines,2015,Van/LCV,9.97
+Philippines,2016,All vehicles,8.28
+Philippines,2016,City car,5.98
+Philippines,2016,Large car,9.41
+Philippines,2016,Large SUV/Pick-up,11.09
+Philippines,2016,Medium car,5.58
+Philippines,2016,Small SUV/Pick-up,8.17
+Philippines,2016,Van/LCV,10.32
+Philippines,2017,All vehicles,8.39
+Philippines,2017,City car,6.06
+Philippines,2017,Large car,9.63
+Philippines,2017,Large SUV/Pick-up,11.09
+Philippines,2017,Medium car,5.57
+Philippines,2017,Small SUV/Pick-up,7.85
+Philippines,2017,Van/LCV,10.53
+Philippines,2018,All vehicles,8.12
+Philippines,2018,City car,5.94
+Philippines,2018,Large car,9.57
+Philippines,2018,Large SUV/Pick-up,10.67
+Philippines,2018,Medium car,6.11
+Philippines,2018,Small SUV/Pick-up,7.48
+Philippines,2018,Van/LCV,9.88
+Philippines,2019,All vehicles,8.24
+Philippines,2019,City car,5.9
+Philippines,2019,Large car,9.67
+Philippines,2019,Large SUV/Pick-up,10.68
+Philippines,2019,Medium car,6.42
+Philippines,2019,Small SUV/Pick-up,8.11
+Philippines,2019,Van/LCV,9.77
+Russia,2005,All vehicles,9.33
+Russia,2005,City car,6.82
+Russia,2005,Diesel,12.56
+Russia,2005,Hybrid,4.95
+Russia,2005,Large car,8.31
+Russia,2005,Large SUV/Pick-up,11.74
+Russia,2005,Medium car,9.25
+Russia,2005,Petrol,9.11
+Russia,2005,Small SUV/Pick-up,10.87
+Russia,2005,Van/LCV,12.62
+Russia,2008,All vehicles,8.97
+Russia,2008,City car,7.14
+Russia,2008,Diesel,11.4
+Russia,2008,Electric,9.7
+Russia,2008,Hybrid,6.38
+Russia,2008,Large car,9.41
+Russia,2008,Large SUV/Pick-up,12.46
+Russia,2008,Medium car,8.62
+Russia,2008,Petrol,8.72
+Russia,2008,Small SUV/Pick-up,10.21
+Russia,2008,Van/LCV,12.08
+Russia,2010,All vehicles,8.97
+Russia,2010,City car,7.25
+Russia,2010,CNG,8.84
+Russia,2010,Diesel,9.18
+Russia,2010,Hybrid,8.39
+Russia,2010,Large car,8.97
+Russia,2010,Large SUV/Pick-up,11.78
+Russia,2010,Medium car,8.55
+Russia,2010,Petrol,8.96
+Russia,2010,Small SUV/Pick-up,10.02
+Russia,2010,Van/LCV,12.09
+Russia,2011,All vehicles,8.78
+Russia,2011,City car,7.21
+Russia,2011,CNG,7.76
+Russia,2011,Diesel,9.5
+Russia,2011,Hybrid,6.88
+Russia,2011,Large car,8.85
+Russia,2011,Large SUV/Pick-up,11.64
+Russia,2011,Medium car,8.31
+Russia,2011,Petrol,8.73
+Russia,2011,Small SUV/Pick-up,9.64
+Russia,2011,Van/LCV,11.82
+Russia,2012,All vehicles,8.63
+Russia,2012,City car,7.68
+Russia,2012,CNG,9.86
+Russia,2012,Diesel,8.44
+Russia,2012,Hybrid,7.06
+Russia,2012,Large car,8.65
+Russia,2012,Large SUV/Pick-up,11.86
+Russia,2012,Medium car,8.06
+Russia,2012,Petrol,8.65
+Russia,2012,Small SUV/Pick-up,9.59
+Russia,2012,Van/LCV,8.49
+Russia,2013,All vehicles,8.59
+Russia,2013,City car,7.71
+Russia,2013,CNG,5.41
+Russia,2013,Diesel,8.22
+Russia,2013,Hybrid,7.05
+Russia,2013,Large car,8.39
+Russia,2013,Large SUV/Pick-up,11.63
+Russia,2013,Medium car,7.98
+Russia,2013,Petrol,8.62
+Russia,2013,Small SUV/Pick-up,9.36
+Russia,2013,Van/LCV,8.4
+Russia,2014,All vehicles,8.49
+Russia,2014,City car,7.61
+Russia,2014,CNG,11.48
+Russia,2014,Diesel,8.09
+Russia,2014,Electric,1.34
+Russia,2014,Hybrid,7.27
+Russia,2014,Large car,8.33
+Russia,2014,Large SUV/Pick-up,11.41
+Russia,2014,Medium car,7.73
+Russia,2014,Petrol,8.52
+Russia,2014,Plug-in,1.9
+Russia,2014,Small SUV/Pick-up,9.12
+Russia,2014,Van/LCV,7.83
+Russia,2015,All vehicles,8.43
+Russia,2015,City car,7.61
+Russia,2015,Diesel,7.89
+Russia,2015,Electric,1.36
+Russia,2015,Hybrid,6.7
+Russia,2015,Large car,8.28
+Russia,2015,Large SUV/Pick-up,11.26
+Russia,2015,Medium car,7.68
+Russia,2015,Petrol,8.48
+Russia,2015,Plug-in,1.9
+Russia,2015,Small SUV/Pick-up,9.16
+Russia,2015,Van/LCV,7.99
+Russia,2016,All vehicles,8.31
+Russia,2016,City car,7.41
+Russia,2016,Diesel,7.73
+Russia,2016,Electric,1.56
+Russia,2016,Hybrid,6.86
+Russia,2016,Large car,8.09
+Russia,2016,Large SUV/Pick-up,10.71
+Russia,2016,Medium car,7.66
+Russia,2016,Petrol,8.36
+Russia,2016,Plug-in,2.99
+Russia,2016,Small SUV/Pick-up,8.97
+Russia,2016,Van/LCV,8.24
+Russia,2017,All vehicles,8.23
+Russia,2017,City car,7.46
+Russia,2017,Diesel,7.41
+Russia,2017,Electric,1.57
+Russia,2017,Hybrid,5.71
+Russia,2017,Large car,8.08
+Russia,2017,Large SUV/Pick-up,10.28
+Russia,2017,Medium car,7.63
+Russia,2017,Petrol,8.3
+Russia,2017,Plug-in,3.04
+Russia,2017,Small SUV/Pick-up,8.79
+Russia,2017,Van/LCV,8.15
+Russia,2018,All vehicles,8.27
+Russia,2018,City car,7.47
+Russia,2018,Diesel,7.47
+Russia,2018,Electric,2.6
+Russia,2018,Hybrid,7.27
+Russia,2018,Large car,8.29
+Russia,2018,Large SUV/Pick-up,10.47
+Russia,2018,Medium car,7.68
+Russia,2018,Petrol,8.34
+Russia,2018,Plug-in,3.09
+Russia,2018,Small SUV/Pick-up,8.73
+Russia,2018,Van/LCV,7.9
+Russia,2019,All vehicles,8.27
+Russia,2019,City car,7.54
+Russia,2019,Diesel,7.26
+Russia,2019,Electric,2.66
+Russia,2019,Hybrid,6.34
+Russia,2019,Large car,8.33
+Russia,2019,Large SUV/Pick-up,10.44
+Russia,2019,Medium car,7.69
+Russia,2019,Petrol,8.36
+Russia,2019,Plug-in,3.32
+Russia,2019,Small SUV/Pick-up,8.65
+Russia,2019,Van/LCV,7.57
+South Africa,2005,All vehicles,8.8
+South Africa,2005,City car,7.23
+South Africa,2005,Diesel,6.83
+South Africa,2005,Hybrid,4.95
+South Africa,2005,Large car,8.84
+South Africa,2005,Large SUV/Pick-up,10.98
+South Africa,2005,Medium car,8.14
+South Africa,2005,Petrol,8.28
+South Africa,2005,Small SUV/Pick-up,8.95
+South Africa,2005,Van/LCV,11.63
+South Africa,2008,All vehicles,8.64
+South Africa,2008,City car,6.95
+South Africa,2008,Diesel,7.93
+South Africa,2008,Hybrid,4.95
+South Africa,2008,Large car,8.87
+South Africa,2008,Large SUV/Pick-up,11.03
+South Africa,2008,Medium car,8.24
+South Africa,2008,Petrol,8.04
+South Africa,2008,Small SUV/Pick-up,8.79
+South Africa,2008,Van/LCV,8.92
+South Africa,2010,All vehicles,8.55
+South Africa,2010,City car,6.61
+South Africa,2010,Diesel,9.51
+South Africa,2010,Hybrid,6.02
+South Africa,2010,Large car,8.49
+South Africa,2010,Large SUV/Pick-up,11.01
+South Africa,2010,Medium car,7.8
+South Africa,2010,Petrol,8.26
+South Africa,2010,Small SUV/Pick-up,8.76
+South Africa,2010,Van/LCV,13.0
+South Africa,2011,All vehicles,8.2
+South Africa,2011,City car,6.43
+South Africa,2011,Diesel,9.14
+South Africa,2011,Hybrid,5.5
+South Africa,2011,Large car,8.14
+South Africa,2011,Large SUV/Pick-up,10.89
+South Africa,2011,Medium car,7.69
+South Africa,2011,Petrol,7.9
+South Africa,2011,Small SUV/Pick-up,8.68
+South Africa,2011,Van/LCV,12.83
+South Africa,2012,All vehicles,7.87
+South Africa,2012,City car,6.45
+South Africa,2012,Diesel,8.55
+South Africa,2012,Hybrid,5.59
+South Africa,2012,Large car,7.42
+South Africa,2012,Large SUV/Pick-up,10.06
+South Africa,2012,Medium car,7.42
+South Africa,2012,Petrol,7.67
+South Africa,2012,Small SUV/Pick-up,8.66
+South Africa,2012,Van/LCV,10.88
+South Africa,2013,All vehicles,7.71
+South Africa,2013,City car,6.37
+South Africa,2013,Diesel,8.42
+South Africa,2013,Electric,2.01
+South Africa,2013,Hybrid,7.2
+South Africa,2013,Large car,7.22
+South Africa,2013,Large SUV/Pick-up,9.86
+South Africa,2013,Medium car,7.05
+South Africa,2013,Petrol,7.46
+South Africa,2013,Small SUV/Pick-up,8.4
+South Africa,2013,Van/LCV,10.56
+South Africa,2014,All vehicles,7.61
+South Africa,2014,City car,6.36
+South Africa,2014,Diesel,8.03
+South Africa,2014,Electric,1.61
+South Africa,2014,Hybrid,5.65
+South Africa,2014,Large car,6.81
+South Africa,2014,Large SUV/Pick-up,9.23
+South Africa,2014,Medium car,6.87
+South Africa,2014,Petrol,7.44
+South Africa,2014,Small SUV/Pick-up,8.06
+South Africa,2014,Van/LCV,11.0
+South Africa,2015,All vehicles,7.49
+South Africa,2015,City car,6.24
+South Africa,2015,Diesel,7.95
+South Africa,2015,Electric,1.35
+South Africa,2015,Hybrid,5.51
+South Africa,2015,Large car,6.67
+South Africa,2015,Large SUV/Pick-up,9.13
+South Africa,2015,Medium car,6.8
+South Africa,2015,Petrol,7.28
+South Africa,2015,Small SUV/Pick-up,7.69
+South Africa,2015,Van/LCV,10.77
+South Africa,2016,All vehicles,7.39
+South Africa,2016,City car,6.19
+South Africa,2016,Diesel,7.99
+South Africa,2016,Electric,1.61
+South Africa,2016,Hybrid,5.21
+South Africa,2016,Large car,6.73
+South Africa,2016,Large SUV/Pick-up,8.86
+South Africa,2016,Medium car,6.69
+South Africa,2016,Petrol,7.13
+South Africa,2016,Small SUV/Pick-up,7.53
+South Africa,2016,Van/LCV,10.44
+South Africa,2017,All vehicles,7.4
+South Africa,2017,City car,6.1
+South Africa,2017,Diesel,8.03
+South Africa,2017,Electric,1.58
+South Africa,2017,Hybrid,4.81
+South Africa,2017,Large car,6.79
+South Africa,2017,Large SUV/Pick-up,8.85
+South Africa,2017,Medium car,6.73
+South Africa,2017,Petrol,7.12
+South Africa,2017,Small SUV/Pick-up,7.53
+South Africa,2017,Van/LCV,10.55
+South Africa,2018,All vehicles,7.35
+South Africa,2018,City car,6.01
+South Africa,2018,Diesel,7.93
+South Africa,2018,Electric,2.08
+South Africa,2018,Hybrid,4.9
+South Africa,2018,Large car,7.19
+South Africa,2018,Large SUV/Pick-up,8.57
+South Africa,2018,Medium car,7.1
+South Africa,2018,Petrol,7.06
+South Africa,2018,Small SUV/Pick-up,7.54
+South Africa,2018,Van/LCV,10.92
+South Africa,2019,All vehicles,7.35
+South Africa,2019,City car,6.06
+South Africa,2019,Diesel,7.96
+South Africa,2019,Electric,2.01
+South Africa,2019,Hybrid,5.17
+South Africa,2019,Large car,7.3
+South Africa,2019,Large SUV/Pick-up,8.61
+South Africa,2019,Medium car,7.06
+South Africa,2019,Petrol,7.08
+South Africa,2019,Small SUV/Pick-up,7.48
+South Africa,2019,Van/LCV,10.76
+South Korea,2005,All vehicles,8.08
+South Korea,2005,City car,6.04
+South Korea,2005,Diesel,8.01
+South Korea,2005,Large car,8.74
+South Korea,2005,Large SUV/Pick-up,10.03
+South Korea,2005,LPG,8.25
+South Korea,2005,Medium car,7.67
+South Korea,2005,Petrol,8.17
+South Korea,2005,Small SUV/Pick-up,7.97
+South Korea,2005,Van/LCV,7.51
+South Korea,2008,All vehicles,7.77
+South Korea,2008,City car,5.5
+South Korea,2008,Diesel,7.93
+South Korea,2008,Hybrid,7.61
+South Korea,2008,Large car,8.55
+South Korea,2008,Large SUV/Pick-up,8.33
+South Korea,2008,LPG,8.11
+South Korea,2008,Medium car,7.57
+South Korea,2008,Petrol,7.64
+South Korea,2008,Small SUV/Pick-up,8.21
+South Korea,2008,Van/LCV,7.46
+South Korea,2010,All vehicles,7.26
+South Korea,2010,City car,4.98
+South Korea,2010,Diesel,7.03
+South Korea,2010,Hybrid,5.17
+South Korea,2010,Large car,8.02
+South Korea,2010,Large SUV/Pick-up,8.45
+South Korea,2010,LPG,7.79
+South Korea,2010,Medium car,6.66
+South Korea,2010,Petrol,7.21
+South Korea,2010,Small SUV/Pick-up,6.87
+South Korea,2010,Van/LCV,7.45
+South Korea,2011,All vehicles,7.17
+South Korea,2011,Diesel,6.93
+South Korea,2011,Hybrid,9.77
+South Korea,2011,Large car,7.67
+South Korea,2011,LPG,7.56
+South Korea,2011,Petrol,7.12
+South Korea,2011,Small SUV/Pick-up,6.66
+South Korea,2011,Van/LCV,7.46
+South Korea,2012,All vehicles,6.28
+South Korea,2012,City car,4.59
+South Korea,2012,Diesel,6.29
+South Korea,2012,Hybrid,5.31
+South Korea,2012,Large car,6.72
+South Korea,2012,Large SUV/Pick-up,6.11
+South Korea,2012,LPG,6.25
+South Korea,2012,Medium car,5.69
+South Korea,2012,Petrol,6.2
+South Korea,2012,Small SUV/Pick-up,6.27
+South Korea,2012,Van/LCV,7.49
+South Korea,2013,All vehicles,6.26
+South Korea,2013,City car,4.61
+South Korea,2013,Diesel,6.36
+South Korea,2013,Electric,6.04
+South Korea,2013,Hybrid,5.36
+South Korea,2013,Large car,6.68
+South Korea,2013,Large SUV/Pick-up,6.18
+South Korea,2013,LPG,6.2
+South Korea,2013,Medium car,5.31
+South Korea,2013,Petrol,6.1
+South Korea,2013,Small SUV/Pick-up,6.37
+South Korea,2013,Van/LCV,7.45
+South Korea,2014,All vehicles,6.37
+South Korea,2014,City car,4.46
+South Korea,2014,Diesel,6.47
+South Korea,2014,Electric,1.48
+South Korea,2014,Hybrid,5.78
+South Korea,2014,Hydrogen,4.76
+South Korea,2014,Large car,6.81
+South Korea,2014,Large SUV/Pick-up,8.26
+South Korea,2014,LPG,6.8
+South Korea,2014,Medium car,5.72
+South Korea,2014,Petrol,6.17
+South Korea,2014,Small SUV/Pick-up,5.61
+South Korea,2014,Van/LCV,8.03
+South Korea,2015,All vehicles,6.31
+South Korea,2015,City car,4.44
+South Korea,2015,Diesel,6.29
+South Korea,2015,Electric,1.53
+South Korea,2015,Hybrid,5.54
+South Korea,2015,Hydrogen,4.76
+South Korea,2015,Large car,6.71
+South Korea,2015,Large SUV/Pick-up,7.94
+South Korea,2015,LPG,6.95
+South Korea,2015,Medium car,5.71
+South Korea,2015,Petrol,6.21
+South Korea,2015,Small SUV/Pick-up,5.59
+South Korea,2015,Van/LCV,8.03
+South Korea,2016,All vehicles,6.27
+South Korea,2016,City car,4.38
+South Korea,2016,Diesel,6.23
+South Korea,2016,Electric,1.51
+South Korea,2016,Hybrid,4.76
+South Korea,2016,Hydrogen,4.76
+South Korea,2016,Large car,6.73
+South Korea,2016,Large SUV/Pick-up,7.74
+South Korea,2016,LPG,6.98
+South Korea,2016,Medium car,5.52
+South Korea,2016,Petrol,6.3
+South Korea,2016,Plug-in,2.6
+South Korea,2016,Small SUV/Pick-up,5.63
+South Korea,2016,Van/LCV,7.69
+South Korea,2017,All vehicles,6.37
+South Korea,2017,City car,4.41
+South Korea,2017,Diesel,6.09
+South Korea,2017,Electric,1.47
+South Korea,2017,Hybrid,5.14
+South Korea,2017,Hydrogen,4.76
+South Korea,2017,Large car,6.74
+South Korea,2017,Large SUV/Pick-up,7.77
+South Korea,2017,LPG,6.88
+South Korea,2017,Medium car,5.42
+South Korea,2017,Petrol,6.44
+South Korea,2017,Plug-in,4.29
+South Korea,2017,Small SUV/Pick-up,5.7
+South Korea,2017,Van/LCV,7.79
+South Korea,2018,All vehicles,6.34
+South Korea,2018,City car,4.53
+South Korea,2018,Diesel,6.53
+South Korea,2018,Electric,1.65
+South Korea,2018,Hybrid,5.19
+South Korea,2018,Large car,6.8
+South Korea,2018,Large SUV/Pick-up,7.83
+South Korea,2018,LPG,6.75
+South Korea,2018,Medium car,5.52
+South Korea,2018,Petrol,6.43
+South Korea,2018,Plug-in,3.13
+South Korea,2018,Small SUV/Pick-up,5.61
+South Korea,2018,Van/LCV,8.03
+South Korea,2019,All vehicles,6.4
+South Korea,2019,City car,4.55
+South Korea,2019,Diesel,6.69
+South Korea,2019,Electric,1.74
+South Korea,2019,Hybrid,5.21
+South Korea,2019,Large car,6.67
+South Korea,2019,Large SUV/Pick-up,7.7
+South Korea,2019,LPG,6.68
+South Korea,2019,Medium car,5.64
+South Korea,2019,Petrol,6.51
+South Korea,2019,Plug-in,3.26
+South Korea,2019,Small SUV/Pick-up,5.76
+South Korea,2019,Van/LCV,8.09
+Turkey,2005,All vehicles,8.16
+Turkey,2005,City car,7.28
+Turkey,2005,Diesel,12.45
+Turkey,2005,Large car,8.68
+Turkey,2005,Large SUV/Pick-up,10.63
+Turkey,2005,Medium car,7.89
+Turkey,2005,Petrol,6.85
+Turkey,2005,Small SUV/Pick-up,9.36
+Turkey,2005,Van/LCV,8.68
+Turkey,2008,All vehicles,7.19
+Turkey,2008,City car,6.55
+Turkey,2008,Diesel,6.7
+Turkey,2008,Hybrid,5.08
+Turkey,2008,Large car,8.06
+Turkey,2008,Large SUV/Pick-up,10.28
+Turkey,2008,Medium car,6.74
+Turkey,2008,Petrol,7.85
+Turkey,2008,Small SUV/Pick-up,9.27
+Turkey,2008,Van/LCV,7.34
+Turkey,2010,All vehicles,6.61
+Turkey,2010,City car,5.91
+Turkey,2010,Diesel,6.15
+Turkey,2010,Hybrid,4.72
+Turkey,2010,Large car,7.58
+Turkey,2010,Large SUV/Pick-up,9.76
+Turkey,2010,Medium car,6.37
+Turkey,2010,Petrol,7.61
+Turkey,2010,Small SUV/Pick-up,7.54
+Turkey,2010,Van/LCV,6.59
+Turkey,2011,All vehicles,6.37
+Turkey,2011,City car,5.79
+Turkey,2011,Diesel,6.03
+Turkey,2011,Hybrid,5.82
+Turkey,2011,Large car,7.14
+Turkey,2011,Large SUV/Pick-up,9.63
+Turkey,2011,Medium car,5.93
+Turkey,2011,Petrol,7.34
+Turkey,2011,Small SUV/Pick-up,7.08
+Turkey,2011,Van/LCV,6.62
+Turkey,2012,All vehicles,6.05
+Turkey,2012,City car,5.5
+Turkey,2012,Diesel,5.64
+Turkey,2012,Hybrid,4.42
+Turkey,2012,Large car,6.07
+Turkey,2012,Large SUV/Pick-up,9.34
+Turkey,2012,Medium car,5.74
+Turkey,2012,Petrol,7.0
+Turkey,2012,Small SUV/Pick-up,6.89
+Turkey,2012,Van/LCV,6.48
+Turkey,2013,All vehicles,5.85
+Turkey,2013,City car,5.35
+Turkey,2013,Diesel,5.43
+Turkey,2013,Hybrid,4.21
+Turkey,2013,Large car,5.89
+Turkey,2013,Large SUV/Pick-up,9.1
+Turkey,2013,Medium car,5.5
+Turkey,2013,Petrol,6.68
+Turkey,2013,Small SUV/Pick-up,6.79
+Turkey,2013,Van/LCV,6.41
+Turkey,2014,All vehicles,5.58
+Turkey,2014,City car,5.2
+Turkey,2014,Diesel,5.23
+Turkey,2014,Electric,1.47
+Turkey,2014,Hybrid,4.19
+Turkey,2014,Large car,5.79
+Turkey,2014,Large SUV/Pick-up,8.4
+Turkey,2014,Medium car,5.17
+Turkey,2014,Petrol,6.52
+Turkey,2014,Small SUV/Pick-up,6.25
+Turkey,2014,Van/LCV,6.04
+Turkey,2015,All vehicles,5.56
+Turkey,2015,City car,5.28
+Turkey,2015,Diesel,5.22
+Turkey,2015,Electric,1.41
+Turkey,2015,Hybrid,4.55
+Turkey,2015,Large car,5.33
+Turkey,2015,Large SUV/Pick-up,8.3
+Turkey,2015,Medium car,5.24
+Turkey,2015,Petrol,6.41
+Turkey,2015,Small SUV/Pick-up,6.03
+Turkey,2015,Van/LCV,5.93
+Turkey,2016,All vehicles,5.41
+Turkey,2016,City car,5.11
+Turkey,2016,Diesel,5.0
+Turkey,2016,Electric,1.66
+Turkey,2016,Hybrid,3.94
+Turkey,2016,Large car,5.27
+Turkey,2016,Large SUV/Pick-up,7.85
+Turkey,2016,Medium car,5.07
+Turkey,2016,Petrol,6.38
+Turkey,2016,Plug-in,2.83
+Turkey,2016,Small SUV/Pick-up,5.92
+Turkey,2016,Van/LCV,5.76
+Turkey,2017,All vehicles,5.42
+Turkey,2017,City car,5.1
+Turkey,2017,Diesel,5.01
+Turkey,2017,Electric,1.68
+Turkey,2017,Hybrid,4.42
+Turkey,2017,Large car,5.24
+Turkey,2017,Large SUV/Pick-up,7.85
+Turkey,2017,Medium car,5.14
+Turkey,2017,Petrol,6.44
+Turkey,2017,Plug-in,2.74
+Turkey,2017,Small SUV/Pick-up,5.71
+Turkey,2017,Van/LCV,5.74
+Turkey,2018,All vehicles,5.43
+Turkey,2018,City car,5.21
+Turkey,2018,Diesel,4.75
+Turkey,2018,Electric,1.95
+Turkey,2018,Hybrid,4.54
+Turkey,2018,Large car,5.47
+Turkey,2018,Large SUV/Pick-up,7.85
+Turkey,2018,Medium car,5.42
+Turkey,2018,Petrol,6.6
+Turkey,2018,Plug-in,3.14
+Turkey,2018,Small SUV/Pick-up,5.66
+Turkey,2018,Van/LCV,4.91
+Turkey,2019,All vehicles,5.47
+Turkey,2019,City car,5.27
+Turkey,2019,Diesel,4.7
+Turkey,2019,Electric,2.33
+Turkey,2019,Hybrid,4.05
+Turkey,2019,Large car,5.42
+Turkey,2019,Large SUV/Pick-up,7.69
+Turkey,2019,Medium car,5.47
+Turkey,2019,Petrol,6.53
+Turkey,2019,Plug-in,3.49
+Turkey,2019,Small SUV/Pick-up,5.72
+Turkey,2019,Van/LCV,4.92
+Ukraine,2005,All vehicles,8.78
+Ukraine,2005,City car,7.26
+Ukraine,2005,Hybrid,4.95
+Ukraine,2005,Large car,8.96
+Ukraine,2005,Large SUV/Pick-up,12.86
+Ukraine,2005,Medium car,8.44
+Ukraine,2005,Small SUV/Pick-up,8.87
+Ukraine,2005,Van/LCV,10.26
+Ukraine,2008,All vehicles,8.31
+Ukraine,2008,City car,7.08
+Ukraine,2008,Diesel,7.89
+Ukraine,2008,Hybrid,4.95
+Ukraine,2008,Large car,8.53
+Ukraine,2008,Large SUV/Pick-up,12.14
+Ukraine,2008,Medium car,8.3
+Ukraine,2008,Petrol,8.33
+Ukraine,2008,Small SUV/Pick-up,8.71
+Ukraine,2008,Van/LCV,8.3
+Ukraine,2010,All vehicles,8.2
+Ukraine,2010,City car,6.88
+Ukraine,2010,Diesel,8.88
+Ukraine,2010,Hybrid,5.03
+Ukraine,2010,Large car,8.13
+Ukraine,2010,Large SUV/Pick-up,10.94
+Ukraine,2010,LPG,8.21
+Ukraine,2010,Medium car,8.26
+Ukraine,2010,Petrol,8.11
+Ukraine,2010,Small SUV/Pick-up,8.71
+Ukraine,2010,Van/LCV,8.32
+Ukraine,2011,All vehicles,7.97
+Ukraine,2011,City car,6.77
+Ukraine,2011,Diesel,8.48
+Ukraine,2011,Hybrid,5.08
+Ukraine,2011,Large car,7.94
+Ukraine,2011,Large SUV/Pick-up,10.52
+Ukraine,2011,LPG,8.0
+Ukraine,2011,Medium car,8.01
+Ukraine,2011,Petrol,7.82
+Ukraine,2011,Small SUV/Pick-up,8.45
+Ukraine,2011,Van/LCV,9.07
+Ukraine,2012,All vehicles,7.89
+Ukraine,2012,City car,7.2
+Ukraine,2012,Diesel,8.23
+Ukraine,2012,Hybrid,4.74
+Ukraine,2012,Large car,7.76
+Ukraine,2012,Large SUV/Pick-up,10.06
+Ukraine,2012,LPG,8.11
+Ukraine,2012,Medium car,7.68
+Ukraine,2012,Petrol,7.77
+Ukraine,2012,Small SUV/Pick-up,8.75
+Ukraine,2012,Van/LCV,7.91
+Ukraine,2013,All vehicles,7.84
+Ukraine,2013,City car,7.29
+Ukraine,2013,Diesel,8.04
+Ukraine,2013,Hybrid,4.43
+Ukraine,2013,Large car,7.47
+Ukraine,2013,Large SUV/Pick-up,10.08
+Ukraine,2013,LPG,8.93
+Ukraine,2013,Medium car,7.64
+Ukraine,2013,Petrol,7.75
+Ukraine,2013,Small SUV/Pick-up,8.39
+Ukraine,2013,Van/LCV,7.81
+Ukraine,2014,All vehicles,7.47
+Ukraine,2014,City car,6.78
+Ukraine,2014,Diesel,6.61
+Ukraine,2014,Electric,1.74
+Ukraine,2014,Hybrid,4.4
+Ukraine,2014,Large car,7.9
+Ukraine,2014,Large SUV/Pick-up,9.76
+Ukraine,2014,LPG,7.99
+Ukraine,2014,Medium car,6.7
+Ukraine,2014,Petrol,7.88
+Ukraine,2014,Small SUV/Pick-up,7.86
+Ukraine,2014,Van/LCV,6.52
+Ukraine,2015,All vehicles,7.22
+Ukraine,2015,City car,6.34
+Ukraine,2015,Diesel,6.55
+Ukraine,2015,Electric,1.74
+Ukraine,2015,Hybrid,4.4
+Ukraine,2015,Large car,7.82
+Ukraine,2015,Large SUV/Pick-up,8.92
+Ukraine,2015,LPG,8.51
+Ukraine,2015,Medium car,6.46
+Ukraine,2015,Petrol,7.62
+Ukraine,2015,Small SUV/Pick-up,7.38
+Ukraine,2015,Van/LCV,7.49
+Ukraine,2016,All vehicles,6.96
+Ukraine,2016,City car,6.1
+Ukraine,2016,CNG,7.62
+Ukraine,2016,Diesel,6.09
+Ukraine,2016,Electric,2.03
+Ukraine,2016,Hybrid,5.93
+Ukraine,2016,Large car,7.25
+Ukraine,2016,Large SUV/Pick-up,8.68
+Ukraine,2016,LPG,8.53
+Ukraine,2016,Medium car,5.96
+Ukraine,2016,Petrol,7.49
+Ukraine,2016,Small SUV/Pick-up,7.49
+Ukraine,2016,Van/LCV,6.1
+Ukraine,2017,All vehicles,6.84
+Ukraine,2017,City car,6.01
+Ukraine,2017,CNG,7.99
+Ukraine,2017,Diesel,5.96
+Ukraine,2017,Electric,2.0
+Ukraine,2017,Hybrid,5.25
+Ukraine,2017,Large car,7.27
+Ukraine,2017,Large SUV/Pick-up,8.91
+Ukraine,2017,LPG,8.16
+Ukraine,2017,Medium car,5.74
+Ukraine,2017,Petrol,7.48
+Ukraine,2017,Small SUV/Pick-up,7.14
+Ukraine,2017,Van/LCV,6.1
+Ukraine,2018,All vehicles,6.93
+Ukraine,2018,City car,6.08
+Ukraine,2018,CNG,8.06
+Ukraine,2018,Diesel,6.1
+Ukraine,2018,Electric,1.84
+Ukraine,2018,Hybrid,4.83
+Ukraine,2018,Large car,7.76
+Ukraine,2018,Large SUV/Pick-up,8.92
+Ukraine,2018,LPG,7.23
+Ukraine,2018,Medium car,5.42
+Ukraine,2018,Petrol,7.62
+Ukraine,2018,Small SUV/Pick-up,7.14
+Ukraine,2018,Van/LCV,6.08
+Ukraine,2019,All vehicles,7.26
+Ukraine,2019,City car,5.91
+Ukraine,2019,CNG,7.97
+Ukraine,2019,Diesel,6.12
+Ukraine,2019,Electric,1.99
+Ukraine,2019,Hybrid,6.0
+Ukraine,2019,Large car,7.95
+Ukraine,2019,Large SUV/Pick-up,9.68
+Ukraine,2019,LPG,7.3
+Ukraine,2019,Medium car,5.51
+Ukraine,2019,Petrol,7.94
+Ukraine,2019,Small SUV/Pick-up,7.38
+Ukraine,2019,Van/LCV,6.26
+United Kingdom,2005,All vehicles,7.36
+United Kingdom,2005,City car,6.67
+United Kingdom,2005,Diesel,6.93
+United Kingdom,2005,Electric,6.66
+United Kingdom,2005,Hybrid,4.97
+United Kingdom,2005,Large car,7.67
+United Kingdom,2005,Large SUV/Pick-up,10.28
+United Kingdom,2005,Medium car,7.36
+United Kingdom,2005,Petrol,7.69
+United Kingdom,2005,Small SUV/Pick-up,8.7
+United Kingdom,2005,Van/LCV,7.58
+United Kingdom,2008,All vehicles,7.0
+United Kingdom,2008,City car,6.37
+United Kingdom,2008,Diesel,6.58
+United Kingdom,2008,Hybrid,4.98
+United Kingdom,2008,Large car,7.35
+United Kingdom,2008,Large SUV/Pick-up,10.39
+United Kingdom,2008,Medium car,7.03
+United Kingdom,2008,Petrol,7.38
+United Kingdom,2008,Small SUV/Pick-up,8.2
+United Kingdom,2008,Van/LCV,7.11
+United Kingdom,2010,All vehicles,6.7
+United Kingdom,2010,City car,6.06
+United Kingdom,2010,CNG,9.93
+United Kingdom,2010,Diesel,6.43
+United Kingdom,2010,Hybrid,5.09
+United Kingdom,2010,Large car,7.19
+United Kingdom,2010,Large SUV/Pick-up,10.26
+United Kingdom,2010,Medium car,6.44
+United Kingdom,2010,Petrol,7.01
+United Kingdom,2010,Small SUV/Pick-up,7.3
+United Kingdom,2010,Van/LCV,7.69
+United Kingdom,2011,All vehicles,6.45
+United Kingdom,2011,City car,5.89
+United Kingdom,2011,CNG,9.93
+United Kingdom,2011,Diesel,6.2
+United Kingdom,2011,Electric,2.01
+United Kingdom,2011,Hybrid,4.92
+United Kingdom,2011,Large car,6.73
+United Kingdom,2011,Large SUV/Pick-up,9.92
+United Kingdom,2011,Medium car,6.04
+United Kingdom,2011,Petrol,6.8
+United Kingdom,2011,Small SUV/Pick-up,6.92
+United Kingdom,2011,Van/LCV,7.52
+United Kingdom,2012,All vehicles,6.18
+United Kingdom,2012,City car,5.72
+United Kingdom,2012,CNG,9.93
+United Kingdom,2012,Diesel,5.97
+United Kingdom,2012,Electric,2.25
+United Kingdom,2012,Hybrid,4.78
+United Kingdom,2012,Large car,6.2
+United Kingdom,2012,Large SUV/Pick-up,9.54
+United Kingdom,2012,Medium car,5.71
+United Kingdom,2012,Petrol,6.48
+United Kingdom,2012,Plug-in,2.49
+United Kingdom,2012,Small SUV/Pick-up,6.71
+United Kingdom,2012,Van/LCV,7.61
+United Kingdom,2013,All vehicles,6.01
+United Kingdom,2013,City car,5.53
+United Kingdom,2013,CNG,9.93
+United Kingdom,2013,Diesel,5.85
+United Kingdom,2013,Electric,2.1
+United Kingdom,2013,Hybrid,4.72
+United Kingdom,2013,Large car,6.08
+United Kingdom,2013,Large SUV/Pick-up,9.28
+United Kingdom,2013,Medium car,5.45
+United Kingdom,2013,Petrol,6.24
+United Kingdom,2013,Plug-in,3.24
+United Kingdom,2013,Small SUV/Pick-up,6.48
+United Kingdom,2013,Van/LCV,7.59
+United Kingdom,2014,All vehicles,5.85
+United Kingdom,2014,City car,5.43
+United Kingdom,2014,CNG,12.8
+United Kingdom,2014,Diesel,5.7
+United Kingdom,2014,Electric,1.56
+United Kingdom,2014,Hybrid,4.63
+United Kingdom,2014,Large car,5.91
+United Kingdom,2014,Large SUV/Pick-up,8.79
+United Kingdom,2014,Medium car,5.31
+United Kingdom,2014,Petrol,6.14
+United Kingdom,2014,Plug-in,1.9
+United Kingdom,2014,Small SUV/Pick-up,6.06
+United Kingdom,2014,Van/LCV,7.05
+United Kingdom,2015,All vehicles,5.75
+United Kingdom,2015,City car,5.31
+United Kingdom,2015,Diesel,5.61
+United Kingdom,2015,Electric,1.61
+United Kingdom,2015,Hybrid,4.53
+United Kingdom,2015,Large car,5.67
+United Kingdom,2015,Large SUV/Pick-up,8.3
+United Kingdom,2015,Medium car,5.19
+United Kingdom,2015,Petrol,6.03
+United Kingdom,2015,Plug-in,1.86
+United Kingdom,2015,Small SUV/Pick-up,5.85
+United Kingdom,2015,Van/LCV,7.04
+United Kingdom,2016,All vehicles,5.69
+United Kingdom,2016,City car,5.27
+United Kingdom,2016,CNG,18.01
+United Kingdom,2016,Diesel,5.53
+United Kingdom,2016,Electric,1.93
+United Kingdom,2016,Hybrid,4.5
+United Kingdom,2016,Large car,5.57
+United Kingdom,2016,Large SUV/Pick-up,7.74
+United Kingdom,2016,Medium car,5.17
+United Kingdom,2016,Petrol,6.02
+United Kingdom,2016,Plug-in,2.88
+United Kingdom,2016,Small SUV/Pick-up,5.75
+United Kingdom,2016,Van/LCV,7.07
+United Kingdom,2017,All vehicles,5.75
+United Kingdom,2017,City car,5.27
+United Kingdom,2017,CNG,18.01
+United Kingdom,2017,Diesel,5.57
+United Kingdom,2017,Electric,1.92
+United Kingdom,2017,Hybrid,4.42
+United Kingdom,2017,Large car,5.72
+United Kingdom,2017,Large SUV/Pick-up,7.54
+United Kingdom,2017,Medium car,5.33
+United Kingdom,2017,Petrol,6.12
+United Kingdom,2017,Plug-in,2.88
+United Kingdom,2017,Small SUV/Pick-up,5.85
+United Kingdom,2017,Van/LCV,6.67
+United Kingdom,2018,All vehicles,6.01
+United Kingdom,2018,City car,5.48
+United Kingdom,2018,Diesel,5.72
+United Kingdom,2018,Electric,2.17
+United Kingdom,2018,Hybrid,4.72
+United Kingdom,2018,Large car,6.3
+United Kingdom,2018,Large SUV/Pick-up,8.1
+United Kingdom,2018,Medium car,5.66
+United Kingdom,2018,Petrol,6.39
+United Kingdom,2018,Plug-in,2.19
+United Kingdom,2018,Small SUV/Pick-up,6.28
+United Kingdom,2018,Van/LCV,5.08
+United Kingdom,2019,All vehicles,6.28
+United Kingdom,2019,City car,5.75
+United Kingdom,2019,Diesel,5.97
+United Kingdom,2019,Electric,2.1
+United Kingdom,2019,Hybrid,4.69
+United Kingdom,2019,Large car,6.43
+United Kingdom,2019,Large SUV/Pick-up,8.5
+United Kingdom,2019,Medium car,5.84
+United Kingdom,2019,Petrol,6.7
+United Kingdom,2019,Plug-in,2.38
+United Kingdom,2019,Small SUV/Pick-up,6.55
+United Kingdom,2019,Van/LCV,5.43
+United States,2005,All vehicles,11.1
+United States,2005,City car,8.19
+United States,2005,CNG,10.07
+United States,2005,Hybrid,6.44
+United States,2005,Large car,10.16
+United States,2005,Large SUV/Pick-up,13.78
+United States,2005,Medium car,7.76
+United States,2005,Petrol,10.99
+United States,2005,Small SUV/Pick-up,11.22
+United States,2005,Van/LCV,13.94
+United States,2008,All vehicles,10.25
+United States,2008,City car,7.41
+United States,2008,Hybrid,5.43
+United States,2008,Large car,9.92
+United States,2008,Large SUV/Pick-up,13.39
+United States,2008,Medium car,7.4
+United States,2008,Petrol,9.94
+United States,2008,Small SUV/Pick-up,10.68
+United States,2008,Van/LCV,19.07
+United States,2010,All vehicles,9.5
+United States,2010,City car,6.83
+United States,2010,CNG,9.57
+United States,2010,Hybrid,5.2
+United States,2010,Hydrogen,3.15
+United States,2010,Large car,9.14
+United States,2010,Large SUV/Pick-up,11.88
+United States,2010,Medium car,7.04
+United States,2010,Petrol,9.38
+United States,2010,Small SUV/Pick-up,9.53
+United States,2010,Van/LCV,13.79
+United States,2011,All vehicles,9.36
+United States,2011,City car,6.75
+United States,2011,CNG,9.57
+United States,2011,Hybrid,5.0
+United States,2011,Hydrogen,3.15
+United States,2011,Large car,8.95
+United States,2011,Large SUV/Pick-up,11.71
+United States,2011,Medium car,6.97
+United States,2011,Petrol,9.19
+United States,2011,Small SUV/Pick-up,9.32
+United States,2011,Van/LCV,13.71
+United States,2012,All vehicles,9.09
+United States,2012,City car,6.36
+United States,2012,CNG,14.54
+United States,2012,Diesel,6.7
+United States,2012,Hybrid,4.8
+United States,2012,Hydrogen,3.15
+United States,2012,Large car,8.53
+United States,2012,Large SUV/Pick-up,11.84
+United States,2012,Medium car,6.71
+United States,2012,Petrol,8.8
+United States,2012,Plug-in,3.82
+United States,2012,Small SUV/Pick-up,8.98
+United States,2012,Van/LCV,14.67
+United States,2013,All vehicles,8.97
+United States,2013,City car,6.29
+United States,2013,CNG,12.12
+United States,2013,Diesel,6.86
+United States,2013,Hybrid,4.95
+United States,2013,Hydrogen,3.15
+United States,2013,Large car,8.28
+United States,2013,Large SUV/Pick-up,11.77
+United States,2013,Medium car,6.67
+United States,2013,Petrol,8.75
+United States,2013,Plug-in,4.94
+United States,2013,Small SUV/Pick-up,8.76
+United States,2013,Van/LCV,14.4
+United States,2014,All vehicles,8.77
+United States,2014,City car,6.22
+United States,2014,CNG,16.0
+United States,2014,Diesel,7.09
+United States,2014,Electric,1.76
+United States,2014,Hybrid,4.87
+United States,2014,Large car,8.06
+United States,2014,Large SUV/Pick-up,11.27
+United States,2014,Medium car,6.4
+United States,2014,Petrol,8.62
+United States,2014,Plug-in,3.36
+United States,2014,Small SUV/Pick-up,8.73
+United States,2014,Van/LCV,14.7
+United States,2015,All vehicles,8.65
+United States,2015,City car,6.06
+United States,2015,CNG,14.39
+United States,2015,Diesel,6.84
+United States,2015,Electric,1.79
+United States,2015,Hybrid,4.95
+United States,2015,Hydrogen,3.15
+United States,2015,Large car,7.98
+United States,2015,Large SUV/Pick-up,10.89
+United States,2015,Medium car,6.39
+United States,2015,Petrol,8.55
+United States,2015,Plug-in,3.37
+United States,2015,Small SUV/Pick-up,8.45
+United States,2015,Van/LCV,14.45
+United States,2016,All vehicles,8.6
+United States,2016,City car,5.9
+United States,2016,CNG,22.32
+United States,2016,Diesel,9.53
+United States,2016,Electric,1.96
+United States,2016,Hybrid,4.62
+United States,2016,Hydrogen,4.1
+United States,2016,Large car,7.86
+United States,2016,Large SUV/Pick-up,10.78
+United States,2016,Medium car,6.23
+United States,2016,Petrol,8.55
+United States,2016,Plug-in,2.78
+United States,2016,Small SUV/Pick-up,8.28
+United States,2016,Van/LCV,12.98
+United States,2017,All vehicles,8.57
+United States,2017,City car,5.56
+United States,2017,CNG,22.41
+United States,2017,Diesel,9.12
+United States,2017,Electric,1.87
+United States,2017,Hybrid,4.72
+United States,2017,Hydrogen,4.06
+United States,2017,Large car,7.77
+United States,2017,Large SUV/Pick-up,10.7
+United States,2017,Medium car,6.16
+United States,2017,Petrol,8.56
+United States,2017,Plug-in,2.67
+United States,2017,Small SUV/Pick-up,8.1
+United States,2017,Van/LCV,13.22
+United States,2018,All vehicles,8.52
+United States,2018,City car,5.66
+United States,2018,CNG,22.73
+United States,2018,Diesel,9.41
+United States,2018,Electric,1.74
+United States,2018,Hybrid,4.71
+United States,2018,Hydrogen,2.86
+United States,2018,Large car,7.52
+United States,2018,Large SUV/Pick-up,10.74
+United States,2018,Medium car,6.12
+United States,2018,Petrol,8.54
+United States,2018,Plug-in,3.76
+United States,2018,Small SUV/Pick-up,8.05
+United States,2018,Van/LCV,13.16
+United States,2019,All vehicles,8.57
+United States,2019,City car,5.78
+United States,2019,CNG,22.73
+United States,2019,Diesel,10.08
+United States,2019,Electric,1.86
+United States,2019,Hybrid,4.72
+United States,2019,Hydrogen,2.95
+United States,2019,Large car,7.47
+United States,2019,Large SUV/Pick-up,10.83
+United States,2019,Medium car,6.11
+United States,2019,Petrol,8.63
+United States,2019,Plug-in,3.7
+United States,2019,Small SUV/Pick-up,7.95
+United States,2019,Van/LCV,12.73

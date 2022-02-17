@@ -1,0 +1,1013 @@
+region,parameter,powertrain,year,unit,value
+Australia,EV sales,BEV,2011,N/A,49.0
+Australia,EV sales share,EV,2011,percent,0.006
+Australia,EV sales,BEV,2012,N/A,173.0
+Australia,EV sales,PHEV,2012,N/A,80.0
+Australia,EV sales share,EV,2012,percent,0.029
+Australia,EV sales,BEV,2013,N/A,191.0
+Australia,EV sales,PHEV,2013,N/A,102.0
+Australia,EV sales share,EV,2013,percent,0.033
+Australia,EV sales,BEV,2014,N/A,371.0
+Australia,EV sales,PHEV,2014,N/A,951.0
+Australia,EV sales share,EV,2014,percent,0.149
+Australia,EV sales,BEV,2015,N/A,759.0
+Australia,EV sales,PHEV,2015,N/A,1012.0
+Australia,EV sales share,EV,2015,percent,0.191
+Australia,EV sales,BEV,2016,N/A,668.0
+Australia,EV sales,PHEV,2016,N/A,701.0
+Australia,EV sales share,EV,2016,percent,0.147
+Australia,EV sales,BEV,2017,N/A,1208.0
+Australia,EV sales,PHEV,2017,N/A,1076.0
+Australia,EV sales share,EV,2017,percent,0.249
+Australia,EV sales,BEV,2018,N/A,1803.0
+Australia,EV sales,PHEV,2018,N/A,1802.0
+Australia,EV sales share,EV,2018,percent,0.411
+Australia,EV sales,BEV,2019,N/A,6283.0
+Australia,EV sales,PHEV,2019,N/A,2877.0
+Australia,EV sales share,EV,2019,percent,1.133
+Australia,EV sales,BEV,2020,N/A,5238.0
+Australia,EV sales,PHEV,2020,N/A,1307.0
+Australia,EV sales share,EV,2020,percent,0.951
+Belgium,EV sales,BEV,2011,N/A,175.0
+Belgium,EV sales,PHEV,2011,N/A,11.0
+Belgium,EV sales share,EV,2011,percent,0.033
+Belgium,EV sales,BEV,2012,N/A,355.0
+Belgium,EV sales,PHEV,2012,N/A,210.0
+Belgium,EV sales share,EV,2012,percent,0.116
+Belgium,EV sales,BEV,2013,N/A,500.0
+Belgium,EV sales,PHEV,2013,N/A,34.0
+Belgium,EV sales share,EV,2013,percent,0.11
+Belgium,EV sales,BEV,2014,N/A,2047.0
+Belgium,EV sales,PHEV,2014,N/A,69.0
+Belgium,EV sales share,EV,2014,percent,0.438
+Belgium,EV sales,BEV,2015,N/A,1358.0
+Belgium,EV sales,FCEV,2015,N/A,2.0
+Belgium,EV sales,PHEV,2015,N/A,2477.0
+Belgium,EV sales share,EV,2015,percent,0.765
+Belgium,EV sales,BEV,2016,N/A,2054.0
+Belgium,EV sales,FCEV,2016,N/A,7.0
+Belgium,EV sales,PHEV,2016,N/A,6671.0
+Belgium,EV sales share,EV,2016,percent,1.617
+Belgium,EV sales,BEV,2017,N/A,2713.0
+Belgium,EV sales,FCEV,2017,N/A,11.0
+Belgium,EV sales,PHEV,2017,N/A,11746.0
+Belgium,EV sales share,EV,2017,percent,2.646
+Belgium,EV sales,BEV,2018,N/A,3647.0
+Belgium,EV sales,FCEV,2018,N/A,16.0
+Belgium,EV sales,PHEV,2018,N/A,9706.0
+Belgium,EV sales share,EV,2018,percent,2.429
+Belgium,EV sales,BEV,2019,N/A,8837.0
+Belgium,EV sales,FCEV,2019,N/A,12.0
+Belgium,EV sales,PHEV,2019,N/A,8924.0
+Belgium,EV sales share,EV,2019,percent,3.229
+Belgium,EV sales,BEV,2020,N/A,15195.0
+Belgium,EV sales,FCEV,2020,N/A,23.0
+Belgium,EV sales,PHEV,2020,N/A,33012.0
+Belgium,EV sales share,EV,2020,percent,11.172
+Brazil,EV sales,BEV,2012,N/A,73.6
+Brazil,EV sales,PHEV,2012,N/A,18.4
+Brazil,EV sales share,EV,2012,percent,0.003
+Brazil,EV sales,BEV,2013,N/A,133.6
+Brazil,EV sales,PHEV,2013,N/A,33.4
+Brazil,EV sales share,EV,2013,percent,0.005
+Brazil,EV sales,BEV,2014,N/A,61.0
+Brazil,EV sales share,EV,2014,percent,0.002
+Brazil,EV sales,BEV,2015,N/A,59.0
+Brazil,EV sales,PHEV,2015,N/A,28.0
+Brazil,EV sales share,EV,2015,percent,0.004
+Brazil,EV sales,BEV,2016,N/A,126.0
+Brazil,EV sales,PHEV,2016,N/A,47.0
+Brazil,EV sales share,EV,2016,percent,0.01
+Brazil,EV sales,BEV,2017,N/A,28.0
+Brazil,EV sales,PHEV,2017,N/A,288.0
+Brazil,EV sales share,EV,2017,percent,0.017
+Brazil,EV sales,BEV,2018,N/A,71.0
+Brazil,EV sales,PHEV,2018,N/A,234.0
+Brazil,EV sales share,EV,2018,percent,0.019
+Brazil,EV sales,BEV,2019,N/A,538.0
+Brazil,EV sales,PHEV,2019,N/A,1373.0
+Brazil,EV sales share,EV,2019,percent,0.084
+Brazil,EV sales,BEV,2020,N/A,686.0
+Brazil,EV sales,PHEV,2020,N/A,1296.0
+Brazil,EV sales share,EV,2020,percent,0.116
+Canada,EV sales,BEV,2011,N/A,220.0
+Canada,EV sales,PHEV,2011,N/A,300.0
+Canada,EV sales share,EV,2011,percent,0.041
+Canada,EV sales,BEV,2012,N/A,620.0
+Canada,EV sales,PHEV,2012,N/A,1400.0
+Canada,EV sales share,EV,2012,percent,0.148
+Canada,EV sales,BEV,2013,N/A,1640.0
+Canada,EV sales,PHEV,2013,N/A,1480.0
+Canada,EV sales share,EV,2013,percent,0.222
+Canada,EV sales,BEV,2014,N/A,2825.0
+Canada,EV sales,PHEV,2014,N/A,2240.0
+Canada,EV sales share,EV,2014,percent,0.357
+Canada,EV sales,BEV,2015,N/A,4380.0
+Canada,EV sales,PHEV,2015,N/A,2580.0
+Canada,EV sales share,EV,2015,percent,0.459
+Canada,EV sales,BEV,2016,N/A,5220.0
+Canada,EV sales,PHEV,2016,N/A,6360.0
+Canada,EV sales share,EV,2016,percent,0.752
+Canada,EV sales,BEV,2017,N/A,8714.55
+Canada,EV sales,PHEV,2017,N/A,7970.15
+Canada,EV sales share,EV,2017,percent,1.018
+Canada,EV sales,BEV,2018,N/A,22660.0
+Canada,EV sales,PHEV,2018,N/A,21490.0
+Canada,EV sales share,EV,2018,percent,2.754
+Canada,EV sales,BEV,2019,N/A,32402.0
+Canada,EV sales,FCEV,2019,N/A,79.0
+Canada,EV sales,PHEV,2019,N/A,18561.0
+Canada,EV sales share,EV,2019,percent,3.253
+Canada,EV sales,BEV,2020,N/A,36912.0
+Canada,EV sales,FCEV,2020,N/A,16.0
+Canada,EV sales,PHEV,2020,N/A,14464.0
+Canada,EV sales share,EV,2020,percent,4.157
+Chile,EV sales,BEV,2011,N/A,6.0
+Chile,EV sales share,EV,2011,percent,0.002
+Chile,EV sales,BEV,2012,N/A,5.0
+Chile,EV sales share,EV,2012,percent,0.002
+Chile,EV sales,BEV,2013,N/A,5.0
+Chile,EV sales share,EV,2013,percent,0.002
+Chile,EV sales,BEV,2014,N/A,3.0
+Chile,EV sales,PHEV,2014,N/A,14.0
+Chile,EV sales share,EV,2014,percent,0.007
+Chile,EV sales,BEV,2015,N/A,13.0
+Chile,EV sales,PHEV,2015,N/A,23.0
+Chile,EV sales share,EV,2015,percent,0.019
+Chile,EV sales,BEV,2016,N/A,22.0
+Chile,EV sales,PHEV,2016,N/A,9.0
+Chile,EV sales share,EV,2016,percent,0.015
+Chile,EV sales,BEV,2017,N/A,118.0
+Chile,EV sales,PHEV,2017,N/A,15.0
+Chile,EV sales share,EV,2017,percent,0.06
+Chile,EV sales,BEV,2018,N/A,109.0
+Chile,EV sales,PHEV,2018,N/A,68.0
+Chile,EV sales share,EV,2018,percent,0.071
+Chile,EV sales,BEV,2019,N/A,161.0
+Chile,EV sales,PHEV,2019,N/A,137.0
+Chile,EV sales share,EV,2019,percent,0.141
+Chile,EV sales,BEV,2020,N/A,112.0
+Chile,EV sales,PHEV,2020,N/A,79.0
+Chile,EV sales share,EV,2020,percent,0.129
+China,EV sales,BEV,2010,N/A,1090.0
+China,EV sales,PHEV,2010,N/A,340.0
+China,EV sales share,EV,2010,percent,0.01
+China,EV sales,BEV,2011,N/A,4750.0
+China,EV sales,PHEV,2011,N/A,320.0
+China,EV sales share,EV,2011,percent,0.034
+China,EV sales,BEV,2012,N/A,9640.0
+China,EV sales,PHEV,2012,N/A,260.0
+China,EV sales share,EV,2012,percent,0.062
+China,EV sales,BEV,2013,N/A,14610.0
+China,EV sales,PHEV,2013,N/A,730.0
+China,EV sales share,EV,2013,percent,0.083
+China,EV sales,BEV,2014,N/A,48906.3
+China,EV sales,PHEV,2014,N/A,24265.2
+China,EV sales share,EV,2014,percent,0.354
+China,EV sales,BEV,2015,N/A,146719.0
+China,EV sales,PHEV,2015,N/A,60663.0
+China,EV sales share,EV,2015,percent,0.944
+China,EV sales,BEV,2016,N/A,257000.0
+China,EV sales,PHEV,2016,N/A,79000.0
+China,EV sales share,EV,2016,percent,1.353
+China,EV sales,BEV,2017,N/A,468000.0
+China,EV sales,PHEV,2017,N/A,111000.0
+China,EV sales share,EV,2017,percent,2.329
+China,EV sales,BEV,2018,N/A,815870.0
+China,EV sales,FCEV,2018,N/A,1527.0
+China,EV sales,PHEV,2018,N/A,265219.0
+China,EV sales share,EV,2018,percent,4.465
+China,EV sales,BEV,2019,N/A,834197.0
+China,EV sales,FCEV,2019,N/A,2737.0
+China,EV sales,PHEV,2019,N/A,226106.0
+China,EV sales share,EV,2019,percent,4.79
+China,EV sales,BEV,2020,N/A,931291.0
+China,EV sales,FCEV,2020,N/A,1182.0
+China,EV sales,PHEV,2020,N/A,228291.0
+China,EV sales share,EV,2020,percent,5.747
+Denmark,EV sales,BEV,2010,N/A,28.0
+Denmark,EV sales,PHEV,2010,N/A,20.0
+Denmark,EV sales share,EV,2010,percent,0.031
+Denmark,EV sales,BEV,2011,N/A,422.0
+Denmark,EV sales share,EV,2011,percent,0.248
+Denmark,EV sales,BEV,2012,N/A,486.0
+Denmark,EV sales,PHEV,2012,N/A,11.0
+Denmark,EV sales share,EV,2012,percent,0.291
+Denmark,EV sales,BEV,2013,N/A,495.0
+Denmark,EV sales,PHEV,2013,N/A,6.0
+Denmark,EV sales share,EV,2013,percent,0.275
+Denmark,EV sales,BEV,2014,N/A,1508.0
+Denmark,EV sales,PHEV,2014,N/A,87.0
+Denmark,EV sales share,EV,2014,percent,0.839
+Denmark,EV sales,BEV,2015,N/A,4239.0
+Denmark,EV sales,FCEV,2015,N/A,37.0
+Denmark,EV sales,PHEV,2015,N/A,359.0
+Denmark,EV sales share,EV,2015,percent,2.173
+Denmark,EV sales,BEV,2016,N/A,1218.0
+Denmark,EV sales,FCEV,2016,N/A,16.0
+Denmark,EV sales,PHEV,2016,N/A,182.26
+Denmark,EV sales share,EV,2016,percent,0.624
+Denmark,EV sales,BEV,2017,N/A,693.0
+Denmark,EV sales,FCEV,2017,N/A,15.0
+Denmark,EV sales,PHEV,2017,N/A,620.0
+Denmark,EV sales share,EV,2017,percent,0.589
+Denmark,EV sales,BEV,2018,N/A,1545.0
+Denmark,EV sales,FCEV,2018,N/A,5.0
+Denmark,EV sales,PHEV,2018,N/A,3127.0
+Denmark,EV sales share,EV,2018,percent,2.093
+Denmark,EV sales,BEV,2019,N/A,5532.0
+Denmark,EV sales,FCEV,2019,N/A,8.0
+Denmark,EV sales,PHEV,2019,N/A,3885.0
+Denmark,EV sales share,EV,2019,percent,4.01
+Denmark,EV sales,BEV,2020,N/A,14232.0
+Denmark,EV sales,FCEV,2020,N/A,45.0
+Denmark,EV sales,PHEV,2020,N/A,18246.0
+Denmark,EV sales share,EV,2020,percent,16.358
+Europe,EV sales share,EV,2010,percent,0.017
+Europe,EV sales share,EV,2011,percent,0.069
+Europe,EV sales share,EV,2012,percent,0.196
+Europe,EV sales share,EV,2013,percent,0.421
+Europe,EV sales share,EV,2014,percent,0.654
+Europe,EV sales share,EV,2015,percent,1.169
+Europe,EV sales share,EV,2016,percent,1.213
+Europe,EV sales share,EV,2017,percent,1.669
+Europe,EV sales share,EV,2018,percent,2.174
+Europe,EV sales share,EV,2019,percent,3.214
+Europe,EV sales share,EV,2020,percent,9.988
+Finland,EV sales,BEV,2011,N/A,30.0
+Finland,EV sales share,EV,2011,percent,0.025
+Finland,EV sales,BEV,2012,N/A,51.0
+Finland,EV sales,PHEV,2012,N/A,128.0
+Finland,EV sales share,EV,2012,percent,0.167
+Finland,EV sales,BEV,2013,N/A,50.0
+Finland,EV sales,PHEV,2013,N/A,168.0
+Finland,EV sales share,EV,2013,percent,0.211
+Finland,EV sales,BEV,2014,N/A,183.0
+Finland,EV sales,PHEV,2014,N/A,257.0
+Finland,EV sales share,EV,2014,percent,0.412
+Finland,EV sales,BEV,2015,N/A,243.0
+Finland,EV sales,PHEV,2015,N/A,442.0
+Finland,EV sales share,EV,2015,percent,0.625
+Finland,EV sales,BEV,2016,N/A,223.0
+Finland,EV sales,PHEV,2016,N/A,1207.0
+Finland,EV sales share,EV,2016,percent,1.188
+Finland,EV sales,BEV,2017,N/A,502.0
+Finland,EV sales,PHEV,2017,N/A,2553.0
+Finland,EV sales share,EV,2017,percent,2.513
+Finland,EV sales,BEV,2018,N/A,776.0
+Finland,EV sales,FCEV,2018,N/A,1.0
+Finland,EV sales,PHEV,2018,N/A,4932.0
+Finland,EV sales share,EV,2018,percent,4.525
+Finland,EV sales,BEV,2019,N/A,1897.0
+Finland,EV sales,PHEV,2019,N/A,5983.0
+Finland,EV sales share,EV,2019,percent,6.9
+Finland,EV sales,BEV,2020,N/A,4245.0
+Finland,EV sales,PHEV,2020,N/A,13231.0
+Finland,EV sales share,EV,2020,percent,18.127
+France,EV sales,BEV,2010,N/A,187.0
+France,EV sales share,EV,2010,percent,0.008
+France,EV sales,BEV,2011,N/A,2630.0
+France,EV sales,PHEV,2011,N/A,96.16
+France,EV sales share,EV,2011,percent,0.126
+France,EV sales,BEV,2012,N/A,5661.0
+France,EV sales,PHEV,2012,N/A,601.0
+France,EV sales share,EV,2012,percent,0.337
+France,EV sales,BEV,2013,N/A,8781.0
+France,EV sales,FCEV,2013,N/A,1.0
+France,EV sales,PHEV,2013,N/A,834.0
+France,EV sales share,EV,2013,percent,0.547
+France,EV sales,BEV,2014,N/A,10567.0
+France,EV sales,FCEV,2014,N/A,1.0
+France,EV sales,PHEV,2014,N/A,2068.0
+France,EV sales share,EV,2014,percent,0.716
+France,EV sales,BEV,2015,N/A,17270.0
+France,EV sales,FCEV,2015,N/A,10.0
+France,EV sales,PHEV,2015,N/A,5677.0
+France,EV sales share,EV,2015,percent,1.217
+France,EV sales,BEV,2016,N/A,21758.0
+France,EV sales,FCEV,2016,N/A,4.0
+France,EV sales,PHEV,2016,N/A,7749.0
+France,EV sales share,EV,2016,percent,1.487
+France,EV sales,BEV,2017,N/A,25983.0
+France,EV sales,FCEV,2017,N/A,46.0
+France,EV sales,PHEV,2017,N/A,11614.0
+France,EV sales share,EV,2017,percent,1.808
+France,EV sales,BEV,2018,N/A,31055.0
+France,EV sales,FCEV,2018,N/A,10.0
+France,EV sales,PHEV,2018,N/A,15648.0
+France,EV sales share,EV,2018,percent,2.184
+France,EV sales,BEV,2019,N/A,42800.0
+France,EV sales,FCEV,2019,N/A,60.0
+France,EV sales,PHEV,2019,N/A,18553.0
+France,EV sales share,EV,2019,percent,2.822
+France,EV sales,BEV,2020,N/A,110000.0
+France,EV sales,FCEV,2020,N/A,211.0
+France,EV sales,PHEV,2020,N/A,74587.0
+France,EV sales share,EV,2020,percent,11.316
+Germany,EV sales,BEV,2010,N/A,144.0
+Germany,EV sales,FCEV,2010,N/A,16.0
+Germany,EV sales share,EV,2010,percent,0.005
+Germany,EV sales,BEV,2011,N/A,1404.0
+Germany,EV sales,FCEV,2011,N/A,38.0
+Germany,EV sales,PHEV,2011,N/A,241.0
+Germany,EV sales share,EV,2011,percent,0.052
+Germany,EV sales,BEV,2012,N/A,2214.0
+Germany,EV sales,FCEV,2012,N/A,29.0
+Germany,EV sales,PHEV,2012,N/A,1157.0
+Germany,EV sales share,EV,2012,percent,0.109
+Germany,EV sales,BEV,2013,N/A,5311.0
+Germany,EV sales,FCEV,2013,N/A,23.0
+Germany,EV sales,PHEV,2013,N/A,1620.0
+Germany,EV sales share,EV,2013,percent,0.234
+Germany,EV sales,BEV,2014,N/A,8347.0
+Germany,EV sales,FCEV,2014,N/A,8.0
+Germany,EV sales,PHEV,2014,N/A,4390.0
+Germany,EV sales share,EV,2014,percent,0.418
+Germany,EV sales,BEV,2015,N/A,12081.0
+Germany,EV sales,FCEV,2015,N/A,63.0
+Germany,EV sales,PHEV,2015,N/A,11111.0
+Germany,EV sales share,EV,2015,percent,0.718
+Germany,EV sales,BEV,2016,N/A,11321.5
+Germany,EV sales,PHEV,2016,N/A,13290.5
+Germany,EV sales share,EV,2016,percent,0.729
+Germany,EV sales,BEV,2017,N/A,25065.0
+Germany,EV sales,FCEV,2017,N/A,11.0
+Germany,EV sales,PHEV,2017,N/A,29499.0
+Germany,EV sales share,EV,2017,percent,1.561
+Germany,EV sales,BEV,2018,N/A,36062.0
+Germany,EV sales,FCEV,2018,N/A,24.0
+Germany,EV sales,PHEV,2018,N/A,31442.0
+Germany,EV sales share,EV,2018,percent,1.927
+Germany,EV sales,BEV,2019,N/A,63281.0
+Germany,EV sales,FCEV,2019,N/A,201.0
+Germany,EV sales,PHEV,2019,N/A,45348.0
+Germany,EV sales share,EV,2019,percent,2.923
+Germany,EV sales,BEV,2020,N/A,194474.0
+Germany,EV sales,FCEV,2020,N/A,308.0
+Germany,EV sales,PHEV,2020,N/A,200469.0
+Germany,EV sales share,EV,2020,percent,13.536
+Greece,EV sales,BEV,2013,N/A,3.0
+Greece,EV sales share,EV,2013,percent,0.005
+Greece,EV sales,BEV,2014,N/A,39.0
+Greece,EV sales share,EV,2014,percent,0.055
+Greece,EV sales,BEV,2015,N/A,54.0
+Greece,EV sales,PHEV,2015,N/A,21.0
+Greece,EV sales share,EV,2015,percent,0.099
+Greece,EV sales,BEV,2016,N/A,41.0
+Greece,EV sales,PHEV,2016,N/A,55.0
+Greece,EV sales share,EV,2016,percent,0.122
+Greece,EV sales,BEV,2017,N/A,53.0
+Greece,EV sales,PHEV,2017,N/A,138.0
+Greece,EV sales share,EV,2017,percent,0.217
+Greece,EV sales,BEV,2018,N/A,88.0
+Greece,EV sales,PHEV,2018,N/A,211.0
+Greece,EV sales share,EV,2018,percent,0.289
+Greece,EV sales,BEV,2019,N/A,190.0
+Greece,EV sales,PHEV,2019,N/A,290.0
+Greece,EV sales share,EV,2019,percent,0.421
+Greece,EV sales,BEV,2020,N/A,679.0
+Greece,EV sales,PHEV,2020,N/A,1452.0
+Greece,EV sales share,EV,2020,percent,2.632
+Iceland,EV sales,BEV,2010,N/A,2.0
+Iceland,EV sales,FCEV,2010,N/A,11.0
+Iceland,EV sales share,EV,2010,percent,0.06
+Iceland,EV sales,BEV,2012,N/A,17.0
+Iceland,EV sales,PHEV,2012,N/A,9.0
+Iceland,EV sales share,EV,2012,percent,0.311
+Iceland,EV sales,BEV,2013,N/A,80.0
+Iceland,EV sales,PHEV,2013,N/A,23.0
+Iceland,EV sales share,EV,2013,percent,1.282
+Iceland,EV sales,BEV,2014,N/A,195.0
+Iceland,EV sales,PHEV,2014,N/A,29.0
+Iceland,EV sales share,EV,2014,percent,2.144
+Iceland,EV sales,BEV,2015,N/A,387.0
+Iceland,EV sales,PHEV,2015,N/A,166.0
+Iceland,EV sales share,EV,2015,percent,3.645
+Iceland,EV sales,BEV,2016,N/A,375.0
+Iceland,EV sales,PHEV,2016,N/A,780.0
+Iceland,EV sales share,EV,2016,percent,5.564
+Iceland,EV sales,BEV,2017,N/A,847.0
+Iceland,EV sales,PHEV,2017,N/A,2181.0
+Iceland,EV sales share,EV,2017,percent,11.705
+Iceland,EV sales,BEV,2018,N/A,784.0
+Iceland,EV sales,FCEV,2018,N/A,16.0
+Iceland,EV sales,PHEV,2018,N/A,2868.0
+Iceland,EV sales share,EV,2018,percent,17.219
+Iceland,EV sales,BEV,2019,N/A,914.0
+Iceland,EV sales,FCEV,2019,N/A,7.0
+Iceland,EV sales,PHEV,2019,N/A,1734.0
+Iceland,EV sales share,EV,2019,percent,22.6
+Iceland,EV sales,BEV,2020,N/A,2551.0
+Iceland,EV sales,FCEV,2020,N/A,1.0
+Iceland,EV sales,PHEV,2020,N/A,2355.0
+Iceland,EV sales share,EV,2020,percent,52.37
+India,EV sales,BEV,2010,N/A,449.0
+India,EV sales share,EV,2010,percent,0.021
+India,EV sales,BEV,2011,N/A,1428.0
+India,EV sales share,EV,2011,percent,0.057
+India,EV sales,BEV,2012,N/A,191.0
+India,EV sales share,EV,2012,percent,0.007
+India,EV sales,BEV,2013,N/A,408.0
+India,EV sales share,EV,2013,percent,0.016
+India,EV sales,BEV,2014,N/A,1000.0
+India,EV sales share,EV,2014,percent,0.037
+India,EV sales,BEV,2015,N/A,450.0
+India,EV sales share,EV,2015,percent,0.016
+India,EV sales,BEV,2016,N/A,2000.0
+India,EV sales share,EV,2016,percent,0.067
+India,EV sales,BEV,2017,N/A,1200.0
+India,EV sales share,EV,2017,percent,0.038
+India,EV sales,BEV,2018,N/A,2104.0
+India,EV sales share,EV,2018,percent,0.065
+India,EV sales,BEV,2019,N/A,2081.0
+India,EV sales,PHEV,2019,N/A,7.0
+India,EV sales share,EV,2019,percent,0.068
+India,EV sales,BEV,2020,N/A,1554.0
+India,EV sales,PHEV,2020,N/A,43.0
+India,EV sales share,EV,2020,percent,0.056
+Indonesia,EV sales share,EV,2017,percent,0.003
+Indonesia,EV sales share,EV,2019,percent,0.012
+Indonesia,EV sales share,EV,2020,percent,0.054
+Italy,EV sales,BEV,2010,N/A,40.0
+Italy,EV sales share,EV,2010,percent,0.002
+Italy,EV sales,BEV,2011,N/A,113.0
+Italy,EV sales share,EV,2011,percent,0.006
+Italy,EV sales,BEV,2012,N/A,459.0
+Italy,EV sales share,EV,2012,percent,0.033
+Italy,EV sales,BEV,2013,N/A,794.0
+Italy,EV sales,PHEV,2013,N/A,182.0
+Italy,EV sales share,EV,2013,percent,0.075
+Italy,EV sales,BEV,2014,N/A,1040.0
+Italy,EV sales,FCEV,2014,N/A,10.0
+Italy,EV sales,PHEV,2014,N/A,336.0
+Italy,EV sales share,EV,2014,percent,0.101
+Italy,EV sales,BEV,2015,N/A,1396.0
+Italy,EV sales,FCEV,2015,N/A,1.0
+Italy,EV sales,PHEV,2015,N/A,738.0
+Italy,EV sales share,EV,2015,percent,0.135
+Italy,EV sales,BEV,2016,N/A,1382.29
+Italy,EV sales,PHEV,2016,N/A,1438.71
+Italy,EV sales share,EV,2016,percent,0.154
+Italy,EV sales,BEV,2017,N/A,2022.0
+Italy,EV sales,PHEV,2017,N/A,2864.0
+Italy,EV sales share,EV,2017,percent,0.247
+Italy,EV sales,BEV,2018,N/A,4978.0
+Italy,EV sales,FCEV,2018,N/A,1.0
+Italy,EV sales,PHEV,2018,N/A,4798.0
+Italy,EV sales share,EV,2018,percent,0.509
+Italy,EV sales,BEV,2019,N/A,10663.0
+Italy,EV sales,FCEV,2019,N/A,17.0
+Italy,EV sales,PHEV,2019,N/A,6471.0
+Italy,EV sales share,EV,2019,percent,0.894
+Italy,EV sales,BEV,2020,N/A,32485.0
+Italy,EV sales,FCEV,2020,N/A,7.0
+Italy,EV sales,PHEV,2020,N/A,27407.0
+Italy,EV sales share,EV,2020,percent,4.335
+Japan,EV sales,BEV,2010,N/A,2442.0
+Japan,EV sales,FCEV,2010,N/A,2.0
+Japan,EV sales share,EV,2010,percent,0.055
+Japan,EV sales,BEV,2011,N/A,12607.0
+Japan,EV sales,PHEV,2011,N/A,15.0
+Japan,EV sales share,EV,2011,percent,0.328
+Japan,EV sales,BEV,2012,N/A,13469.0
+Japan,EV sales,FCEV,2012,N/A,1.0
+Japan,EV sales,PHEV,2012,N/A,10968.0
+Japan,EV sales share,EV,2012,percent,0.53
+Japan,EV sales,BEV,2013,N/A,14756.0
+Japan,EV sales,FCEV,2013,N/A,4.0
+Japan,EV sales,PHEV,2013,N/A,14122.0
+Japan,EV sales share,EV,2013,percent,0.644
+Japan,EV sales,BEV,2014,N/A,16109.0
+Japan,EV sales,FCEV,2014,N/A,7.0
+Japan,EV sales,PHEV,2014,N/A,16178.0
+Japan,EV sales share,EV,2014,percent,0.669
+Japan,EV sales,BEV,2015,N/A,10465.0
+Japan,EV sales,FCEV,2015,N/A,388.0
+Japan,EV sales,PHEV,2015,N/A,14188.0
+Japan,EV sales share,EV,2015,percent,0.557
+Japan,EV sales,BEV,2016,N/A,15300.0
+Japan,EV sales,FCEV,2016,N/A,1055.0
+Japan,EV sales,PHEV,2016,N/A,9390.0
+Japan,EV sales share,EV,2016,percent,0.576
+Japan,EV sales,BEV,2017,N/A,18100.0
+Japan,EV sales,FCEV,2017,N/A,850.0
+Japan,EV sales,PHEV,2017,N/A,36000.0
+Japan,EV sales share,EV,2017,percent,1.034
+Japan,EV sales,BEV,2018,N/A,26530.0
+Japan,EV sales,FCEV,2018,N/A,610.0
+Japan,EV sales,PHEV,2018,N/A,23220.0
+Japan,EV sales share,EV,2018,percent,0.944
+Japan,EV sales,BEV,2019,N/A,21300.0
+Japan,EV sales,FCEV,2019,N/A,673.0
+Japan,EV sales,PHEV,2019,N/A,17600.0
+Japan,EV sales share,EV,2019,percent,0.749
+Japan,EV sales,BEV,2020,N/A,14600.0
+Japan,EV sales,FCEV,2020,N/A,800.0
+Japan,EV sales,PHEV,2020,N/A,14700.0
+Japan,EV sales share,EV,2020,percent,0.637
+Malaysia,EV sales share,EV,2012,percent,0.002
+Malaysia,EV sales share,EV,2014,percent,0.003
+Malaysia,EV sales share,EV,2015,percent,0.006
+Malaysia,EV sales share,EV,2016,percent,0.021
+Malaysia,EV sales share,EV,2017,percent,1.581
+Malaysia,EV sales share,EV,2018,percent,1.481
+Malaysia,EV sales share,EV,2019,percent,0.03
+Malaysia,EV sales share,EV,2020,percent,0.035
+Mexico,EV sales,BEV,2011,N/A,3.0
+Mexico,EV sales,BEV,2012,N/A,88.0
+Mexico,EV sales share,EV,2012,percent,0.011
+Mexico,EV sales,BEV,2013,N/A,12.0
+Mexico,EV sales share,EV,2013,percent,0.001
+Mexico,EV sales,BEV,2014,N/A,48.0
+Mexico,EV sales share,EV,2014,percent,0.005
+Mexico,EV sales,BEV,2015,N/A,92.0
+Mexico,EV sales,PHEV,2015,N/A,7.0
+Mexico,EV sales share,EV,2015,percent,0.008
+Mexico,EV sales,BEV,2016,N/A,254.0
+Mexico,EV sales,PHEV,2016,N/A,521.0
+Mexico,EV sales share,EV,2016,percent,0.056
+Mexico,EV sales,BEV,2017,N/A,234.0
+Mexico,EV sales,PHEV,2017,N/A,968.0
+Mexico,EV sales share,EV,2017,percent,0.09
+Mexico,EV sales,BEV,2018,N/A,201.0
+Mexico,EV sales,PHEV,2018,N/A,1584.0
+Mexico,EV sales share,EV,2018,percent,0.142
+Mexico,EV sales,BEV,2019,N/A,268.0
+Mexico,EV sales,PHEV,2019,N/A,452.0
+Mexico,EV sales share,EV,2019,percent,0.063
+Mexico,EV sales,BEV,2020,N/A,1906.0
+Mexico,EV sales,PHEV,2020,N/A,610.0
+Mexico,EV sales share,EV,2020,percent,0.257
+Netherlands,EV sales,BEV,2010,N/A,120.0
+Netherlands,EV sales share,EV,2010,percent,0.025
+Netherlands,EV sales,BEV,2011,N/A,858.0
+Netherlands,EV sales,PHEV,2011,N/A,17.0
+Netherlands,EV sales share,EV,2011,percent,0.159
+Netherlands,EV sales,BEV,2012,N/A,786.0
+Netherlands,EV sales,PHEV,2012,N/A,4331.0
+Netherlands,EV sales share,EV,2012,percent,1.026
+Netherlands,EV sales,BEV,2013,N/A,2251.0
+Netherlands,EV sales,PHEV,2013,N/A,20164.0
+Netherlands,EV sales share,EV,2013,percent,5.391
+Netherlands,EV sales,BEV,2014,N/A,2664.0
+Netherlands,EV sales,FCEV,2014,N/A,2.211
+Netherlands,EV sales,PHEV,2014,N/A,12425.0
+Netherlands,EV sales share,EV,2014,percent,3.876
+Netherlands,EV sales,BEV,2015,N/A,2543.0
+Netherlands,EV sales,FCEV,2015,N/A,21.0
+Netherlands,EV sales,PHEV,2015,N/A,41226.0
+Netherlands,EV sales share,EV,2015,percent,9.795
+Netherlands,EV sales,BEV,2016,N/A,4054.0
+Netherlands,EV sales,FCEV,2016,N/A,7.0
+Netherlands,EV sales,PHEV,2016,N/A,18619.0
+Netherlands,EV sales share,EV,2016,percent,5.965
+Netherlands,EV sales,BEV,2017,N/A,9194.0
+Netherlands,EV sales,FCEV,2017,N/A,5.0
+Netherlands,EV sales,PHEV,2017,N/A,1130.0
+Netherlands,EV sales share,EV,2017,percent,2.5
+Netherlands,EV sales,BEV,2018,N/A,24434.0
+Netherlands,EV sales,FCEV,2018,N/A,13.0
+Netherlands,EV sales,PHEV,2018,N/A,3536.0
+Netherlands,EV sales share,EV,2018,percent,6.291
+Netherlands,EV sales,BEV,2019,N/A,62004.0
+Netherlands,EV sales,FCEV,2019,N/A,156.0
+Netherlands,EV sales,PHEV,2019,N/A,5518.0
+Netherlands,EV sales share,EV,2019,percent,15.151
+Netherlands,EV sales,BEV,2020,N/A,72299.0
+Netherlands,EV sales,FCEV,2020,N/A,146.0
+Netherlands,EV sales,PHEV,2020,N/A,15960.0
+Netherlands,EV sales share,EV,2020,percent,25.028
+New Zealand,EV sales,BEV,2010,N/A,10.0
+New Zealand,EV sales share,EV,2010,percent,0.006
+New Zealand,EV sales,BEV,2011,N/A,13.0
+New Zealand,EV sales,PHEV,2011,N/A,2.0
+New Zealand,EV sales share,EV,2011,percent,0.01
+New Zealand,EV sales,BEV,2012,N/A,22.0
+New Zealand,EV sales,PHEV,2012,N/A,5.0
+New Zealand,EV sales share,EV,2012,percent,0.017
+New Zealand,EV sales,BEV,2013,N/A,30.0
+New Zealand,EV sales,PHEV,2013,N/A,6.0
+New Zealand,EV sales share,EV,2013,percent,0.019
+New Zealand,EV sales,BEV,2014,N/A,112.0
+New Zealand,EV sales,PHEV,2014,N/A,207.0
+New Zealand,EV sales share,EV,2014,percent,0.14
+New Zealand,EV sales,BEV,2015,N/A,295.0
+New Zealand,EV sales,PHEV,2015,N/A,199.0
+New Zealand,EV sales share,EV,2015,percent,0.199
+New Zealand,EV sales,BEV,2016,N/A,1162.0
+New Zealand,EV sales,PHEV,2016,N/A,340.0
+New Zealand,EV sales share,EV,2016,percent,0.567
+New Zealand,EV sales,BEV,2017,N/A,2935.0
+New Zealand,EV sales,PHEV,2017,N/A,537.0
+New Zealand,EV sales share,EV,2017,percent,1.17
+New Zealand,EV sales,BEV,2018,N/A,4356.0
+New Zealand,EV sales,PHEV,2018,N/A,1185.0
+New Zealand,EV sales share,EV,2018,percent,1.936
+New Zealand,EV sales,BEV,2019,N/A,5280.0
+New Zealand,EV sales,FCEV,2019,N/A,2.0
+New Zealand,EV sales,PHEV,2019,N/A,1604.0
+New Zealand,EV sales share,EV,2019,percent,2.816
+New Zealand,EV sales,BEV,2020,N/A,3908.0
+New Zealand,EV sales,FCEV,2020,N/A,3.0
+New Zealand,EV sales,PHEV,2020,N/A,1458.0
+New Zealand,EV sales share,EV,2020,percent,2.769
+Norway,EV sales,BEV,2010,N/A,905.0
+Norway,EV sales,PHEV,2010,N/A,2.0
+Norway,EV sales share,EV,2010,percent,0.705
+Norway,EV sales,BEV,2011,N/A,1229.0
+Norway,EV sales,PHEV,2011,N/A,1.0
+Norway,EV sales share,EV,2011,percent,0.894
+Norway,EV sales,BEV,2012,N/A,4122.0
+Norway,EV sales,PHEV,2012,N/A,333.0
+Norway,EV sales share,EV,2012,percent,3.231
+Norway,EV sales,BEV,2013,N/A,7882.0
+Norway,EV sales,PHEV,2013,N/A,323.0
+Norway,EV sales share,EV,2013,percent,5.865
+Norway,EV sales,BEV,2014,N/A,19771.0
+Norway,EV sales,FCEV,2014,N/A,4.0
+Norway,EV sales,PHEV,2014,N/A,1677.0
+Norway,EV sales share,EV,2014,percent,14.707
+Norway,EV sales,BEV,2015,N/A,25779.0
+Norway,EV sales,FCEV,2015,N/A,9.0
+Norway,EV sales,PHEV,2015,N/A,7947.0
+Norway,EV sales share,EV,2015,percent,22.664
+Norway,EV sales,BEV,2016,N/A,24222.0
+Norway,EV sales,FCEV,2016,N/A,20.0
+Norway,EV sales,PHEV,2016,N/A,20666.0
+Norway,EV sales share,EV,2016,percent,26.14
+Norway,EV sales,BEV,2017,N/A,33080.0
+Norway,EV sales,FCEV,2017,N/A,30.0
+Norway,EV sales,PHEV,2017,N/A,29232.0
+Norway,EV sales share,EV,2017,percent,39.255
+Norway,EV sales,BEV,2018,N/A,46143.0
+Norway,EV sales,FCEV,2018,N/A,45.0
+Norway,EV sales,PHEV,2018,N/A,26546.0
+Norway,EV sales share,EV,2018,percent,49.138
+Norway,EV sales,BEV,2019,N/A,60345.0
+Norway,EV sales,FCEV,2019,N/A,29.0
+Norway,EV sales,PHEV,2019,N/A,19295.0
+Norway,EV sales share,EV,2019,percent,55.934
+Norway,EV sales,BEV,2020,N/A,76804.0
+Norway,EV sales,FCEV,2020,N/A,16.0
+Norway,EV sales,PHEV,2020,N/A,28905.0
+Norway,EV sales share,EV,2020,percent,74.752
+Poland,EV sales,BEV,2010,N/A,15.0
+Poland,EV sales,PHEV,2010,N/A,1.0
+Poland,EV sales share,EV,2010,percent,0.002
+Poland,EV sales,BEV,2011,N/A,43.0
+Poland,EV sales share,EV,2011,percent,0.005
+Poland,EV sales,BEV,2012,N/A,44.0
+Poland,EV sales,PHEV,2012,N/A,4.0
+Poland,EV sales share,EV,2012,percent,0.005
+Poland,EV sales,BEV,2013,N/A,45.0
+Poland,EV sales,PHEV,2013,N/A,6.0
+Poland,EV sales share,EV,2013,percent,0.005
+Poland,EV sales,BEV,2014,N/A,135.0
+Poland,EV sales,PHEV,2014,N/A,61.0
+Poland,EV sales share,EV,2014,percent,0.018
+Poland,EV sales,BEV,2015,N/A,176.0
+Poland,EV sales,PHEV,2015,N/A,155.0
+Poland,EV sales share,EV,2015,percent,0.029
+Poland,EV sales,BEV,2016,N/A,329.0
+Poland,EV sales,PHEV,2016,N/A,383.0
+Poland,EV sales share,EV,2016,percent,0.052
+Poland,EV sales,BEV,2017,N/A,920.0
+Poland,EV sales,PHEV,2017,N/A,683.0
+Poland,EV sales share,EV,2017,percent,0.118
+Poland,EV sales,BEV,2018,N/A,1143.0
+Poland,EV sales,FCEV,2018,N/A,1.0
+Poland,EV sales,PHEV,2018,N/A,951.0
+Poland,EV sales share,EV,2018,percent,0.143
+Poland,EV sales,BEV,2019,N/A,2326.0
+Poland,EV sales,PHEV,2019,N/A,1797.0
+Poland,EV sales share,EV,2019,percent,0.278
+Poland,EV sales,BEV,2020,N/A,4870.0
+Poland,EV sales,PHEV,2020,N/A,5010.0
+Poland,EV sales share,EV,2020,percent,0.823
+Portugal,EV sales,BEV,2010,N/A,719.0
+Portugal,EV sales share,EV,2010,percent,0.322
+Portugal,EV sales,BEV,2011,N/A,189.0
+Portugal,EV sales share,EV,2011,percent,0.123
+Portugal,EV sales,BEV,2012,N/A,52.0
+Portugal,EV sales share,EV,2012,percent,0.055
+Portugal,EV sales,BEV,2013,N/A,141.0
+Portugal,EV sales,PHEV,2013,N/A,37.0
+Portugal,EV sales share,EV,2013,percent,0.168
+Portugal,EV sales,BEV,2014,N/A,193.0
+Portugal,EV sales,PHEV,2014,N/A,9.0
+Portugal,EV sales share,EV,2014,percent,0.141
+Portugal,EV sales,BEV,2015,N/A,673.0
+Portugal,EV sales,PHEV,2015,N/A,442.0
+Portugal,EV sales share,EV,2015,percent,0.562
+Portugal,EV sales,BEV,2016,N/A,812.0
+Portugal,EV sales,PHEV,2016,N/A,1027.0
+Portugal,EV sales share,EV,2016,percent,0.798
+Portugal,EV sales,BEV,2017,N/A,1893.0
+Portugal,EV sales,PHEV,2017,N/A,2501.0
+Portugal,EV sales share,EV,2017,percent,1.892
+Portugal,EV sales,BEV,2018,N/A,4429.0
+Portugal,EV sales,PHEV,2018,N/A,3908.0
+Portugal,EV sales share,EV,2018,percent,3.652
+Portugal,EV sales,BEV,2019,N/A,6883.0
+Portugal,EV sales,PHEV,2019,N/A,5798.0
+Portugal,EV sales share,EV,2019,percent,5.666
+Portugal,EV sales,BEV,2020,N/A,8137.0
+Portugal,EV sales,PHEV,2020,N/A,11858.0
+Portugal,EV sales share,EV,2020,percent,13.75
+South Africa,EV sales,BEV,2013,N/A,34.0
+South Africa,EV sales share,EV,2013,percent,0.008
+South Africa,EV sales,BEV,2014,N/A,14.0
+South Africa,EV sales,PHEV,2014,N/A,1.0
+South Africa,EV sales share,EV,2014,percent,0.003
+South Africa,EV sales,BEV,2015,N/A,117.0
+South Africa,EV sales,PHEV,2015,N/A,124.0
+South Africa,EV sales share,EV,2015,percent,0.058
+South Africa,EV sales,BEV,2016,N/A,100.0
+South Africa,EV sales,PHEV,2016,N/A,277.0
+South Africa,EV sales share,EV,2016,percent,0.104
+South Africa,EV sales,BEV,2017,N/A,68.0
+South Africa,EV sales,PHEV,2017,N/A,127.0
+South Africa,EV sales share,EV,2017,percent,0.053
+South Africa,EV sales,BEV,2018,N/A,66.0
+South Africa,EV sales,PHEV,2018,N/A,82.0
+South Africa,EV sales share,EV,2018,percent,0.04
+South Africa,EV sales,BEV,2019,N/A,156.0
+South Africa,EV sales,PHEV,2019,N/A,72.0
+South Africa,EV sales share,EV,2019,percent,0.064
+South Africa,EV sales,BEV,2020,N/A,92.0
+South Africa,EV sales,PHEV,2020,N/A,78.0
+South Africa,EV sales share,EV,2020,percent,0.055
+South Korea,EV sales,BEV,2010,N/A,61.0
+South Korea,EV sales share,EV,2010,percent,0.005
+South Korea,EV sales,BEV,2011,N/A,274.0
+South Korea,EV sales share,EV,2011,percent,0.023
+South Korea,EV sales,BEV,2012,N/A,514.0
+South Korea,EV sales share,EV,2012,percent,0.041
+South Korea,EV sales,BEV,2013,N/A,598.0
+South Korea,EV sales share,EV,2013,percent,0.048
+South Korea,EV sales,BEV,2014,N/A,1257.0
+South Korea,EV sales share,EV,2014,percent,0.093
+South Korea,EV sales,BEV,2015,N/A,3051.0
+South Korea,EV sales,FCEV,2015,N/A,29.0
+South Korea,EV sales,PHEV,2015,N/A,252.0
+South Korea,EV sales share,EV,2015,percent,0.217
+South Korea,EV sales,BEV,2016,N/A,4685.0
+South Korea,EV sales,FCEV,2016,N/A,58.0
+South Korea,EV sales,PHEV,2016,N/A,331.0
+South Korea,EV sales share,EV,2016,percent,0.328
+South Korea,EV sales,BEV,2017,N/A,13970.0
+South Korea,EV sales,FCEV,2017,N/A,75.0
+South Korea,EV sales,PHEV,2017,N/A,670.0
+South Korea,EV sales share,EV,2017,percent,0.941
+South Korea,EV sales,BEV,2018,N/A,55486.0
+South Korea,EV sales,FCEV,2018,N/A,906.0
+South Korea,EV sales,PHEV,2018,N/A,4367.0
+South Korea,EV sales share,EV,2018,percent,3.828
+South Korea,EV sales,BEV,2019,N/A,33423.0
+South Korea,EV sales,FCEV,2019,N/A,4179.0
+South Korea,EV sales,PHEV,2019,N/A,2730.0
+South Korea,EV sales share,EV,2019,percent,2.274
+South Korea,EV sales,BEV,2020,N/A,31329.0
+South Korea,EV sales,FCEV,2020,N/A,5783.0
+South Korea,EV sales,PHEV,2020,N/A,8509.0
+South Korea,EV sales share,EV,2020,percent,2.852
+Spain,EV sales,BEV,2010,N/A,76.0
+Spain,EV sales share,EV,2010,percent,0.008
+Spain,EV sales,BEV,2011,N/A,386.0
+Spain,EV sales share,EV,2011,percent,0.048
+Spain,EV sales,BEV,2012,N/A,427.0
+Spain,EV sales share,EV,2012,percent,0.061
+Spain,EV sales,BEV,2013,N/A,811.0
+Spain,EV sales,PHEV,2013,N/A,72.0
+Spain,EV sales share,EV,2013,percent,0.122
+Spain,EV sales,BEV,2014,N/A,1405.0
+Spain,EV sales,PHEV,2014,N/A,329.0
+Spain,EV sales share,EV,2014,percent,0.202
+Spain,EV sales,BEV,2015,N/A,1342.0
+Spain,EV sales,PHEV,2015,N/A,785.0
+Spain,EV sales share,EV,2015,percent,0.205
+Spain,EV sales,BEV,2016,N/A,2005.0
+Spain,EV sales,PHEV,2016,N/A,1511.0
+Spain,EV sales share,EV,2016,percent,0.306
+Spain,EV sales,BEV,2017,N/A,3920.0
+Spain,EV sales,PHEV,2017,N/A,3528.0
+Spain,EV sales share,EV,2017,percent,0.601
+Spain,EV sales,BEV,2018,N/A,6003.0
+Spain,EV sales,FCEV,2018,N/A,1.0
+Spain,EV sales,PHEV,2018,N/A,5636.0
+Spain,EV sales share,EV,2018,percent,0.877
+Spain,EV sales,BEV,2019,N/A,10044.0
+Spain,EV sales,FCEV,2019,N/A,1.0
+Spain,EV sales,PHEV,2019,N/A,7432.0
+Spain,EV sales share,EV,2019,percent,1.378
+Spain,EV sales,BEV,2020,N/A,18543.0
+Spain,EV sales,FCEV,2020,N/A,7.0
+Spain,EV sales,PHEV,2020,N/A,23759.0
+Spain,EV sales share,EV,2020,percent,4.97
+Sweden,EV sales,BEV,2010,N/A,4.0
+Sweden,EV sales share,EV,2010,percent,0.001
+Sweden,EV sales,BEV,2011,N/A,178.0
+Sweden,EV sales share,EV,2011,percent,0.054
+Sweden,EV sales,BEV,2012,N/A,266.0
+Sweden,EV sales,PHEV,2012,N/A,662.0
+Sweden,EV sales share,EV,2012,percent,0.308
+Sweden,EV sales,BEV,2013,N/A,432.0
+Sweden,EV sales,FCEV,2013,N/A,3.0
+Sweden,EV sales,PHEV,2013,N/A,1115.0
+Sweden,EV sales share,EV,2013,percent,0.529
+Sweden,EV sales,BEV,2014,N/A,1239.0
+Sweden,EV sales,PHEV,2014,N/A,3428.0
+Sweden,EV sales share,EV,2014,percent,1.44
+Sweden,EV sales,BEV,2015,N/A,2962.0
+Sweden,EV sales,FCEV,2015,N/A,1.0
+Sweden,EV sales,PHEV,2015,N/A,5625.0
+Sweden,EV sales share,EV,2015,percent,2.373
+Sweden,EV sales,BEV,2016,N/A,2951.3
+Sweden,EV sales,FCEV,2016,N/A,3.0
+Sweden,EV sales,PHEV,2016,N/A,10463.7
+Sweden,EV sales share,EV,2016,percent,3.409
+Sweden,EV sales,BEV,2017,N/A,4359.0
+Sweden,EV sales,FCEV,2017,N/A,14.0
+Sweden,EV sales,PHEV,2017,N/A,15986.0
+Sweden,EV sales share,EV,2017,percent,5.089
+Sweden,EV sales,BEV,2018,N/A,7147.0
+Sweden,EV sales,PHEV,2018,N/A,21811.0
+Sweden,EV sales share,EV,2018,percent,7.567
+Sweden,EV sales,BEV,2019,N/A,15795.0
+Sweden,EV sales,FCEV,2019,N/A,2.0
+Sweden,EV sales,PHEV,2019,N/A,24907.0
+Sweden,EV sales share,EV,2019,percent,11.432
+Sweden,EV sales,BEV,2020,N/A,28097.0
+Sweden,EV sales,FCEV,2020,N/A,5.0
+Sweden,EV sales,PHEV,2020,N/A,66134.0
+Sweden,EV sales share,EV,2020,percent,32.268
+Switzerland,EV sales,BEV,2010,N/A,137.0
+Switzerland,EV sales share,EV,2010,percent,0.047
+Switzerland,EV sales,BEV,2011,N/A,395.0
+Switzerland,EV sales,PHEV,2011,N/A,41.0
+Switzerland,EV sales share,EV,2011,percent,0.138
+Switzerland,EV sales,BEV,2012,N/A,342.0
+Switzerland,EV sales,PHEV,2012,N/A,395.0
+Switzerland,EV sales share,EV,2012,percent,0.226
+Switzerland,EV sales,BEV,2013,N/A,1156.0
+Switzerland,EV sales,PHEV,2013,N/A,167.0
+Switzerland,EV sales share,EV,2013,percent,0.432
+Switzerland,EV sales,BEV,2014,N/A,2688.0
+Switzerland,EV sales,PHEV,2014,N/A,204.0
+Switzerland,EV sales share,EV,2014,percent,0.964
+Switzerland,EV sales,BEV,2015,N/A,3257.0
+Switzerland,EV sales,FCEV,2015,N/A,10.0
+Switzerland,EV sales,PHEV,2015,N/A,2369.0
+Switzerland,EV sales share,EV,2015,percent,1.749
+Switzerland,EV sales,BEV,2016,N/A,3295.0
+Switzerland,EV sales,FCEV,2016,N/A,26.0
+Switzerland,EV sales,PHEV,2016,N/A,2829.0
+Switzerland,EV sales share,EV,2016,percent,1.941
+Switzerland,EV sales,BEV,2017,N/A,4775.0
+Switzerland,EV sales,FCEV,2017,N/A,1.0
+Switzerland,EV sales,PHEV,2017,N/A,3648.0
+Switzerland,EV sales share,EV,2017,percent,2.698
+Switzerland,EV sales,BEV,2018,N/A,5138.0
+Switzerland,EV sales,FCEV,2018,N/A,29.0
+Switzerland,EV sales,PHEV,2018,N/A,4359.0
+Switzerland,EV sales share,EV,2018,percent,3.169
+Switzerland,EV sales,BEV,2019,N/A,13190.0
+Switzerland,EV sales,FCEV,2019,N/A,25.0
+Switzerland,EV sales,PHEV,2019,N/A,4284.0
+Switzerland,EV sales share,EV,2019,percent,5.61
+Switzerland,EV sales,BEV,2020,N/A,19385.0
+Switzerland,EV sales,FCEV,2020,N/A,2.0
+Switzerland,EV sales,PHEV,2020,N/A,14392.0
+Switzerland,EV sales share,EV,2020,percent,14.262
+Thailand,EV sales share,EV,2011,percent,0.001
+Thailand,EV sales share,EV,2012,percent,0.001
+Thailand,EV sales share,EV,2013,percent,0.001
+Thailand,EV sales share,EV,2014,percent,0.008
+Thailand,EV sales share,EV,2015,percent,0.005
+Thailand,EV sales share,EV,2016,percent,0.005
+Thailand,EV sales share,EV,2017,percent,0.018
+Thailand,EV sales share,EV,2018,percent,0.873
+Thailand,EV sales share,EV,2019,percent,1.019
+Thailand,EV sales share,EV,2020,percent,1.036
+United Kingdom,EV sales,BEV,2010,N/A,255.0
+United Kingdom,EV sales,PHEV,2010,N/A,21.0
+United Kingdom,EV sales share,EV,2010,percent,0.014
+United Kingdom,EV sales,BEV,2011,N/A,1211.0
+United Kingdom,EV sales,PHEV,2011,N/A,7.0
+United Kingdom,EV sales share,EV,2011,percent,0.063
+United Kingdom,EV sales,BEV,2012,N/A,1705.0
+United Kingdom,EV sales,PHEV,2012,N/A,988.0
+United Kingdom,EV sales share,EV,2012,percent,0.132
+United Kingdom,EV sales,BEV,2013,N/A,2679.0
+United Kingdom,EV sales,PHEV,2013,N/A,1073.0
+United Kingdom,EV sales share,EV,2013,percent,0.165
+United Kingdom,EV sales,BEV,2014,N/A,6812.0
+United Kingdom,EV sales,PHEV,2014,N/A,7931.0
+United Kingdom,EV sales share,EV,2014,percent,0.592
+United Kingdom,EV sales,BEV,2015,N/A,10095.0
+United Kingdom,EV sales,FCEV,2015,N/A,4.0
+United Kingdom,EV sales,PHEV,2015,N/A,19241.0
+United Kingdom,EV sales share,EV,2015,percent,1.102
+United Kingdom,EV sales,BEV,2016,N/A,10509.0
+United Kingdom,EV sales,FCEV,2016,N/A,8.0
+United Kingdom,EV sales,PHEV,2016,N/A,27403.0
+United Kingdom,EV sales share,EV,2016,percent,1.388
+United Kingdom,EV sales,BEV,2017,N/A,13550.6
+United Kingdom,EV sales,FCEV,2017,N/A,35.0
+United Kingdom,EV sales,PHEV,2017,N/A,33701.0
+United Kingdom,EV sales share,EV,2017,percent,1.826
+United Kingdom,EV sales,BEV,2018,N/A,15743.1
+United Kingdom,EV sales,FCEV,2018,N/A,36.0
+United Kingdom,EV sales,PHEV,2018,N/A,34619.0
+United Kingdom,EV sales share,EV,2018,percent,2.083
+United Kingdom,EV sales,BEV,2019,N/A,38357.0
+United Kingdom,EV sales,FCEV,2019,N/A,68.0
+United Kingdom,EV sales,PHEV,2019,N/A,36630.0
+United Kingdom,EV sales share,EV,2019,percent,3.142
+United Kingdom,EV sales,BEV,2020,N/A,108329.0
+United Kingdom,EV sales,FCEV,2020,N/A,89.0
+United Kingdom,EV sales,PHEV,2020,N/A,67717.0
+United Kingdom,EV sales share,EV,2020,percent,11.282
+United States,EV sales,BEV,2010,N/A,1191.0
+United States,EV sales share,EV,2010,percent,0.011
+United States,EV sales,BEV,2011,N/A,9750.0
+United States,EV sales,PHEV,2011,N/A,7980.0
+United States,EV sales share,EV,2011,percent,0.169
+United States,EV sales,BEV,2012,N/A,14650.0
+United States,EV sales,PHEV,2012,N/A,38590.0
+United States,EV sales share,EV,2012,percent,0.407
+United States,EV sales,BEV,2013,N/A,47690.0
+United States,EV sales,PHEV,2013,N/A,49010.0
+United States,EV sales share,EV,2013,percent,0.737
+United States,EV sales,BEV,2014,N/A,63420.0
+United States,EV sales,FCEV,2014,N/A,55.0
+United States,EV sales,PHEV,2014,N/A,55360.0
+United States,EV sales share,EV,2014,percent,0.891
+United States,EV sales,BEV,2015,N/A,71044.0
+United States,EV sales,FCEV,2015,N/A,104.0
+United States,EV sales,PHEV,2015,N/A,42825.0
+United States,EV sales share,EV,2015,percent,0.785
+United States,EV sales,BEV,2016,N/A,86731.0
+United States,EV sales,FCEV,2016,N/A,1074.0
+United States,EV sales,PHEV,2016,N/A,72885.0
+United States,EV sales share,EV,2016,percent,1.02
+United States,EV sales,BEV,2017,N/A,104487.0
+United States,EV sales,FCEV,2017,N/A,2270.0
+United States,EV sales,PHEV,2017,N/A,93862.0
+United States,EV sales share,EV,2017,percent,1.162
+United States,EV sales,BEV,2018,N/A,238823.0
+United States,EV sales,FCEV,2018,N/A,2689.0
+United States,EV sales,PHEV,2018,N/A,122492.0
+United States,EV sales share,EV,2018,percent,1.973
+United States,EV sales,BEV,2019,N/A,241912.0
+United States,EV sales,FCEV,2019,N/A,2006.0
+United States,EV sales,PHEV,2019,N/A,84732.0
+United States,EV sales share,EV,2019,percent,1.743
+United States,EV sales,BEV,2020,N/A,231088.0
+United States,EV sales,FCEV,2020,N/A,938.0
+United States,EV sales,PHEV,2020,N/A,64311.0
+United States,EV sales share,EV,2020,percent,2.041
+World,EV sales,BEV,2010,N/A,7876.0
+World,EV sales,FCEV,2010,N/A,29.0
+World,EV sales,PHEV,2010,N/A,384.0
+World,EV sales share,EV,2010,percent,0.015
+World,EV sales,BEV,2011,N/A,39243.0
+World,EV sales,FCEV,2011,N/A,38.0
+World,EV sales,PHEV,2011,N/A,9050.16
+World,EV sales share,EV,2011,percent,0.085
+World,EV sales,BEV,2012,N/A,57803.6
+World,EV sales,FCEV,2012,N/A,30.0
+World,EV sales,PHEV,2012,N/A,60508.4
+World,EV sales share,EV,2012,percent,0.193
+World,EV sales,BEV,2013,N/A,112649.0
+World,EV sales,FCEV,2013,N/A,31.0
+World,EV sales,PHEV,2013,N/A,91577.4
+World,EV sales share,EV,2013,percent,0.32
+World,EV sales,BEV,2014,N/A,195753.0
+World,EV sales,FCEV,2014,N/A,93.211
+World,EV sales,PHEV,2014,N/A,133367.0
+World,EV sales share,EV,2014,percent,0.492
+World,EV sales,BEV,2015,N/A,324907.0
+World,EV sales,FCEV,2015,N/A,683.0
+World,EV sales,PHEV,2015,N/A,222567.0
+World,EV sales share,EV,2015,percent,0.782
+World,EV sales,BEV,2016,N/A,465632.0
+World,EV sales,FCEV,2016,N/A,2289.0
+World,EV sales,PHEV,2016,N/A,286459.0
+World,EV sales share,EV,2016,percent,1.002
+World,EV sales,BEV,2017,N/A,758053.0
+World,EV sales,FCEV,2017,N/A,3365.0
+World,EV sales,PHEV,2017,N/A,416591.0
+World,EV sales share,EV,2017,percent,1.498
+World,EV sales,BEV,2018,N/A,1370920.0
+World,EV sales,FCEV,2018,N/A,6003.0
+World,EV sales,PHEV,2018,N/A,637557.0
+World,EV sales share,EV,2018,percent,2.533
+World,EV sales,BEV,2019,N/A,1542870.0
+World,EV sales,FCEV,2019,N/A,10281.0
+World,EV sales,PHEV,2019,N/A,570724.0
+World,EV sales share,EV,2019,percent,2.732
+World,EV sales,BEV,2020,N/A,2008020.0
+World,EV sales,FCEV,2020,N/A,9601.0
+World,EV sales,PHEV,2020,N/A,969034.0
+World,EV sales share,EV,2020,percent,4.612

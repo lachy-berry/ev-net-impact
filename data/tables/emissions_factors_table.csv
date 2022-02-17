@@ -1,0 +1,13 @@
+source,metric,factor
+battery_discharge,CO2e grams/kWh,301
+biomass,CO2e grams/kWh,230
+coal,CO2e grams/kWh,820
+gas,CO2e grams/kWh,490
+geothermal,CO2e grams/kWh,38
+hydro,CO2e grams/kWh,24
+nuclear,CO2e grams/kWh,12
+oil,CO2e grams/kWh,650
+other_renewables,CO2e grams/kWh,301
+petrol,CO2e grams/l,2420
+solar,CO2e grams/kWh,45
+wind,CO2e grams/kWh,11

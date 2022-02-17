@@ -1,0 +1,219 @@
+vehicle,wh_per_km,segment
+Aiways U5,191.0,suv
+Audi e-tron 50 quattro,231.0,suv
+Audi e-tron 55 quattro,237.0,suv
+Audi e-tron GT quattro,202.0,sedan
+Audi e-tron GT RS,210.0,sedan
+Audi e-tron S 55 quattro,270.0,suv
+Audi e-tron S Sportback 55 quattro,258.0,suv
+Audi e-tron Sportback 50 quattro,219.0,suv
+Audi e-tron Sportback 55 quattro,231.0,suv
+Audi Q4 e-tron 35,182.0,suv
+Audi Q4 e-tron 40,189.0,suv
+Audi Q4 e-tron 45 quattro,199.0,suv
+Audi Q4 e-tron 50 quattro,199.0,suv
+Audi Q4 Sportback e-tron 35,176.0,suv
+Audi Q4 Sportback e-tron 40,180.0,suv
+Audi Q4 Sportback e-tron 50 quattro,192.0,suv
+BMW i3 120 Ah,161.0,hatchback
+BMW i3s 120 Ah,165.0,hatchback
+BMW i4 eDrive40,170.0,sedan
+BMW i4 M50,179.0,sedan
+BMW iX M60,217.0,suv
+BMW iX xDrive40,203.0,suv
+BMW iX xDrive50,208.0,suv
+BMW iX3,192.0,suv
+Citroen e-Berlingo M 50 kWh,225.0,spv
+Citroen e-Berlingo XL 50 kWh,231.0,spv
+Citroen e-C4,170.0,hatchback
+Citroen e-Jumpy Combi M 50 kWh,250.0,spv
+Citroen e-Jumpy Combi M 75 kWh,260.0,spv
+Citroen e-Jumpy Combi XL 50 kWh,257.0,spv
+Citroen e-Jumpy Combi XL 75 kWh,260.0,spv
+Citroen e-Jumpy Combi XS 50 kWh,250.0,spv
+Citroen e-SpaceTourer M 50 kWh,250.0,spv
+Citroen e-SpaceTourer M 75 kWh,260.0,spv
+Citroen e-SpaceTourer XL 50 kWh,257.0,spv
+Citroen e-SpaceTourer XL 75 kWh,260.0,spv
+Citroen e-SpaceTourer XS 50 kWh,250.0,spv
+CUPRA Born 110 kW - 45 kWh,164.0,hatchback
+CUPRA Born 150 kW - 58 kWh,166.0,hatchback
+CUPRA Born 170 kW - 58 kWh,168.0,hatchback
+CUPRA Born 170 kW - 77 kWh,171.0,hatchback
+Dacia Spring Electric,158.0,hatchback
+DS 3 Crossback E-Tense,173.0,suv
+Fiat 500e 3+1,159.0,hatchback
+Fiat 500e Cabrio,162.0,cabrio
+Fiat 500e Hatchback 24 kWh,158.0,hatchback
+Fiat 500e Hatchback 42 kWh,159.0,hatchback
+Ford Mustang Mach-E ER AWD,210.0,suv
+Ford Mustang Mach-E ER RWD,200.0,suv
+Ford Mustang Mach-E GT,215.0,suv
+Ford Mustang Mach-E SR AWD,206.0,suv
+Ford Mustang Mach-E SR RWD,197.0,suv
+Honda e,168.0,hatchback
+Honda e Advance,168.0,hatchback
+Hyundai IONIQ 5 Long Range 2WD,184.0,suv
+Hyundai IONIQ 5 Long Range AWD,189.0,suv
+Hyundai IONIQ 5 Standard Range 2WD,183.0,suv
+Hyundai IONIQ 5 Standard Range AWD,186.0,suv
+Hyundai IONIQ Electric,153.0,sedan
+Hyundai Kona Electric 39 kWh,157.0,suv
+Hyundai Kona Electric 64 kWh,162.0,suv
+JAC iEV7s,173.0,suv
+Jaguar I-Pace EV400,223.0,suv
+Kia e-Niro 39 kWh,167.0,suv
+Kia e-Niro 64 kWh,173.0,suv
+Kia e-Soul 39 kWh,170.0,suv
+Kia e-Soul 64 kWh,173.0,suv
+Kia EV6 GT,201.0,suv
+Kia EV6 Long Range 2WD,181.0,suv
+Kia EV6 Long Range AWD,186.0,suv
+Kia EV6 Standard Range 2WD,177.0,suv
+Lexus UX 300e,191.0,suv
+Lightyear One,104.0,sedan
+Lucid Air Grand Touring,167.0,sedan
+Lucid Air Pure,157.0,sedan
+Lucid Air Touring,160.0,sedan
+Mazda MX-30,176.0,suv
+Mercedes EQA 250,187.0,suv
+Mercedes EQA 300 4MATIC,190.0,suv
+Mercedes EQA 350 4MATIC,190.0,suv
+Mercedes EQB 300 4MATIC,199.0,suv
+Mercedes EQB 350 4MATIC,199.0,suv
+Mercedes EQC 400 4MATIC,216.0,suv
+Mercedes EQE 350,168.0,sedan
+Mercedes EQS 350,166.0,sedan
+Mercedes EQS 450+,168.0,sedan
+Mercedes EQS 580 4MATIC,177.0,sedan
+Mercedes EQS AMG 53 4MATIC+,191.0,sedan
+Mercedes EQV 250 Extra-Long,293.0,spv
+Mercedes EQV 250 Long,293.0,spv
+Mercedes EQV 300 Extra-Long,295.0,spv
+Mercedes EQV 300 Long,295.0,spv
+Mercedes eVito Tourer Extra-Long 60 kWh,293.0,spv
+Mercedes eVito Tourer Extra-Long 90 kWh,295.0,spv
+Mercedes eVito Tourer Long 60 kWh,286.0,spv
+Mercedes eVito Tourer Long 90 kWh,290.0,spv
+MG Marvel R,191.0,suv
+MG Marvel R Performance,197.0,suv
+MG MG5 Electric,168.0,station
+MG MG5 EV,165.0,station
+MG MG5 EV Long Range,168.0,station
+MG ZS EV Long Range,185.0,suv
+MG ZS EV Standard Range,181.0,suv
+Mini Cooper SE,156.0,hatchback
+Nissan Ariya 63kWh,188.0,suv
+Nissan Ariya 87kWh,196.0,suv
+Nissan Ariya e-4ORCE 87kWh,207.0,suv
+Nissan Ariya e-4ORCE 87kWh Performance,226.0,suv
+Nissan Leaf,164.0,hatchback
+Nissan Leaf e+,172.0,hatchback
+Opel Combo-e Life 50 kWh,225.0,spv
+Opel Combo-e Life XL 50 kWh,231.0,spv
+Opel Corsa-e,158.0,hatchback
+Opel Mokka-e,176.0,suv
+Opel Vivaro-e Combi L 50 kWh,257.0,spv
+Opel Vivaro-e Combi L 75 kWh,260.0,spv
+Opel Vivaro-e Combi M 50 kWh,250.0,spv
+Opel Vivaro-e Combi M 75 kWh,260.0,spv
+Opel Zafira-e Life L 50 kWh,257.0,spv
+Opel Zafira-e Life L 75 kWh,260.0,spv
+Opel Zafira-e Life M 50 kWh,250.0,spv
+Opel Zafira-e Life M 75 kWh,260.0,spv
+Opel Zafira-e Life S 50 kWh,250.0,spv
+Peugeot e-2008 SUV,176.0,suv
+Peugeot e-208,158.0,hatchback
+Peugeot e-Expert Combi Compact 50 kWh,250.0,spv
+Peugeot e-Expert Combi Long 50 kWh,257.0,spv
+Peugeot e-Expert Combi Long 75 kWh,262.0,spv
+Peugeot e-Expert Combi Standard 50 kWh,250.0,spv
+Peugeot e-Expert Combi Standard 75 kWh,257.0,spv
+Peugeot e-Rifter Long 50 kWh,231.0,spv
+Peugeot e-Rifter Standard 50 kWh,225.0,spv
+Peugeot e-Traveller Compact 50 kWh,250.0,spv
+Peugeot e-Traveller Long 50 kWh,257.0,spv
+Peugeot e-Traveller Long 75 kWh,262.0,spv
+Peugeot e-Traveller Standard 50 kWh,250.0,spv
+Peugeot e-Traveller Standard 75 kWh,257.0,spv
+Polestar 2 Long Range Dual Motor,190.0,sedan
+Polestar 2 Long Range Single Motor,176.0,sedan
+Polestar 2 Standard Range Single Motor,174.0,sedan
+Porsche Taycan,173.0,sedan
+Porsche Taycan 4 Cross Turismo,197.0,station
+Porsche Taycan 4S,180.0,sedan
+Porsche Taycan 4S Cross Turismo,197.0,station
+Porsche Taycan 4S Plus,182.0,sedan
+Porsche Taycan 4S Plus Sport Turismo,195.0,station
+Porsche Taycan 4S Sport Turismo,192.0,sedan
+Porsche Taycan GTS,186.0,sedan
+Porsche Taycan GTS Sport Turismo,197.0,sedan
+Porsche Taycan Plus,176.0,sedan
+Porsche Taycan Plus Sport Turismo,188.0,sedan
+Porsche Taycan Sport Turismo,187.0,sedan
+Porsche Taycan Turbo,202.0,sedan
+Porsche Taycan Turbo Cross Turismo,209.0,station
+Porsche Taycan Turbo S,209.0,sedan
+Porsche Taycan Turbo S Cross Turismo,217.0,station
+Porsche Taycan Turbo S Sport Turismo,212.0,station
+Porsche Taycan Turbo Sport Turismo,207.0,station
+Renault Kangoo Maxi ZE 33,194.0,spv
+Renault Megane E-Tech EV40 130hp,163.0,suv
+Renault Megane E-Tech EV60 130hp,164.0,suv
+Renault Megane E-Tech EV60 220hp,167.0,suv
+Renault Twingo Electric,164.0,hatchback
+Renault Zoe ZE40 R110,161.0,hatchback
+Renault Zoe ZE50 R110,165.0,hatchback
+Renault Zoe ZE50 R135,168.0,hatchback
+Seres 3,193.0,suv
+Skoda Enyaq Coupe iV 60,168.0,suv
+Skoda Enyaq Coupe iV 80,169.0,suv
+Skoda Enyaq Coupe iV 80x,179.0,suv
+Skoda Enyaq Coupe iV RS,188.0,suv
+Skoda Enyaq iV 50,176.0,suv
+Skoda Enyaq iV 60,176.0,suv
+Skoda Enyaq iV 80,183.0,suv
+Skoda Enyaq iV 80x,193.0,suv
+Skoda Enyaq iV RS,200.0,suv
+Smart EQ forfour,176.0,hatchback
+Smart EQ fortwo cabrio,176.0,cabrio
+Smart EQ fortwo coupe,167.0,hatchback
+Sono Sion,181.0,hatchback
+SsangYong Korando e-Motion,193.0,suv
+Subaru Solterra AWD,190.0,sedan
+Tesla Model 3,151.0,sedan
+Tesla Model 3 Long Range Dual Motor,155.0,sedan
+Tesla Model 3 Performance,163.0,sedan
+Tesla Model S Long Range,162.0,sedan
+Tesla Model S Plaid,170.0,sedan
+Tesla Model X Long Range,194.0,suv
+Tesla Model X Plaid,204.0,suv
+Tesla Model Y Long Range Dual Motor,172.0,suv
+Tesla Model Y Performance,181.0,suv
+Toyota bZ4X AWD,190.0,sedan
+Toyota bZ4X FWD,188.0,sedan
+Toyota PROACE Shuttle L 50 kWh,257.0,spv
+Toyota PROACE Shuttle L 75 kWh,265.0,spv
+Toyota PROACE Shuttle M 50 kWh,257.0,spv
+Toyota PROACE Shuttle M 75 kWh,265.0,spv
+Toyota PROACE Verso L 50 kWh,257.0,spv
+Toyota PROACE Verso L 75 kWh,260.0,spv
+Toyota PROACE Verso M 50 kWh,250.0,spv
+Toyota PROACE Verso M 75 kWh,260.0,spv
+Volkswagen e-Up!,158.0,hatchback
+Volkswagen ID.3 Pro,166.0,hatchback
+Volkswagen ID.3 Pro Performance,166.0,hatchback
+Volkswagen ID.3 Pro S - 4 Seats,171.0,hatchback
+Volkswagen ID.3 Pro S - 5 Seats,171.0,hatchback
+Volkswagen ID.3 Pure Performance,164.0,hatchback
+Volkswagen ID.4 GTX,193.0,suv
+Volkswagen ID.4 Pro,188.0,suv
+Volkswagen ID.4 Pro Performance,188.0,suv
+Volkswagen ID.4 Pure,182.0,suv
+Volkswagen ID.4 Pure Performance,182.0,suv
+Volkswagen ID.5 GTX,190.0,suv
+Volkswagen ID.5 Pro,179.0,suv
+Volkswagen ID.5 Pro Performance,179.0,suv
+Volvo C40 Recharge,221.0,suv
+Volvo XC40 Recharge Pure Electric,213.0,suv
+Volvo XC40 Recharge Twin Pure Electric,221.0,suv
