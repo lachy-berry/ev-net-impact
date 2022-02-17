@@ -1,6 +1,6 @@
-# Source data
+### ev-net-impact/data/source
 
-Original data was downloaded, replicated, and scraped from several online sources listed below.
+This folder contains the original data downloaded, replicated, and scraped from several online sources listed below.
 
 * Electricity production by source was compiled by Our World in Data based on BP Statistical Review of World Energy and Ember. 
 * Emissions factors for electricity supply technologies sourced from Annex III to the IPCC Fifth Assessment Report on Climate Change (2014). 
