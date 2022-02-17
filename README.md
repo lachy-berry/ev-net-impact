@@ -14,4 +14,6 @@ Answering this question will require understanding how each country generates el
 ## Repository structure
 `data` stores all datasets used in this project. The `source` subfolder contains all data downloaded, replicated and scraped from online sources without alteration. `interm` contains intermediate tables generated through cleaning and engineering processes. `final` contains the complete and final tables created in MySQL from source and intermediate data for querying later on.
 
-`sql_queries` contains the statements and results corresponding to the MySQL queries used for this project. Each subfolder corresponds to a single query. Results are uploaded to Tableau Online and used to create visualisations in the final dashboard.
+`sql_queries` contains the results corresponding to the MySQL queries used for this project. Results are uploaded to Tableau Online and used to create visualisations in the final dashboard.
+
+`notebooks` contains the Jupyter notebooks written in the course of this project.
