@@ -1,0 +1,1162 @@
+[
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.929999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.659999847412109
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.96999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.690000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.579999923706055
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.71999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.239999771118164
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 3.240000009536743
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 12.800000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.699999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.559999942779541
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.630000114440918
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.139999866485596
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.899999976158142
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.389999866485596
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.170000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.75
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.070000171661377
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.269999980926514
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.71999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.539999961853027
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.329999923706055
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.849999904632568
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.670000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.480000019073486
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.360000133514404
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.699999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.449999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.179999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.010000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.849999904632568
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.75
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.690000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.75
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.190000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.96999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.0999999046325684
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.690000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.699999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.380000114440918
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.670000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.670000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.279999732971191
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.360000133514404
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.699999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.579999923706055
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.369999885559082
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.349999904632568
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.390000343322754
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.03000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.199999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.279999732971191
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.449999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.480000019073486
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.590000152587891
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.429999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.909999847412109
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.789999961853027
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.309999942779541
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.059999942779541
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2014,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.050000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.309999942779541
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.110000133514404
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.059999942779541
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.190000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.260000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.440000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.300000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.690000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.889999866485596
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.730000019073486
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.920000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.039999961853027
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.920000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.519999980926514
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.71999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.199999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.539999961853027
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.710000038146973
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.710000038146973
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.610000133514404
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.53000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.079999923706055
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.670000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.300000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.010000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.28000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.190000057220459
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.849999904632568
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.039999961853027
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.269999980926514
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.570000171661377
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.739999771118164
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.300000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.100000381469727
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.659999847412109
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.28000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.079999923706055
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.75
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.429999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.5
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.840000152587891
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.550000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.429999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.880000114440918
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 18.010000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.570000171661377
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.9199999570846558
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.420000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.119999885559082
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.880000114440918
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.71999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.1700000762939453
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.71999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.980000019073486
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2008,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.380000114440918
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.429999828338623
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.090000152587891
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.010000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.199999809265137
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.009999990463257
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.920000076293945
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2011,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.800000190734863
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.96999979019165
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.25
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.78000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.480000019073486
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2012,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.490000009536743
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.930000305175781
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.849999904632568
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2013,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 2.0999999046325684
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.610000133514404
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.6100000143051147
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.53000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.03000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Product": "Plug-in",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.8600000143051147
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "CNG",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 18.010000228881836
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Diesel",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.53000020980835
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Electric",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 1.9299999475479126
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Hybrid",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 4.5
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Product": "Petrol",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.019999980926514
+  }
+]

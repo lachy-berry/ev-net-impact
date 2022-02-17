@@ -1,0 +1,450 @@
+[
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.449999809265137
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.1899995803833
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.840000152587891
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.59000015258789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.109999656677246
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.710000038146973
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.210000038146973
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.279999732971191
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.150000095367432
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.739999771118164
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.210000038146973
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.730000019073486
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.0600004196167
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.079999923706055
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2014,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.84000015258789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.739999771118164
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.279999732971191
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.390000343322754
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.119999885559082
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "All vehicles",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.239999771118164
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.670000076293945
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.110000133514404
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.480000019073486
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.880000114440918
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.900000095367432
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.670000076293945
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.680000305175781
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.420000076293945
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.109999656677246
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2019,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.770000457763672
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.949999809265137
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.880000114440918
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.34000015258789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.710000038146973
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.710000038146973
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2012,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.75
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2013,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.800000190734863
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.75
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.050000190734863
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.929999828338623
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.9399995803833
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.970000267028809
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.980000019073486
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.40999984741211
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.09000015258789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.579999923706055
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 8.170000076293945
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.319999694824219
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 6.059999942779541
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.630000114440918
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "Large SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 11.09000015258789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "Medium car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.570000171661377
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "Small SUV/Pick-up",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 7.849999904632568
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Product": "Van/LCV",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 10.529999732971191
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "City car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 5.940000057220459
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Product": "Large car",
+    "Flow": "Fuel consumption",
+    "Unit": "lge/100km",
+    "Value": 9.569999694824219
+  }
+]
