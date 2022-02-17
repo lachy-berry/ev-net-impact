@@ -1,0 +1,305 @@
+region,year,ev_sales
+Australia,2011,49.0
+Australia,2012,253.0
+Australia,2013,293.0
+Australia,2014,1322.0
+Australia,2015,1771.0
+Australia,2016,1369.0
+Australia,2017,2284.0
+Australia,2018,3605.0
+Australia,2019,9160.0
+Australia,2020,6545.0
+Belgium,2011,186.0
+Belgium,2012,565.0
+Belgium,2013,534.0
+Belgium,2014,2116.0
+Belgium,2015,3837.0
+Belgium,2016,8732.0
+Belgium,2017,14470.0
+Belgium,2018,13369.0
+Belgium,2019,17773.0
+Belgium,2020,48230.0
+Brazil,2012,91.99999809265137
+Brazil,2013,167.00000762939453
+Brazil,2014,61.0
+Brazil,2015,87.0
+Brazil,2016,173.0
+Brazil,2017,316.0
+Brazil,2018,305.0
+Brazil,2019,1911.0
+Brazil,2020,1982.0
+Canada,2011,520.0
+Canada,2012,2020.0
+Canada,2013,3120.0
+Canada,2014,5065.0
+Canada,2015,6960.0
+Canada,2016,11580.0
+Canada,2017,16684.70068359375
+Canada,2018,44150.0
+Canada,2019,51042.0
+Canada,2020,51392.0
+Chile,2011,6.0
+Chile,2012,5.0
+Chile,2013,5.0
+Chile,2014,17.0
+Chile,2015,36.0
+Chile,2016,31.0
+Chile,2017,133.0
+Chile,2018,177.0
+Chile,2019,298.0
+Chile,2020,191.0
+China,2010,1430.0
+China,2011,5070.0
+China,2012,9900.0
+China,2013,15340.0
+China,2014,73171.53125
+China,2015,207382.0
+China,2016,336000.0
+China,2017,579000.0
+China,2018,1082616.0
+China,2019,1063040.0
+China,2020,1160764.0
+Denmark,2010,48.0
+Denmark,2011,422.0
+Denmark,2012,497.0
+Denmark,2013,501.0
+Denmark,2014,1595.0
+Denmark,2015,4635.0
+Denmark,2016,1416.259994506836
+Denmark,2017,1328.0
+Denmark,2018,4677.0
+Denmark,2019,9425.0
+Denmark,2020,32523.0
+Finland,2011,30.0
+Finland,2012,179.0
+Finland,2013,218.0
+Finland,2014,440.0
+Finland,2015,685.0
+Finland,2016,1430.0
+Finland,2017,3055.0
+Finland,2018,5709.0
+Finland,2019,7880.0
+Finland,2020,17476.0
+France,2010,187.0
+France,2011,2726.1600036621094
+France,2012,6262.0
+France,2013,9616.0
+France,2014,12636.0
+France,2015,22957.0
+France,2016,29511.0
+France,2017,37643.0
+France,2018,46713.0
+France,2019,61413.0
+France,2020,184798.0
+Germany,2010,160.0
+Germany,2011,1683.0
+Germany,2012,3400.0
+Germany,2013,6954.0
+Germany,2014,12745.0
+Germany,2015,23255.0
+Germany,2016,24612.0
+Germany,2017,54575.0
+Germany,2018,67528.0
+Germany,2019,108830.0
+Germany,2020,395251.0
+Greece,2013,3.0
+Greece,2014,39.0
+Greece,2015,75.0
+Greece,2016,96.0
+Greece,2017,191.0
+Greece,2018,299.0
+Greece,2019,480.0
+Greece,2020,2131.0
+Iceland,2010,13.0
+Iceland,2012,26.0
+Iceland,2013,103.0
+Iceland,2014,224.0
+Iceland,2015,553.0
+Iceland,2016,1155.0
+Iceland,2017,3028.0
+Iceland,2018,3668.0
+Iceland,2019,2655.0
+Iceland,2020,4907.0
+India,2010,449.0
+India,2011,1428.0
+India,2012,191.0
+India,2013,408.0
+India,2014,1000.0
+India,2015,450.0
+India,2016,2000.0
+India,2017,1200.0
+India,2018,2104.0
+India,2019,2088.0
+India,2020,1597.0
+Italy,2010,40.0
+Italy,2011,113.0
+Italy,2012,459.0
+Italy,2013,976.0
+Italy,2014,1386.0
+Italy,2015,2135.0
+Italy,2016,2821.0
+Italy,2017,4886.0
+Italy,2018,9777.0
+Italy,2019,17151.0
+Italy,2020,59899.0
+Japan,2010,2444.0
+Japan,2011,12622.0
+Japan,2012,24438.0
+Japan,2013,28882.0
+Japan,2014,32294.0
+Japan,2015,25041.0
+Japan,2016,25745.0
+Japan,2017,54950.0
+Japan,2018,50360.0
+Japan,2019,39573.0
+Japan,2020,30100.0
+Mexico,2011,3.0
+Mexico,2012,88.0
+Mexico,2013,12.0
+Mexico,2014,48.0
+Mexico,2015,99.0
+Mexico,2016,775.0
+Mexico,2017,1202.0
+Mexico,2018,1785.0
+Mexico,2019,720.0
+Mexico,2020,2516.0
+Netherlands,2010,120.0
+Netherlands,2011,875.0
+Netherlands,2012,5117.0
+Netherlands,2013,22415.0
+Netherlands,2014,15091.210999965668
+Netherlands,2015,43790.0
+Netherlands,2016,22680.0
+Netherlands,2017,10329.0
+Netherlands,2018,27983.0
+Netherlands,2019,67678.0
+Netherlands,2020,88405.0
+New Zealand,2010,10.0
+New Zealand,2011,15.0
+New Zealand,2012,27.0
+New Zealand,2013,36.0
+New Zealand,2014,319.0
+New Zealand,2015,494.0
+New Zealand,2016,1502.0
+New Zealand,2017,3472.0
+New Zealand,2018,5541.0
+New Zealand,2019,6886.0
+New Zealand,2020,5369.0
+Norway,2010,907.0
+Norway,2011,1230.0
+Norway,2012,4455.0
+Norway,2013,8205.0
+Norway,2014,21452.0
+Norway,2015,33735.0
+Norway,2016,44908.0
+Norway,2017,62342.0
+Norway,2018,72734.0
+Norway,2019,79669.0
+Norway,2020,105725.0
+Poland,2010,16.0
+Poland,2011,43.0
+Poland,2012,48.0
+Poland,2013,51.0
+Poland,2014,196.0
+Poland,2015,331.0
+Poland,2016,712.0
+Poland,2017,1603.0
+Poland,2018,2095.0
+Poland,2019,4123.0
+Poland,2020,9880.0
+Portugal,2010,719.0
+Portugal,2011,189.0
+Portugal,2012,52.0
+Portugal,2013,178.0
+Portugal,2014,202.0
+Portugal,2015,1115.0
+Portugal,2016,1839.0
+Portugal,2017,4394.0
+Portugal,2018,8337.0
+Portugal,2019,12681.0
+Portugal,2020,19995.0
+South Africa,2013,34.0
+South Africa,2014,15.0
+South Africa,2015,241.0
+South Africa,2016,377.0
+South Africa,2017,195.0
+South Africa,2018,148.0
+South Africa,2019,228.0
+South Africa,2020,170.0
+South Korea,2010,61.0
+South Korea,2011,274.0
+South Korea,2012,514.0
+South Korea,2013,598.0
+South Korea,2014,1257.0
+South Korea,2015,3332.0
+South Korea,2016,5074.0
+South Korea,2017,14715.0
+South Korea,2018,60759.0
+South Korea,2019,40332.0
+South Korea,2020,45621.0
+Spain,2010,76.0
+Spain,2011,386.0
+Spain,2012,427.0
+Spain,2013,883.0
+Spain,2014,1734.0
+Spain,2015,2127.0
+Spain,2016,3516.0
+Spain,2017,7448.0
+Spain,2018,11640.0
+Spain,2019,17477.0
+Spain,2020,42309.0
+Sweden,2010,4.0
+Sweden,2011,178.0
+Sweden,2012,928.0
+Sweden,2013,1550.0
+Sweden,2014,4667.0
+Sweden,2015,8588.0
+Sweden,2016,13418.000244140625
+Sweden,2017,20359.0
+Sweden,2018,28958.0
+Sweden,2019,40704.0
+Sweden,2020,94236.0
+Switzerland,2010,137.0
+Switzerland,2011,436.0
+Switzerland,2012,737.0
+Switzerland,2013,1323.0
+Switzerland,2014,2892.0
+Switzerland,2015,5636.0
+Switzerland,2016,6150.0
+Switzerland,2017,8424.0
+Switzerland,2018,9526.0
+Switzerland,2019,17499.0
+Switzerland,2020,33779.0
+United Kingdom,2010,276.0
+United Kingdom,2011,1218.0
+United Kingdom,2012,2693.0
+United Kingdom,2013,3752.0
+United Kingdom,2014,14743.0
+United Kingdom,2015,29340.0
+United Kingdom,2016,37920.0
+United Kingdom,2017,47286.599609375
+United Kingdom,2018,50398.0595703125
+United Kingdom,2019,75055.0
+United Kingdom,2020,176135.0
+United States,2010,1191.0
+United States,2011,17730.0
+United States,2012,53240.0
+United States,2013,96700.0
+United States,2014,118835.0
+United States,2015,113973.0
+United States,2016,160690.0
+United States,2017,200619.0
+United States,2018,364004.0
+United States,2019,328650.0
+United States,2020,296337.0
+World,2010,8289.0
+World,2011,48331.16015625
+World,2012,118342.0
+World,2013,204257.0
+World,2014,329213.71099853516
+World,2015,548157.0
+World,2016,754380.28125
+World,2017,1178009.28125
+World,2018,2014482.0
+World,2019,2123872.0
+World,2020,2986659.0
