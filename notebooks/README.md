@@ -1,4 +1,4 @@
-# Notebooks for ev-net-impact
+### ev-net-impact/notebooks
 
 This folder contains the notebooks used in the ev-net-impact project.
 
