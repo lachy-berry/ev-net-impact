@@ -5,7 +5,7 @@ Data collection, engineering and visualisation project using MySQL, Pandas, and 
 [The real climate impact of electric vehicles](https://public.tableau.com/app/profile/lachy.berry/viz/Therealclimateimpactofelectricvehicles/EV_impact)
 
 ## About this project
-The adoption of electric vehicles is touted as a key stepping stone in the global transition to net zero. While true, the carbon efficiency of EVs will always be tied to electricity production. Reliance on fossil fuel for electricity simply shifts emissions from petrol stations to charging stations and from exhaust pipes to power plants.
+The adoption of electric vehicles is touted as a key stepping stone in the global transition to net zero. While true, the carbon efficiency of EVs will always be tied to electricity production. Reliance on fossil fuels for electricity simply shifts emissions from petrol stations to charging stations and from exhaust pipes to power plants.
 
 The aim of this project is to identify how much impact electric vehicles actually have on carbon emissions around the world. Are they that much cleaner than petrol-powered alternatives?
 
