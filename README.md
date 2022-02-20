@@ -12,7 +12,7 @@ The aim of this project is to identify how much impact electric vehicles actuall
 Answering this question will require understanding how each country generates electricity, how much power electric vehicles need to run, and how much fuel conventional vehicles guzzle.
 
 ## Repository structure
-`data` stores all datasets used in this project. The `source` subfolder contains all data downloaded, replicated and scraped from online sources without alteration. `interm` contains intermediate tables generated through cleaning and engineering processes. `final` contains the complete and final tables created in MySQL from source and intermediate data for querying later on.
+`data` stores all datasets used in this project. The `source` subfolder contains all data downloaded, replicated and scraped from online sources without alteration. `tables` contains SQL tables created as part of the data schema for this project from cleansed source data. `views` contains the views (virtual tables) generated from schema tables to simplify querying later on.
 
 `sql_queries` contains the results corresponding to the MySQL queries used for this project. Results are uploaded to Tableau Online and used to create visualisations in the final dashboard.
 
